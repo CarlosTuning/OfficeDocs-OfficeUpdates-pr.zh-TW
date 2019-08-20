@@ -9,136 +9,139 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 提供測試人員 Windows Desktop 每月通道「測試人員 - 快」版本的更新歷程記錄
-ms.openlocfilehash: ef5690f0d59b8aa8c6a28fb011a9dea920ac5a10
-ms.sourcegitcommit: fa36d5fbddce8fc94c98eaf81acdfa2fce370958
+ms.openlocfilehash: 4522d5ef58a81a3cf6ff0072343572c8ddbb4cc8
+ms.sourcegitcommit: 0532571587f56b45f04f8fe8e19db01196182d9d
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/15/2019
-ms.locfileid: "36429947"
+ms.lasthandoff: 08/19/2019
+ms.locfileid: "36464246"
 ---
-# <a name="update-history-for-office-insider-channel"></a><span data-ttu-id="b3c87-103">Office 測試人員通道的更新歷程記錄</span><span class="sxs-lookup"><span data-stu-id="b3c87-103">Update history for Office Insider Channel</span></span>
+# <a name="update-history-for-office-insider-channel"></a><span data-ttu-id="f1b1e-103">Office 測試人員通道的更新歷程記錄</span><span class="sxs-lookup"><span data-stu-id="f1b1e-103">Update history for Office Insider Channel</span></span>
 
-<span data-ttu-id="b3c87-p101">測試人員，您好！如果您想知道是否已經安裝最新的更新，或是您正在尋找最近測試人員組建的清單，那麼您找對地方了！按一下[這裡](https://insider.office.com/)以獲取有關測試人員計畫的詳細資訊。</span><span class="sxs-lookup"><span data-stu-id="b3c87-p101">Hello, Insiders! If you're wondering whether you have the latest update installed or are looking for a list of recent Insider build, you're in the right place. Click [here](https://insider.office.com/) for more information on the Insiders Program.</span></span>
+<span data-ttu-id="f1b1e-p101">測試人員，您好！如果您想知道是否已經安裝最新的更新，或是您正在尋找最近測試人員組建的清單，那麼您找對地方了！按一下[這裡](https://insider.office.com/)以獲取有關測試人員計畫的詳細資訊。</span><span class="sxs-lookup"><span data-stu-id="f1b1e-p101">Hello, Insiders! If you're wondering whether you have the latest update installed or are looking for a list of recent Insider build, you're in the right place. Click [here](https://insider.office.com/) for more information on the Insiders Program.</span></span>
 
 > [!NOTE]
-> - <span data-ttu-id="b3c87-107">此處的更新歷程記錄會列出發行的所有組建</span><span class="sxs-lookup"><span data-stu-id="b3c87-107">The Update History here lists all builds released</span></span>
-> - <span data-ttu-id="b3c87-108">版本資訊更新的頻率較慢，可能會彙集多個組建的更新，直到版本資訊發佈的組建編號為止。</span><span class="sxs-lookup"><span data-stu-id="b3c87-108">Release notes are updated on a slower cadence and may be a compilation of updates for multiple builds up to the release notes published build number.</span></span>
+> - <span data-ttu-id="f1b1e-107">此處的更新歷程記錄會列出發行的所有組建</span><span class="sxs-lookup"><span data-stu-id="f1b1e-107">The Update History here lists all builds released</span></span>
+> - <span data-ttu-id="f1b1e-108">版本資訊更新的頻率較慢，可能會彙集多個組建的更新，直到版本資訊發佈的組建編號為止。</span><span class="sxs-lookup"><span data-stu-id="f1b1e-108">Release notes are updated on a slower cadence and may be a compilation of updates for multiple builds up to the release notes published build number.</span></span>
 
 
 
-## <a name="office-insider-versions-and-builds"></a><span data-ttu-id="b3c87-109">Office 測試人員的版本和組建</span><span class="sxs-lookup"><span data-stu-id="b3c87-109">Office Insider versions and builds</span></span>
+## <a name="office-insider-versions-and-builds"></a><span data-ttu-id="f1b1e-109">Office 測試人員的版本和組建</span><span class="sxs-lookup"><span data-stu-id="f1b1e-109">Office Insider versions and builds</span></span>
 
-<span data-ttu-id="b3c87-p102">如果您已經註冊測試人員層級，您會經常取得包含有新功能和增強功能的更新。以下清單顯示最近測試人員版本和組建的歷程記錄，**最近發行的組建會優先列出**。新組建會包含有先前組建內含的所有更新。</span><span class="sxs-lookup"><span data-stu-id="b3c87-p102">If you're enrolled in the Insider level you get frequent updates with new features and improvements. The following list shows a history of recent Insider versions and builds, with **the most recently released build listed first**. New builds contain all the updates contained in previous builds.</span></span> 
+<span data-ttu-id="f1b1e-p102">如果您已經註冊測試人員層級，您會經常取得包含有新功能和增強功能的更新。以下清單顯示最近測試人員版本和組建的歷程記錄，**最近發行的組建會優先列出**。新組建會包含有先前組建內含的所有更新。</span><span class="sxs-lookup"><span data-stu-id="f1b1e-p102">If you're enrolled in the Insider level you get frequent updates with new features and improvements. The following list shows a history of recent Insider versions and builds, with **the most recently released build listed first**. New builds contain all the updates contained in previous builds.</span></span> 
 
-<span data-ttu-id="b3c87-113">若要尋找版本資訊，請參閱 [Office for Windows desktop 的測試人員版本資訊](https://docs.microsoft.com/zh-TW/OfficeUpdates/release-notes-office-insider)。</span><span class="sxs-lookup"><span data-stu-id="b3c87-113">To find release notes, see [Insider release notes for Office for Windows desktop](https://docs.microsoft.com/en-us/OfficeUpdates/release-notes-office-insider).</span></span>
+<span data-ttu-id="f1b1e-113">若要尋找版本資訊，請參閱 [Office for Windows desktop 的測試人員版本資訊](https://docs.microsoft.com/zh-TW/OfficeUpdates/release-notes-office-insider)。</span><span class="sxs-lookup"><span data-stu-id="f1b1e-113">To find release notes, see [Insider release notes for Office for Windows desktop](https://docs.microsoft.com/en-us/OfficeUpdates/release-notes-office-insider).</span></span>
 
 [//]: # (DO NOT REMOVE)
 
-<span data-ttu-id="b3c87-115">**2019 年 8 月 15 日**</span><span class="sxs-lookup"><span data-stu-id="b3c87-115">**August 15, 2019**</span></span><br/>
-<span data-ttu-id="b3c87-116">版本 1909 (組建 12013.20000)</span><span class="sxs-lookup"><span data-stu-id="b3c87-116">Version 1909 (Build 12013.20000)</span></span><br/>
+<span data-ttu-id="f1b1e-115">**2019 年 8 月 19 日**</span><span class="sxs-lookup"><span data-stu-id="f1b1e-115">**August 19, 2019**</span></span><br/>
+<span data-ttu-id="f1b1e-116">版本 1909 (組建 12015.20004)</span><span class="sxs-lookup"><span data-stu-id="f1b1e-116">Version 1909 (Build 12015.20004)</span></span><br/>
 
-<span data-ttu-id="b3c87-117">**2019 年 8 月 13 日**</span><span class="sxs-lookup"><span data-stu-id="b3c87-117">**August 13, 2019**</span></span><br/>
-<span data-ttu-id="b3c87-118">版本 1909 (組建 12008.20000)</span><span class="sxs-lookup"><span data-stu-id="b3c87-118">Version 1909 (Build 12008.20000)</span></span><br/>
+<span data-ttu-id="f1b1e-117">**2019 年 8 月 15 日**</span><span class="sxs-lookup"><span data-stu-id="f1b1e-117">**August 15, 2019**</span></span><br/>
+<span data-ttu-id="f1b1e-118">版本 1909 (組建 12013.20000)</span><span class="sxs-lookup"><span data-stu-id="f1b1e-118">Version 1909 (Build 12013.20000)</span></span><br/>
 
-<span data-ttu-id="b3c87-119">**2019 年 8 月 5 日**</span><span class="sxs-lookup"><span data-stu-id="b3c87-119">**August 05, 2019**</span></span><br/>
-<span data-ttu-id="b3c87-120">版本 1909 (組建 12001.20000)</span><span class="sxs-lookup"><span data-stu-id="b3c87-120">Version 1909 (Build 12001.20000)</span></span><br/>
+<span data-ttu-id="f1b1e-119">**2019 年 8 月 13 日**</span><span class="sxs-lookup"><span data-stu-id="f1b1e-119">**August 13, 2019**</span></span><br/>
+<span data-ttu-id="f1b1e-120">版本 1909 (組建 12008.20000)</span><span class="sxs-lookup"><span data-stu-id="f1b1e-120">Version 1909 (Build 12008.20000)</span></span><br/>
 
-<span data-ttu-id="b3c87-121">**2019 年 7 月 31 日**</span><span class="sxs-lookup"><span data-stu-id="b3c87-121">**July 31, 2019**</span></span><br/>
-<span data-ttu-id="b3c87-122">版本 1908 (組建 11929.20002)</span><span class="sxs-lookup"><span data-stu-id="b3c87-122">Version 1908 (Build 11929.20002)</span></span><br/>
+<span data-ttu-id="f1b1e-121">**2019 年 8 月 5 日**</span><span class="sxs-lookup"><span data-stu-id="f1b1e-121">**August 05, 2019**</span></span><br/>
+<span data-ttu-id="f1b1e-122">版本 1909 (組建 12001.20000)</span><span class="sxs-lookup"><span data-stu-id="f1b1e-122">Version 1909 (Build 12001.20000)</span></span><br/>
 
-<span data-ttu-id="b3c87-123">**2019 年 7 月 29 日**</span><span class="sxs-lookup"><span data-stu-id="b3c87-123">**July 29, 2019**</span></span><br/>
-<span data-ttu-id="b3c87-124">版本 1908 (組建 11924.20004)</span><span class="sxs-lookup"><span data-stu-id="b3c87-124">Version 1908 (Build 11924.20004)</span></span><br/>
+<span data-ttu-id="f1b1e-123">**2019 年 7 月 31 日**</span><span class="sxs-lookup"><span data-stu-id="f1b1e-123">**July 31, 2019**</span></span><br/>
+<span data-ttu-id="f1b1e-124">版本 1908 (組建 11929.20002)</span><span class="sxs-lookup"><span data-stu-id="f1b1e-124">Version 1908 (Build 11929.20002)</span></span><br/>
 
-<span data-ttu-id="b3c87-125">**2019 年 7 月 22 日**</span><span class="sxs-lookup"><span data-stu-id="b3c87-125">**July 22, 2019**</span></span><br/>
-<span data-ttu-id="b3c87-126">版本 1908 (組建 11916.20000)</span><span class="sxs-lookup"><span data-stu-id="b3c87-126">Version 1908 (Build 11916.20000)</span></span><br/>
+<span data-ttu-id="f1b1e-125">**2019 年 7 月 29 日**</span><span class="sxs-lookup"><span data-stu-id="f1b1e-125">**July 29, 2019**</span></span><br/>
+<span data-ttu-id="f1b1e-126">版本 1908 (組建 11924.20004)</span><span class="sxs-lookup"><span data-stu-id="f1b1e-126">Version 1908 (Build 11924.20004)</span></span><br/>
 
-<span data-ttu-id="b3c87-127">**2019 年 7 月 15 日**</span><span class="sxs-lookup"><span data-stu-id="b3c87-127">**July 15, 2019**</span></span><br/>
-<span data-ttu-id="b3c87-128">版本 1908 (組建 11911.20000)</span><span class="sxs-lookup"><span data-stu-id="b3c87-128">Version 1908 (Build 11911.20000)</span></span><br/>
+<span data-ttu-id="f1b1e-127">**2019 年 7 月 22 日**</span><span class="sxs-lookup"><span data-stu-id="f1b1e-127">**July 22, 2019**</span></span><br/>
+<span data-ttu-id="f1b1e-128">版本 1908 (組建 11916.20000)</span><span class="sxs-lookup"><span data-stu-id="f1b1e-128">Version 1908 (Build 11916.20000)</span></span><br/>
 
-<span data-ttu-id="b3c87-129">**2019 年 7 月 9 日**</span><span class="sxs-lookup"><span data-stu-id="b3c87-129">**July 9, 2019**</span></span><br/>
-<span data-ttu-id="b3c87-130">版本 1907 (組建 11901.20038)</span><span class="sxs-lookup"><span data-stu-id="b3c87-130">Version 1907 (Build 11901.20038)</span></span><br/>
+<span data-ttu-id="f1b1e-129">**2019 年 7 月 15 日**</span><span class="sxs-lookup"><span data-stu-id="f1b1e-129">**July 15, 2019**</span></span><br/>
+<span data-ttu-id="f1b1e-130">版本 1908 (組建 11911.20000)</span><span class="sxs-lookup"><span data-stu-id="f1b1e-130">Version 1908 (Build 11911.20000)</span></span><br/>
 
-<span data-ttu-id="b3c87-131">**2019 年 7 月 3 日**</span><span class="sxs-lookup"><span data-stu-id="b3c87-131">**July 3, 2019**</span></span><br/>
-<span data-ttu-id="b3c87-132">版本 1907 (組建 11901.20018)</span><span class="sxs-lookup"><span data-stu-id="b3c87-132">Version 1907 (Build 11901.20018)</span></span><br/>
+<span data-ttu-id="f1b1e-131">**2019 年 7 月 9 日**</span><span class="sxs-lookup"><span data-stu-id="f1b1e-131">**July 9, 2019**</span></span><br/>
+<span data-ttu-id="f1b1e-132">版本 1907 (組建 11901.20038)</span><span class="sxs-lookup"><span data-stu-id="f1b1e-132">Version 1907 (Build 11901.20038)</span></span><br/>
 
-<span data-ttu-id="b3c87-133">**2019 年 7 月 1 日**</span><span class="sxs-lookup"><span data-stu-id="b3c87-133">**July 1, 2019**</span></span><br/>
-<span data-ttu-id="b3c87-134">版本 1907 (組建 11827.20002)</span><span class="sxs-lookup"><span data-stu-id="b3c87-134">Version 1907 (Build 11827.20002)</span></span><br/>
+<span data-ttu-id="f1b1e-133">**2019 年 7 月 3 日**</span><span class="sxs-lookup"><span data-stu-id="f1b1e-133">**July 3, 2019**</span></span><br/>
+<span data-ttu-id="f1b1e-134">版本 1907 (組建 11901.20018)</span><span class="sxs-lookup"><span data-stu-id="f1b1e-134">Version 1907 (Build 11901.20018)</span></span><br/>
 
-<span data-ttu-id="b3c87-135">**2019 年 6 月 24日**</span><span class="sxs-lookup"><span data-stu-id="b3c87-135">**June 24, 2019**</span></span><br/>
-<span data-ttu-id="b3c87-136">版本 1907 (組建 11819.20002)</span><span class="sxs-lookup"><span data-stu-id="b3c87-136">Version 1907 (Build 11819.20002)</span></span><br/>
+<span data-ttu-id="f1b1e-135">**2019 年 7 月 1 日**</span><span class="sxs-lookup"><span data-stu-id="f1b1e-135">**July 1, 2019**</span></span><br/>
+<span data-ttu-id="f1b1e-136">版本 1907 (組建 11827.20002)</span><span class="sxs-lookup"><span data-stu-id="f1b1e-136">Version 1907 (Build 11827.20002)</span></span><br/>
 
-<span data-ttu-id="b3c87-137">**2019 年 6 月 19 日**</span><span class="sxs-lookup"><span data-stu-id="b3c87-137">**June 19, 2019**</span></span><br/>
-<span data-ttu-id="b3c87-138">版本 1907 (組建 11815.20002)</span><span class="sxs-lookup"><span data-stu-id="b3c87-138">Version 1907 (Build 11815.20002)</span></span><br/>
+<span data-ttu-id="f1b1e-137">**2019 年 6 月 24日**</span><span class="sxs-lookup"><span data-stu-id="f1b1e-137">**June 24, 2019**</span></span><br/>
+<span data-ttu-id="f1b1e-138">版本 1907 (組建 11819.20002)</span><span class="sxs-lookup"><span data-stu-id="f1b1e-138">Version 1907 (Build 11819.20002)</span></span><br/>
 
-<span data-ttu-id="b3c87-139">**2019 年 6 月 11日**</span><span class="sxs-lookup"><span data-stu-id="b3c87-139">**June 11, 2019**</span></span><br/>
-<span data-ttu-id="b3c87-140">版本 1907 (組建 11807.20000)</span><span class="sxs-lookup"><span data-stu-id="b3c87-140">Version 1907 (Build 11807.20000)</span></span><br/>
+<span data-ttu-id="f1b1e-139">**2019 年 6 月 19 日**</span><span class="sxs-lookup"><span data-stu-id="f1b1e-139">**June 19, 2019**</span></span><br/>
+<span data-ttu-id="f1b1e-140">版本 1907 (組建 11815.20002)</span><span class="sxs-lookup"><span data-stu-id="f1b1e-140">Version 1907 (Build 11815.20002)</span></span><br/>
 
-<span data-ttu-id="b3c87-141">**2019 年 6 月 4 日**</span><span class="sxs-lookup"><span data-stu-id="b3c87-141">**June 04, 2019**</span></span><br/>
-<span data-ttu-id="b3c87-142">版本 1906 (組建 11727.20064)</span><span class="sxs-lookup"><span data-stu-id="b3c87-142">Version 1906 (Build 11727.20064)</span></span><br/>
+<span data-ttu-id="f1b1e-141">**2019 年 6 月 11日**</span><span class="sxs-lookup"><span data-stu-id="f1b1e-141">**June 11, 2019**</span></span><br/>
+<span data-ttu-id="f1b1e-142">版本 1907 (組建 11807.20000)</span><span class="sxs-lookup"><span data-stu-id="f1b1e-142">Version 1907 (Build 11807.20000)</span></span><br/>
 
-
-<span data-ttu-id="b3c87-143">**2019 年 5 月 29 日**</span><span class="sxs-lookup"><span data-stu-id="b3c87-143">**May 29, 2019**</span></span><br/>
-<span data-ttu-id="b3c87-144">版本 1906 (組建 11722.20008)</span><span class="sxs-lookup"><span data-stu-id="b3c87-144">Version 1906 (Build 11722.20008)</span></span><br/>
-
-<span data-ttu-id="b3c87-145">**2019 年 5 月 22 日**</span><span class="sxs-lookup"><span data-stu-id="b3c87-145">**May 22, 2019**</span></span><br/> <span data-ttu-id="b3c87-146">版本 1906 (組建 11715.20002)</span><span class="sxs-lookup"><span data-stu-id="b3c87-146">Version 1906 (Build 11715.20002)</span></span><br/> 
-
-<span data-ttu-id="b3c87-147">**2019 年 5 月 14 日**</span><span class="sxs-lookup"><span data-stu-id="b3c87-147">**May 14, 2019**</span></span><br/> <span data-ttu-id="b3c87-148">版本 1906 (組建 11708.20006)</span><span class="sxs-lookup"><span data-stu-id="b3c87-148">Version 1906 (Build 11708.20006)</span></span><br/>
-
-<span data-ttu-id="b3c87-149">**2019 年 5 月 6 日**</span><span class="sxs-lookup"><span data-stu-id="b3c87-149">**May 06, 2019**</span></span><br/>
-<span data-ttu-id="b3c87-150">版本 1906 (組建 11702.20000)</span><span class="sxs-lookup"><span data-stu-id="b3c87-150">Version 1906 (Build 11702.20000)</span></span><br/>
-
-<span data-ttu-id="b3c87-151">**2019 年 5 月 2 日**</span><span class="sxs-lookup"><span data-stu-id="b3c87-151">**May 02, 2019**</span></span><br/>
-<span data-ttu-id="b3c87-152">版本 1905 (組建 11629.20008)</span><span class="sxs-lookup"><span data-stu-id="b3c87-152">Version 1905 (Build 11629.20008)</span></span><br/>
-
-<span data-ttu-id="b3c87-153">**2019 年 4 月 29 日**</span><span class="sxs-lookup"><span data-stu-id="b3c87-153">**April 29, 2019**</span></span><br/>
-<span data-ttu-id="b3c87-154">版本 1905 (組建 11624.20000)</span><span class="sxs-lookup"><span data-stu-id="b3c87-154">Version 1905 (Build 11624.20000)</span></span><br/>
-
-<span data-ttu-id="b3c87-155">**2019 年 4 月 23 日**</span><span class="sxs-lookup"><span data-stu-id="b3c87-155">**April 23, 2019**</span></span><br/> <span data-ttu-id="b3c87-156">版本 1905 (組建 11617.20002)</span><span class="sxs-lookup"><span data-stu-id="b3c87-156">Version 1905 (Build 11617.20002)</span></span><br/>
-
-<span data-ttu-id="b3c87-157">**2019 年 4 月 15 日**</span><span class="sxs-lookup"><span data-stu-id="b3c87-157">**April 15, 2019**</span></span><br/> <span data-ttu-id="b3c87-158">版本 1905 (組建 11609.20002)</span><span class="sxs-lookup"><span data-stu-id="b3c87-158">Version 1905 (Build 11609.20002)</span></span><br/>
-
-<span data-ttu-id="b3c87-159">**2019 年 4 月 7 日**</span><span class="sxs-lookup"><span data-stu-id="b3c87-159">**April 7, 2019**</span></span><br/> <span data-ttu-id="b3c87-160">版本 1904 (組建 11601.20042)</span><span class="sxs-lookup"><span data-stu-id="b3c87-160">Version 1904 (Build 11601.20042)</span></span><br/>
-
-<span data-ttu-id="b3c87-161">**2019 年 3 月 18 日**</span><span class="sxs-lookup"><span data-stu-id="b3c87-161">**March 18, 2019**</span></span><br/> <span data-ttu-id="b3c87-162">版本 1904 (組建 11520.20004)</span><span class="sxs-lookup"><span data-stu-id="b3c87-162">Version 1904 (Build 11520.20004)</span></span><br/>
-
-<span data-ttu-id="b3c87-163">**2019 年 3 月 11 日**</span><span class="sxs-lookup"><span data-stu-id="b3c87-163">**March 11, 2019**</span></span><br/> <span data-ttu-id="b3c87-164">版本 1904 (組建 11504.20000)</span><span class="sxs-lookup"><span data-stu-id="b3c87-164">Version 1904 (Build 11504.20000)</span></span><br/>
-
-<span data-ttu-id="b3c87-165">**2019 年 3 月 1 日**</span><span class="sxs-lookup"><span data-stu-id="b3c87-165">**March 1, 2019**</span></span><br/> <span data-ttu-id="b3c87-166">版本 1903 (組建 11425.20036)</span><span class="sxs-lookup"><span data-stu-id="b3c87-166">Version 1903 (Build 11425.20036)</span></span><br/> 
-
-<span data-ttu-id="b3c87-167">**2019 年 2 月 25 日**</span><span class="sxs-lookup"><span data-stu-id="b3c87-167">**February 25, 2019**</span></span><br/> <span data-ttu-id="b3c87-168">版本 1903 (組建 11414.20014)</span><span class="sxs-lookup"><span data-stu-id="b3c87-168">Version 1903 (Build 11414.20014)</span></span><br/> 
-
-<span data-ttu-id="b3c87-169">**2019 年 2 月 12 日**</span><span class="sxs-lookup"><span data-stu-id="b3c87-169">**February 12, 2019**</span></span><br/> <span data-ttu-id="b3c87-170">版本 1903 (組建 11406.20002)</span><span class="sxs-lookup"><span data-stu-id="b3c87-170">Version 1903 (Build 11406.20002)</span></span><br/> 
-
-<span data-ttu-id="b3c87-171">**2019 年 2 月 9 日**</span><span class="sxs-lookup"><span data-stu-id="b3c87-171">**February 9, 2019**</span></span><br/> <span data-ttu-id="b3c87-172">版本 1903 (組建 11330.20014)</span><span class="sxs-lookup"><span data-stu-id="b3c87-172">Version 1903 (Build 11330.20014)</span></span><br/> 
-
-<span data-ttu-id="b3c87-173">**2019 年 1 月 30 日**</span><span class="sxs-lookup"><span data-stu-id="b3c87-173">**January 30, 2019**</span></span><br/> <span data-ttu-id="b3c87-174">版本 1902 (組建 11326.20000)</span><span class="sxs-lookup"><span data-stu-id="b3c87-174">Version 1902 (Build 11326.20000)</span></span><br/> 
-
-<span data-ttu-id="b3c87-175">**2019 年 1 月 25 日**</span><span class="sxs-lookup"><span data-stu-id="b3c87-175">**January 25, 2019**</span></span><br/> <span data-ttu-id="b3c87-176">版本 1902 (組建 11316.20026)</span><span class="sxs-lookup"><span data-stu-id="b3c87-176">Version 1902 (Build 11316.20026)</span></span><br/> 
-
-<span data-ttu-id="b3c87-177">**2019 年 1 月 22 日**</span><span class="sxs-lookup"><span data-stu-id="b3c87-177">**January 22, 2019**</span></span><br/> <span data-ttu-id="b3c87-178">版本 1902 (組建 11310.20016)</span><span class="sxs-lookup"><span data-stu-id="b3c87-178">Version 1902 (Build 11310.20016)</span></span><br/> 
-
-<span data-ttu-id="b3c87-179">**2019 年 1 月 17 日**</span><span class="sxs-lookup"><span data-stu-id="b3c87-179">**January 17, 2019**</span></span><br/> <span data-ttu-id="b3c87-180">版本 1902 (組建 11231.20080)</span><span class="sxs-lookup"><span data-stu-id="b3c87-180">Version 1902 (Build 11231.20080)</span></span><br/>
-
-<span data-ttu-id="b3c87-181">**2019 年 1 月 10 日**</span><span class="sxs-lookup"><span data-stu-id="b3c87-181">**January 10, 2019**</span></span><br/> <span data-ttu-id="b3c87-182">版本 1902 (組建 11231.20066)</span><span class="sxs-lookup"><span data-stu-id="b3c87-182">Version 1902 (build 11231.20066)</span></span><br/> 
+<span data-ttu-id="f1b1e-143">**2019 年 6 月 4 日**</span><span class="sxs-lookup"><span data-stu-id="f1b1e-143">**June 04, 2019**</span></span><br/>
+<span data-ttu-id="f1b1e-144">版本 1906 (組建 11727.20064)</span><span class="sxs-lookup"><span data-stu-id="f1b1e-144">Version 1906 (Build 11727.20064)</span></span><br/>
 
 
-## <a name="insider-community"></a><span data-ttu-id="b3c87-183">測試人員社群</span><span class="sxs-lookup"><span data-stu-id="b3c87-183">Insider community</span></span>
+<span data-ttu-id="f1b1e-145">**2019 年 5 月 29 日**</span><span class="sxs-lookup"><span data-stu-id="f1b1e-145">**May 29, 2019**</span></span><br/>
+<span data-ttu-id="f1b1e-146">版本 1906 (組建 11722.20008)</span><span class="sxs-lookup"><span data-stu-id="f1b1e-146">Version 1906 (Build 11722.20008)</span></span><br/>
 
-<span data-ttu-id="b3c87-184">![影像顯示測試人員社群。</span><span class="sxs-lookup"><span data-stu-id="b3c87-184">![Image showing insider community.</span></span> ](images/insidercommunity.png) <br/>
-<span data-ttu-id="b3c87-185">**Office 測試人員社群**</span><span class="sxs-lookup"><span data-stu-id="b3c87-185">**Office Insider community**</span></span><br/> <span data-ttu-id="b3c87-186">如果您想要與其他測試人員交談，請張貼在我們社群中。</span><span class="sxs-lookup"><span data-stu-id="b3c87-186">If you want to chat with other Insiders, post in our community.</span></span><br/><span data-ttu-id="b3c87-187"> 
-[造訪社群](https://go.microsoft.com/fwlink/?linkid=843493)</span><span class="sxs-lookup"><span data-stu-id="b3c87-187"> 
+<span data-ttu-id="f1b1e-147">**2019 年 5 月 22 日**</span><span class="sxs-lookup"><span data-stu-id="f1b1e-147">**May 22, 2019**</span></span><br/> <span data-ttu-id="f1b1e-148">版本 1906 (組建 11715.20002)</span><span class="sxs-lookup"><span data-stu-id="f1b1e-148">Version 1906 (Build 11715.20002)</span></span><br/> 
+
+<span data-ttu-id="f1b1e-149">**2019 年 5 月 14 日**</span><span class="sxs-lookup"><span data-stu-id="f1b1e-149">**May 14, 2019**</span></span><br/> <span data-ttu-id="f1b1e-150">版本 1906 (組建 11708.20006)</span><span class="sxs-lookup"><span data-stu-id="f1b1e-150">Version 1906 (Build 11708.20006)</span></span><br/>
+
+<span data-ttu-id="f1b1e-151">**2019 年 5 月 6 日**</span><span class="sxs-lookup"><span data-stu-id="f1b1e-151">**May 06, 2019**</span></span><br/>
+<span data-ttu-id="f1b1e-152">版本 1906 (組建 11702.20000)</span><span class="sxs-lookup"><span data-stu-id="f1b1e-152">Version 1906 (Build 11702.20000)</span></span><br/>
+
+<span data-ttu-id="f1b1e-153">**2019 年 5 月 2 日**</span><span class="sxs-lookup"><span data-stu-id="f1b1e-153">**May 02, 2019**</span></span><br/>
+<span data-ttu-id="f1b1e-154">版本 1905 (組建 11629.20008)</span><span class="sxs-lookup"><span data-stu-id="f1b1e-154">Version 1905 (Build 11629.20008)</span></span><br/>
+
+<span data-ttu-id="f1b1e-155">**2019 年 4 月 29 日**</span><span class="sxs-lookup"><span data-stu-id="f1b1e-155">**April 29, 2019**</span></span><br/>
+<span data-ttu-id="f1b1e-156">版本 1905 (組建 11624.20000)</span><span class="sxs-lookup"><span data-stu-id="f1b1e-156">Version 1905 (Build 11624.20000)</span></span><br/>
+
+<span data-ttu-id="f1b1e-157">**2019 年 4 月 23 日**</span><span class="sxs-lookup"><span data-stu-id="f1b1e-157">**April 23, 2019**</span></span><br/> <span data-ttu-id="f1b1e-158">版本 1905 (組建 11617.20002)</span><span class="sxs-lookup"><span data-stu-id="f1b1e-158">Version 1905 (Build 11617.20002)</span></span><br/>
+
+<span data-ttu-id="f1b1e-159">**2019 年 4 月 15 日**</span><span class="sxs-lookup"><span data-stu-id="f1b1e-159">**April 15, 2019**</span></span><br/> <span data-ttu-id="f1b1e-160">版本 1905 (組建 11609.20002)</span><span class="sxs-lookup"><span data-stu-id="f1b1e-160">Version 1905 (Build 11609.20002)</span></span><br/>
+
+<span data-ttu-id="f1b1e-161">**2019 年 4 月 7 日**</span><span class="sxs-lookup"><span data-stu-id="f1b1e-161">**April 7, 2019**</span></span><br/> <span data-ttu-id="f1b1e-162">版本 1904 (組建 11601.20042)</span><span class="sxs-lookup"><span data-stu-id="f1b1e-162">Version 1904 (Build 11601.20042)</span></span><br/>
+
+<span data-ttu-id="f1b1e-163">**2019 年 3 月 18 日**</span><span class="sxs-lookup"><span data-stu-id="f1b1e-163">**March 18, 2019**</span></span><br/> <span data-ttu-id="f1b1e-164">版本 1904 (組建 11520.20004)</span><span class="sxs-lookup"><span data-stu-id="f1b1e-164">Version 1904 (Build 11520.20004)</span></span><br/>
+
+<span data-ttu-id="f1b1e-165">**2019 年 3 月 11 日**</span><span class="sxs-lookup"><span data-stu-id="f1b1e-165">**March 11, 2019**</span></span><br/> <span data-ttu-id="f1b1e-166">版本 1904 (組建 11504.20000)</span><span class="sxs-lookup"><span data-stu-id="f1b1e-166">Version 1904 (Build 11504.20000)</span></span><br/>
+
+<span data-ttu-id="f1b1e-167">**2019 年 3 月 1 日**</span><span class="sxs-lookup"><span data-stu-id="f1b1e-167">**March 1, 2019**</span></span><br/> <span data-ttu-id="f1b1e-168">版本 1903 (組建 11425.20036)</span><span class="sxs-lookup"><span data-stu-id="f1b1e-168">Version 1903 (Build 11425.20036)</span></span><br/> 
+
+<span data-ttu-id="f1b1e-169">**2019 年 2 月 25 日**</span><span class="sxs-lookup"><span data-stu-id="f1b1e-169">**February 25, 2019**</span></span><br/> <span data-ttu-id="f1b1e-170">版本 1903 (組建 11414.20014)</span><span class="sxs-lookup"><span data-stu-id="f1b1e-170">Version 1903 (Build 11414.20014)</span></span><br/> 
+
+<span data-ttu-id="f1b1e-171">**2019 年 2 月 12 日**</span><span class="sxs-lookup"><span data-stu-id="f1b1e-171">**February 12, 2019**</span></span><br/> <span data-ttu-id="f1b1e-172">版本 1903 (組建 11406.20002)</span><span class="sxs-lookup"><span data-stu-id="f1b1e-172">Version 1903 (Build 11406.20002)</span></span><br/> 
+
+<span data-ttu-id="f1b1e-173">**2019 年 2 月 9 日**</span><span class="sxs-lookup"><span data-stu-id="f1b1e-173">**February 9, 2019**</span></span><br/> <span data-ttu-id="f1b1e-174">版本 1903 (組建 11330.20014)</span><span class="sxs-lookup"><span data-stu-id="f1b1e-174">Version 1903 (Build 11330.20014)</span></span><br/> 
+
+<span data-ttu-id="f1b1e-175">**2019 年 1 月 30 日**</span><span class="sxs-lookup"><span data-stu-id="f1b1e-175">**January 30, 2019**</span></span><br/> <span data-ttu-id="f1b1e-176">版本 1902 (組建 11326.20000)</span><span class="sxs-lookup"><span data-stu-id="f1b1e-176">Version 1902 (Build 11326.20000)</span></span><br/> 
+
+<span data-ttu-id="f1b1e-177">**2019 年 1 月 25 日**</span><span class="sxs-lookup"><span data-stu-id="f1b1e-177">**January 25, 2019**</span></span><br/> <span data-ttu-id="f1b1e-178">版本 1902 (組建 11316.20026)</span><span class="sxs-lookup"><span data-stu-id="f1b1e-178">Version 1902 (Build 11316.20026)</span></span><br/> 
+
+<span data-ttu-id="f1b1e-179">**2019 年 1 月 22 日**</span><span class="sxs-lookup"><span data-stu-id="f1b1e-179">**January 22, 2019**</span></span><br/> <span data-ttu-id="f1b1e-180">版本 1902 (組建 11310.20016)</span><span class="sxs-lookup"><span data-stu-id="f1b1e-180">Version 1902 (Build 11310.20016)</span></span><br/> 
+
+<span data-ttu-id="f1b1e-181">**2019 年 1 月 17 日**</span><span class="sxs-lookup"><span data-stu-id="f1b1e-181">**January 17, 2019**</span></span><br/> <span data-ttu-id="f1b1e-182">版本 1902 (組建 11231.20080)</span><span class="sxs-lookup"><span data-stu-id="f1b1e-182">Version 1902 (Build 11231.20080)</span></span><br/>
+
+<span data-ttu-id="f1b1e-183">**2019 年 1 月 10 日**</span><span class="sxs-lookup"><span data-stu-id="f1b1e-183">**January 10, 2019**</span></span><br/> <span data-ttu-id="f1b1e-184">版本 1902 (組建 11231.20066)</span><span class="sxs-lookup"><span data-stu-id="f1b1e-184">Version 1902 (build 11231.20066)</span></span><br/> 
+
+
+## <a name="insider-community"></a><span data-ttu-id="f1b1e-185">測試人員社群</span><span class="sxs-lookup"><span data-stu-id="f1b1e-185">Insider community</span></span>
+
+<span data-ttu-id="f1b1e-186">![影像顯示測試人員社群。</span><span class="sxs-lookup"><span data-stu-id="f1b1e-186">![Image showing insider community.</span></span> ](images/insidercommunity.png) <br/>
+<span data-ttu-id="f1b1e-187">**Office 測試人員社群**</span><span class="sxs-lookup"><span data-stu-id="f1b1e-187">**Office Insider community**</span></span><br/> <span data-ttu-id="f1b1e-188">如果您想要與其他測試人員交談，請張貼在我們社群中。</span><span class="sxs-lookup"><span data-stu-id="f1b1e-188">If you want to chat with other Insiders, post in our community.</span></span><br/><span data-ttu-id="f1b1e-189"> 
+[造訪社群](https://go.microsoft.com/fwlink/?linkid=843493)</span><span class="sxs-lookup"><span data-stu-id="f1b1e-189"> 
 [Visit the community](https://go.microsoft.com/fwlink/?linkid=843493)</span></span><br/> 
 
-<span data-ttu-id="b3c87-188">![影像顯示 Twitter 圖示。</span><span class="sxs-lookup"><span data-stu-id="b3c87-188">![Image showing twitter icon.</span></span> ](images/twitter.png)<br/>
-<span data-ttu-id="b3c87-189">**Twitter 上的 Office 測試人員**</span><span class="sxs-lookup"><span data-stu-id="b3c87-189">**Office Insider on Twitter**</span></span><br/> <span data-ttu-id="b3c87-190">我們經常會在 @OfficeInsider 張貼有關測試人員版本的資訊，以及為測試人員舉辦特別活動。</span><span class="sxs-lookup"><span data-stu-id="b3c87-190">On @OfficeInsider, we post frequently about Insider releases and host special events for Insiders.</span></span><br/><span data-ttu-id="b3c87-191"> 
-[在 Twitter 上關注我們](https://go.microsoft.com/fwlink/?linkid=717717)</span><span class="sxs-lookup"><span data-stu-id="b3c87-191"> 
+<span data-ttu-id="f1b1e-190">![影像顯示 Twitter 圖示。</span><span class="sxs-lookup"><span data-stu-id="f1b1e-190">![Image showing twitter icon.</span></span> ](images/twitter.png)<br/>
+<span data-ttu-id="f1b1e-191">**Twitter 上的 Office 測試人員**</span><span class="sxs-lookup"><span data-stu-id="f1b1e-191">**Office Insider on Twitter**</span></span><br/> <span data-ttu-id="f1b1e-192">我們經常會在 @OfficeInsider 張貼有關測試人員版本的資訊，以及為測試人員舉辦特別活動。</span><span class="sxs-lookup"><span data-stu-id="f1b1e-192">On @OfficeInsider, we post frequently about Insider releases and host special events for Insiders.</span></span><br/><span data-ttu-id="f1b1e-193"> 
+[在 Twitter 上關注我們](https://go.microsoft.com/fwlink/?linkid=717717)</span><span class="sxs-lookup"><span data-stu-id="f1b1e-193"> 
 [Follow us on Twitter](https://go.microsoft.com/fwlink/?linkid=717717)</span></span><br/> 
 
-<span data-ttu-id="b3c87-192">
+<span data-ttu-id="f1b1e-194">
   [
-  ![影像顯示 Facebook 圖示。](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/zh-TW/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)</span><span class="sxs-lookup"><span data-stu-id="b3c87-192">[![Image showing Facebook icon. ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/en-us/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)</span></span>
+  ![影像顯示 Facebook 圖示。](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/zh-TW/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)</span><span class="sxs-lookup"><span data-stu-id="f1b1e-194">[![Image showing Facebook icon. ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/en-us/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)</span></span>
 
 
-<span data-ttu-id="b3c87-193">**搶先使用新功能**
-[立刻加入 Office 測試人員](https://insider.office.com/)</span><span class="sxs-lookup"><span data-stu-id="b3c87-193">**Get new features first**
+<span data-ttu-id="f1b1e-195">**搶先使用新功能**
+[立刻加入 Office 測試人員](https://insider.office.com/)</span><span class="sxs-lookup"><span data-stu-id="f1b1e-195">**Get new features first**
 [Join Office Insiders](https://insider.office.com/)</span></span>
