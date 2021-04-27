@@ -9,298 +9,298 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 提供測試人員 Windows Desktop 每月通道「測試人員 - 快」版本的更新歷程記錄
-ms.openlocfilehash: ca6c27d38f92a6473e6d863828804459f7bf9616
-ms.sourcegitcommit: d0ba1fc11a61582c601273b2cb96390a5984ff3f
+ms.openlocfilehash: 4ce8c7a02842e588338751947696882cb8e5aeda
+ms.sourcegitcommit: 5f72a0e94cda2cb64636380605806c29bbcdc53f
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/21/2021
-ms.locfileid: "51909278"
+ms.lasthandoff: 04/26/2021
+ms.locfileid: "52026258"
 ---
-# <a name="update-history-for-office-beta-channel"></a><span data-ttu-id="e45f2-103">Office 搶先版通道的更新歷程記錄</span><span class="sxs-lookup"><span data-stu-id="e45f2-103">Update history for Office Beta Channel</span></span>
+# <a name="update-history-for-office-beta-channel"></a>Office 搶先版通道的更新歷程記錄
 
-<span data-ttu-id="e45f2-p101">測試人員，您好！如果您想知道是否已經安裝最新的更新，或是您正在尋找最近測試人員組建的清單，那麼您找對地方了！按一下[這裡](https://insider.office.com/)以獲取有關測試人員計畫的詳細資訊。</span><span class="sxs-lookup"><span data-stu-id="e45f2-p101">Hello, Insiders! If you're wondering whether you have the latest update installed or are looking for a list of recent Insider build, you're in the right place. Click [here](https://insider.office.com/) for more information on the Insiders Program.</span></span>
+測試人員，您好！如果您想知道是否已經安裝最新的更新，或是您正在尋找最近測試人員組建的清單，那麼您找對地方了！按一下[這裡](https://insider.office.com/)以獲取有關測試人員計畫的詳細資訊。
 
 > [!IMPORTANT]
-> - <span data-ttu-id="e45f2-107">我們會變更 Microsoft 365 應用程式的更新通道，包括新增新的更新通道 (每月企業通道)，並變更現有的更新通道名稱。</span><span class="sxs-lookup"><span data-stu-id="e45f2-107">We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels.</span></span> <span data-ttu-id="e45f2-108">如需深入了解，[請閱讀本文](/DeployOffice/update-channels-changes)。</span><span class="sxs-lookup"><span data-stu-id="e45f2-108">To learn more, [read this article](/DeployOffice/update-channels-changes).</span></span>
-> - <span data-ttu-id="e45f2-109">Office 365 專業增強版即將從版本 2004 開始，重新命名為 Microsoft 365 Apps 企業版。</span><span class="sxs-lookup"><span data-stu-id="e45f2-109">Office 365 ProPlus is being renamed to Microsoft 365 Apps for enterprise, starting with Version 2004.</span></span> <span data-ttu-id="e45f2-110">若要深入了解，請[閱讀本文](/deployoffice/name-change)。</span><span class="sxs-lookup"><span data-stu-id="e45f2-110">To learn more, [read this article](/deployoffice/name-change).</span></span> <span data-ttu-id="e45f2-111">在我們的文件中，我們通常直接將它稱為 Microsoft 365 Apps。</span><span class="sxs-lookup"><span data-stu-id="e45f2-111">In our documentation, we'll usually just refer to it as Microsoft 365 Apps.</span></span>
+> - 我們會變更 Microsoft 365 應用程式的更新通道，包括新增新的更新通道 (每月企業通道)，並變更現有的更新通道名稱。 如需深入了解，[請閱讀本文](/DeployOffice/update-channels-changes)。
+> - Office 365 專業增強版即將從版本 2004 開始，重新命名為 Microsoft 365 Apps 企業版。 若要深入了解，請[閱讀本文](/deployoffice/name-change)。 在我們的文件中，我們通常直接將它稱為 Microsoft 365 Apps。
 
 > [!NOTE]
 >
-> - <span data-ttu-id="e45f2-112">此處的更新歷程記錄會列出發行的所有組建</span><span class="sxs-lookup"><span data-stu-id="e45f2-112">The Update History here lists all builds released</span></span>
-> - <span data-ttu-id="e45f2-113">版本資訊更新的頻率較慢，可能會彙集多個組建的更新，直到版本資訊發佈的組建編號為止。</span><span class="sxs-lookup"><span data-stu-id="e45f2-113">Release notes are updated on a slower cadence and may be a compilation of updates for multiple builds up to the release notes published build number.</span></span>
+> - 此處的更新歷程記錄會列出發行的所有組建
+> - 版本資訊更新的頻率較慢，可能會彙集多個組建的更新，直到版本資訊發佈的組建編號為止。
 
-## <a name="office-beta-channel-versions-and-builds"></a><span data-ttu-id="e45f2-114">Office 搶先版通道版本和組建</span><span class="sxs-lookup"><span data-stu-id="e45f2-114">Office Beta Channel versions and builds</span></span>
+## <a name="office-beta-channel-versions-and-builds"></a>Office 搶先版通道版本和組建
 
-<span data-ttu-id="e45f2-115">如果您註冊的是「測試人員 - 快」層級，您會經常收到包含新功能和改良功能的更新。</span><span class="sxs-lookup"><span data-stu-id="e45f2-115">If you're enrolled in the Insider level you get frequent updates with new features and improvements.</span></span> <span data-ttu-id="e45f2-116">下表顯示最新的測試人員版本和組建歷程記錄，當中會 **優先列出最新發行的組建**。</span><span class="sxs-lookup"><span data-stu-id="e45f2-116">The following list shows a history of recent Beta Channel versions and builds, with **the most recently released build listed first**.</span></span> <span data-ttu-id="e45f2-117">新組建包含舊組建中的所有更新。</span><span class="sxs-lookup"><span data-stu-id="e45f2-117">New builds contain all the updates contained in previous builds.</span></span>
+如果您註冊的是「測試人員 - 快」層級，您會經常收到包含新功能和改良功能的更新。 下表顯示最新的測試人員版本和組建歷程記錄，當中會 **優先列出最新發行的組建**。 新組建包含舊組建中的所有更新。
 
-<span data-ttu-id="e45f2-118">若要尋找版本資訊，請參閱 [Office for Windows desktop 的測試人員版本資訊](./beta-channel.md)。</span><span class="sxs-lookup"><span data-stu-id="e45f2-118">To find release notes, see [Insider release notes for Office for Windows desktop](./beta-channel.md).</span></span>
+若要尋找版本資訊，請參閱 [Office for Windows desktop 的測試人員版本資訊](./beta-channel.md)。
 
 
 [//]: # (DO NOT REMOVE)
 
-<span data-ttu-id="e45f2-120">**2021 年 4 月 20 日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-120">**April 20, 2021**</span></span><br/>
-<span data-ttu-id="e45f2-121">版本 2105 (組建 14014.20002)</span><span class="sxs-lookup"><span data-stu-id="e45f2-121">Version 2105 (Build 14014.20002)</span></span><br/>
+**2021 年 4 月 26 日**<br/>
+版本 2105 (編譯 14021.20000)<br/>
 
-<span data-ttu-id="e45f2-122">**2021 年 4 月 13 日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-122">**April 13, 2021**</span></span><br/>
-<span data-ttu-id="e45f2-123">版本 2105 (組建 14007.20002)</span><span class="sxs-lookup"><span data-stu-id="e45f2-123">Version 2105 (Build 14007.20002)</span></span><br/>
+**2021 年 4 月 20 日**<br/>
+版本 2105 (組建 14014.20002)<br/>
 
-<span data-ttu-id="e45f2-124">**2021 年 4 月 6 日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-124">**April 06, 2021**</span></span><br/>
-<span data-ttu-id="e45f2-125">版本 2105 (組建 14002.20000)</span><span class="sxs-lookup"><span data-stu-id="e45f2-125">Version 2105 (Build 14002.20000)</span></span><br/>
+**2021 年 4 月 13 日**<br/>
+版本 2105 (組建 14007.20002)<br/>
 
-<span data-ttu-id="e45f2-126">**2021 年 4 月 1 日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-126">**April 01, 2021**</span></span><br/>
-<span data-ttu-id="e45f2-127">版本 2104 (組建 13929.20016)</span><span class="sxs-lookup"><span data-stu-id="e45f2-127">Version 2104 (Build 13929.20016)</span></span><br/>
+**2021 年 4 月 6 日**<br/>
+版本 2105 (組建 14002.20000)<br/>
 
-<span data-ttu-id="e45f2-128">**2021 年 3 月 30 日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-128">**March 30, 2021**</span></span><br/>
-<span data-ttu-id="e45f2-129">版本 2104 (組建 13926.20000)</span><span class="sxs-lookup"><span data-stu-id="e45f2-129">Version 2104 (Build 13926.20000)</span></span><br/>
+**2021 年 4 月 1 日**<br/>
+版本 2104 (組建 13929.20016)<br/>
 
-<span data-ttu-id="e45f2-130">**2021 年 3 月 23 日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-130">**March 23, 2021**</span></span><br/>
-<span data-ttu-id="e45f2-131">版本 2104 (組建 13919.20002)</span><span class="sxs-lookup"><span data-stu-id="e45f2-131">Version 2104 (Build 13919.20002)</span></span><br/>
+**2021 年 3 月 30 日**<br/>
+版本 2104 (組建 13926.20000)<br/>
 
-<span data-ttu-id="e45f2-132">**2021 年 3 月 23 日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-132">**March 23, 2021**</span></span><br/>
-<span data-ttu-id="e45f2-133">版本 2104 (組建 13919.20000)</span><span class="sxs-lookup"><span data-stu-id="e45f2-133">Version 2104 (Build 13919.20000)</span></span><br/>
+**2021 年 3 月 23 日**<br/>
+版本 2104 (組建 13919.20002)<br/>
 
-<span data-ttu-id="e45f2-134">**2021 年 3 月 16 日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-134">**March 16, 2021**</span></span><br/>
-<span data-ttu-id="e45f2-135">版本 2104 (組建 13913.20000)</span><span class="sxs-lookup"><span data-stu-id="e45f2-135">Version 2104 (Build 13913.20000)</span></span><br/>
+**2021 年 3 月 23 日**<br/>
+版本 2104 (組建 13919.20000)<br/>
 
-<span data-ttu-id="e45f2-136">**2021 年 3 月 9 日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-136">**March 09, 2021**</span></span><br/>
-<span data-ttu-id="e45f2-137">版本 2104 (組建 13906.20000)</span><span class="sxs-lookup"><span data-stu-id="e45f2-137">Version 2104 (Build 13906.20000)</span></span><br/>
+**2021 年 3 月 16 日**<br/>
+版本 2104 (組建 13913.20000)<br/>
 
-<span data-ttu-id="e45f2-138">**2021 年 3 月 4 日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-138">**March 04, 2021**</span></span><br/>
-<span data-ttu-id="e45f2-139">版本 2103 (組建 13901.20036)</span><span class="sxs-lookup"><span data-stu-id="e45f2-139">Version 2103 (Build 13901.20036)</span></span><br/>
+**2021 年 3 月 9 日**<br/>
+版本 2104 (組建 13906.20000)<br/>
 
-<span data-ttu-id="e45f2-140">**2021 年 3 月 1 日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-140">**March 01, 2021**</span></span><br/>
-<span data-ttu-id="e45f2-141">版本 2103 (組建 13827.20004)</span><span class="sxs-lookup"><span data-stu-id="e45f2-141">Version 2103 (Build 13827.20004)</span></span><br/>
+**2021 年 3 月 4 日**<br/>
+版本 2103 (組建 13901.20036)<br/>
 
-<span data-ttu-id="e45f2-142">**2021 年 2 月 22 日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-142">**February 22, 2021**</span></span><br/>
-<span data-ttu-id="e45f2-143">版本 2103 (組建 13819.20006)</span><span class="sxs-lookup"><span data-stu-id="e45f2-143">Version 2103 (Build 13819.20006)</span></span><br/>
+**2021 年 3 月 1 日**<br/>
+版本 2103 (組建 13827.20004)<br/>
 
-<span data-ttu-id="e45f2-144">**2021 年 2 月 16 日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-144">**February 16, 2021**</span></span><br/>
-<span data-ttu-id="e45f2-145">版本 2103 (組建 13811.20002)</span><span class="sxs-lookup"><span data-stu-id="e45f2-145">Version 2103 (Build 13811.20002)</span></span><br/>
+**2021 年 2 月 22 日**<br/>
+版本 2103 (組建 13819.20006)<br/>
 
-<span data-ttu-id="e45f2-146">**2021 年 2 月 9 日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-146">**February 09, 2021**</span></span><br/>
-<span data-ttu-id="e45f2-147">版本 2103 (組建 13806.20000)</span><span class="sxs-lookup"><span data-stu-id="e45f2-147">Version 2103 (Build 13806.20000)</span></span><br/>
+**2021 年 2 月 16 日**<br/>
+版本 2103 (組建 13811.20002)<br/>
 
-<span data-ttu-id="e45f2-148">**2021 年 2 月 3 日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-148">**February 03, 2021**</span></span><br/>
-<span data-ttu-id="e45f2-149">版本 2102 (組建 13801.20004)</span><span class="sxs-lookup"><span data-stu-id="e45f2-149">Version 2102 (Build 13801.20004)</span></span><br/>
+**2021 年 2 月 9 日**<br/>
+版本 2103 (組建 13806.20000)<br/>
 
-<span data-ttu-id="e45f2-150">**2021 年 2 月 1 日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-150">**February 01, 2021**</span></span><br/>
-<span data-ttu-id="e45f2-151">版本 2102 (組建 13729.20000)</span><span class="sxs-lookup"><span data-stu-id="e45f2-151">Version 2102 (Build 13729.20000)</span></span><br/>
+**2021 年 2 月 3 日**<br/>
+版本 2102 (組建 13801.20004)<br/>
 
-<span data-ttu-id="e45f2-152">**2021 年 1 月 26 日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-152">**January 26, 2021**</span></span><br/>
-<span data-ttu-id="e45f2-153">版本 2102 (組建 13721.20008)</span><span class="sxs-lookup"><span data-stu-id="e45f2-153">Version 2102 (Build 13721.20008)</span></span><br/>
+**2021 年 2 月 1 日**<br/>
+版本 2102 (組建 13729.20000)<br/>
 
-<span data-ttu-id="e45f2-154">**2021 年 1 月 19 日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-154">**January 19, 2021**</span></span><br/>
-<span data-ttu-id="e45f2-155">版本 2102 (組建 13714.20000)</span><span class="sxs-lookup"><span data-stu-id="e45f2-155">Version 2102 (Build 13714.20000)</span></span><br/>
+**2021 年 1 月 26 日**<br/>
+版本 2102 (組建 13721.20008)<br/>
 
-<span data-ttu-id="e45f2-156">**2021 年 1 月 11 日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-156">**January 11, 2021**</span></span><br/>
-<span data-ttu-id="e45f2-157">版本 2102 (組建 13707.20008)</span><span class="sxs-lookup"><span data-stu-id="e45f2-157">Version 2102 (Build 13707.20008)</span></span><br/>
+**2021 年 1 月 19 日**<br/>
+版本 2102 (組建 13714.20000)<br/>
 
-<span data-ttu-id="e45f2-158">**2021 年 1 月 06 日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-158">**January 06, 2021**</span></span><br/>
-<span data-ttu-id="e45f2-159">版本 2102 (組建 13704.20000)</span><span class="sxs-lookup"><span data-stu-id="e45f2-159">Version 2102 (Build 13704.20000)</span></span><br/>
+**2021 年 1 月 11 日**<br/>
+版本 2102 (組建 13707.20008)<br/>
 
-<span data-ttu-id="e45f2-160">**2021 年 1 月 4 日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-160">**January 04, 2021**</span></span><br/>
-<span data-ttu-id="e45f2-161">版本 2101 (組建 13628.20000)</span><span class="sxs-lookup"><span data-stu-id="e45f2-161">Version 2101 (Build 13628.20000)</span></span><br/>
+**2021 年 1 月 06 日**<br/>
+版本 2102 (組建 13704.20000)<br/>
 
-<span data-ttu-id="e45f2-162">**2020 年 12 月 28 日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-162">**December 28, 2020**</span></span><br/>
-<span data-ttu-id="e45f2-163">版本 2101 (組建 13624.20002)</span><span class="sxs-lookup"><span data-stu-id="e45f2-163">Version 2101 (Build 13624.20002)</span></span><br/>
+**2021 年 1 月 4 日**<br/>
+版本 2101 (組建 13628.20000)<br/>
 
-<span data-ttu-id="e45f2-164">**2020 年 12 月 21 日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-164">**December 21, 2020**</span></span><br/>
-<span data-ttu-id="e45f2-165">版本 2101 (組建 13617.20002)</span><span class="sxs-lookup"><span data-stu-id="e45f2-165">Version 2101 (Build 13617.20002)</span></span><br/>
+**2020 年 12 月 28 日**<br/>
+版本 2101 (組建 13624.20002)<br/>
 
-<span data-ttu-id="e45f2-166">**2020 年 12 月 14 日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-166">**December 14, 2020**</span></span><br/>
-<span data-ttu-id="e45f2-167">版本 2101 (組建 13610.20002)</span><span class="sxs-lookup"><span data-stu-id="e45f2-167">Version 2101 (Build 13610.20002)</span></span><br/>
+**2020 年 12 月 21 日**<br/>
+版本 2101 (組建 13617.20002)<br/>
 
-<span data-ttu-id="e45f2-168">**2020 年 12月 7 日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-168">**December 07, 2020**</span></span><br/>
-<span data-ttu-id="e45f2-169">版本 2101 (組建 13604.20000)</span><span class="sxs-lookup"><span data-stu-id="e45f2-169">Version 2101 (Build 13604.20000)</span></span><br/>
+**2020 年 12 月 14 日**<br/>
+版本 2101 (組建 13610.20002)<br/>
 
-<span data-ttu-id="e45f2-170">**2020 年 12月 2 日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-170">**December 02, 2020**</span></span><br/>
-<span data-ttu-id="e45f2-171">版本 2012 (組建 13530.20000)</span><span class="sxs-lookup"><span data-stu-id="e45f2-171">Version 2012 (Build 13530.20000)</span></span><br/>
+**2020 年 12月 7 日**<br/>
+版本 2101 (組建 13604.20000)<br/>
 
-<span data-ttu-id="e45f2-172">**2020 年 11 月 30 日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-172">**November 30, 2020**</span></span><br/>
-<span data-ttu-id="e45f2-173">版本 2012 (組建 13524.20004)</span><span class="sxs-lookup"><span data-stu-id="e45f2-173">Version 2012 (Build 13524.20004)</span></span><br/>
+**2020 年 12月 2 日**<br/>
+版本 2012 (組建 13530.20000)<br/>
 
-<span data-ttu-id="e45f2-174">**2020 年 11 月 23 日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-174">**November 23, 2020**</span></span><br/>
-<span data-ttu-id="e45f2-175">版本 2012 (組建 13519.20000)</span><span class="sxs-lookup"><span data-stu-id="e45f2-175">Version 2012 (Build 13519.20000)</span></span><br/>
+**2020 年 11 月 30 日**<br/>
+版本 2012 (組建 13524.20004)<br/>
 
-<span data-ttu-id="e45f2-176">**2020 年 11 月 16 日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-176">**November 16, 2020**</span></span><br/>
-<span data-ttu-id="e45f2-177">版本 2012 (組建 13512.20000)</span><span class="sxs-lookup"><span data-stu-id="e45f2-177">Version 2012 (Build 13512.20000)</span></span><br/>
+**2020 年 11 月 23 日**<br/>
+版本 2012 (組建 13519.20000)<br/>
 
-<span data-ttu-id="e45f2-178">**2020 年 11 月 11 日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-178">**November 11, 2020**</span></span><br/>
-<span data-ttu-id="e45f2-179">版本 2012 (組建 13510.20004)</span><span class="sxs-lookup"><span data-stu-id="e45f2-179">Version 2012 (Build 13510.20004)</span></span><br/>
+**2020 年 11 月 16 日**<br/>
+版本 2012 (組建 13512.20000)<br/>
 
-<span data-ttu-id="e45f2-180">**2020 年 11 月 9 日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-180">**November 09, 2020**</span></span><br/>
-<span data-ttu-id="e45f2-181">版本 2012 (組建 13505.20004)</span><span class="sxs-lookup"><span data-stu-id="e45f2-181">Version 2012 (Build 13505.20004)</span></span><br/>
+**2020 年 11 月 11 日**<br/>
+版本 2012 (組建 13510.20004)<br/>
 
-<span data-ttu-id="e45f2-182">**2020 年 11 月 2 日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-182">**November 02, 2020**</span></span><br/>
-<span data-ttu-id="e45f2-183">版本 2012 (組建 13430.20000)</span><span class="sxs-lookup"><span data-stu-id="e45f2-183">Version 2012 (Build 13430.20000)</span></span><br/>
+**2020 年 11 月 9 日**<br/>
+版本 2012 (組建 13505.20004)<br/>
 
-<span data-ttu-id="e45f2-184">**2020 年 10 月 28 日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-184">**October 28, 2020**</span></span><br/>
-<span data-ttu-id="e45f2-185">版本 2011 (組建 13426.20004)</span><span class="sxs-lookup"><span data-stu-id="e45f2-185">Version 2011 (Build 13426.20004)</span></span><br/>
+**2020 年 11 月 2 日**<br/>
+版本 2012 (組建 13430.20000)<br/>
 
-<span data-ttu-id="e45f2-186">**2020 年 10 月 26 日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-186">**October 26, 2020**</span></span><br/>
-<span data-ttu-id="e45f2-187">版本 2011 (組建 13422.20000)</span><span class="sxs-lookup"><span data-stu-id="e45f2-187">Version 2011 (Build 13422.20000)</span></span><br/>
+**2020 年 10 月 28 日**<br/>
+版本 2011 (組建 13426.20004)<br/>
 
-<span data-ttu-id="e45f2-188">**2020 年 10 月19 日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-188">**October 19, 2020**</span></span><br/>
-<span data-ttu-id="e45f2-189">版本 2011 (組建 13415.20002)</span><span class="sxs-lookup"><span data-stu-id="e45f2-189">Version 2011 (Build 13415.20002)</span></span><br/>
+**2020 年 10 月 26 日**<br/>
+版本 2011 (組建 13422.20000)<br/>
 
-<span data-ttu-id="e45f2-190">**2020 年 10 月 12 日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-190">**October 12, 2020**</span></span><br/>
-<span data-ttu-id="e45f2-191">版本 2011 (組建 13408.20000)</span><span class="sxs-lookup"><span data-stu-id="e45f2-191">Version 2011 (Build 13408.20000)</span></span><br/>
+**2020 年 10 月19 日**<br/>
+版本 2011 (組建 13415.20002)<br/>
 
-<span data-ttu-id="e45f2-192">**2020 年 10 月 07 日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-192">**October 07, 2020**</span></span><br/>
-<span data-ttu-id="e45f2-193">版本 2011 (組建 13406.20000)</span><span class="sxs-lookup"><span data-stu-id="e45f2-193">Version 2011 (Build 13406.20000)</span></span><br/>
+**2020 年 10 月 12 日**<br/>
+版本 2011 (組建 13408.20000)<br/>
 
-<span data-ttu-id="e45f2-194">**2020 年 10 月 05 日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-194">**October 05, 2020**</span></span><br/>
-<span data-ttu-id="e45f2-195">版本 2011 (組建 13402.20004)</span><span class="sxs-lookup"><span data-stu-id="e45f2-195">Version 2011 (Build 13402.20004)</span></span><br/>
+**2020 年 10 月 07 日**<br/>
+版本 2011 (組建 13406.20000)<br/>
 
-<span data-ttu-id="e45f2-196">**2020 年 9 月 30 日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-196">**September 30, 2020**</span></span><br/>
-<span data-ttu-id="e45f2-197">版本 2010 (組建 13328.20000)</span><span class="sxs-lookup"><span data-stu-id="e45f2-197">Version 2010 (Build 13328.20000)</span></span><br/>
+**2020 年 10 月 05 日**<br/>
+版本 2011 (組建 13402.20004)<br/>
 
-<span data-ttu-id="e45f2-198">**2020 年 9 月 28 日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-198">**September 28, 2020**</span></span><br/>
-<span data-ttu-id="e45f2-199">版本 2010 (組建 13324.20000)</span><span class="sxs-lookup"><span data-stu-id="e45f2-199">Version 2010 (Build 13324.20000)</span></span><br/>
+**2020 年 9 月 30 日**<br/>
+版本 2010 (組建 13328.20000)<br/>
 
-<span data-ttu-id="e45f2-200">**2020 年 9 月 21 日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-200">**September 21, 2020**</span></span><br/>
-<span data-ttu-id="e45f2-201">版本 2010 (組建 13318.20000)</span><span class="sxs-lookup"><span data-stu-id="e45f2-201">Version 2010 (Build 13318.20000)</span></span><br/>
+**2020 年 9 月 28 日**<br/>
+版本 2010 (組建 13324.20000)<br/>
 
-<span data-ttu-id="e45f2-202">**2020 年 9 月 15 日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-202">**September 15, 2020**</span></span><br/>
-<span data-ttu-id="e45f2-203">版本 2010 (組建 13312.20006)</span><span class="sxs-lookup"><span data-stu-id="e45f2-203">Version 2010 (Build 13312.20006)</span></span><br/>
+**2020 年 9 月 21 日**<br/>
+版本 2010 (組建 13318.20000)<br/>
 
-<span data-ttu-id="e45f2-204">**2020 年 9 月 07 日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-204">**September 07, 2020**</span></span><br/>
-<span data-ttu-id="e45f2-205">版本2010 (組建13304.20000)</span><span class="sxs-lookup"><span data-stu-id="e45f2-205">Version 2010 (Build 13304.20000)</span></span><br/>
+**2020 年 9 月 15 日**<br/>
+版本 2010 (組建 13312.20006)<br/>
 
-<span data-ttu-id="e45f2-206">**2020 年 9 月 2 日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-206">**September 02, 2020**</span></span><br/>
-<span data-ttu-id="e45f2-207">版本 2010 (組建 13301.20004)</span><span class="sxs-lookup"><span data-stu-id="e45f2-207">Version 2010 (Build 13301.20004)</span></span><br/>
+**2020 年 9 月 07 日**<br/>
+版本2010 (組建13304.20000)<br/>
 
-<span data-ttu-id="e45f2-208">**2020 年 8 月 31 日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-208">**August 31, 2020**</span></span><br/>
-<span data-ttu-id="e45f2-209">版本 2009 (組建 13226.20002)</span><span class="sxs-lookup"><span data-stu-id="e45f2-209">Version 2009 (Build 13226.20002)</span></span><br/>
+**2020 年 9 月 2 日**<br/>
+版本 2010 (組建 13301.20004)<br/>
 
-<span data-ttu-id="e45f2-210">**2020 年 8 月 24 日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-210">**August 24, 2020**</span></span><br/>
-<span data-ttu-id="e45f2-211">版本 2009 (組建 13219.20004)</span><span class="sxs-lookup"><span data-stu-id="e45f2-211">Version 2009 (Build 13219.20004)</span></span><br/>
+**2020 年 8 月 31 日**<br/>
+版本 2009 (組建 13226.20002)<br/>
 
-<span data-ttu-id="e45f2-212">**2020年8月17日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-212">**August 17, 2020**</span></span><br/>
-<span data-ttu-id="e45f2-213">2009 版本 (組建 13212.20000)</span><span class="sxs-lookup"><span data-stu-id="e45f2-213">Version 2009 (Build 13212.20000)</span></span><br/>
+**2020 年 8 月 24 日**<br/>
+版本 2009 (組建 13219.20004)<br/>
 
-<span data-ttu-id="e45f2-214">**2020 年 8 月 10 日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-214">**August 10, 2020**</span></span><br/>
-<span data-ttu-id="e45f2-215">版本 2009 (組建 13205.20000)</span><span class="sxs-lookup"><span data-stu-id="e45f2-215">Version 2009 (Build 13205.20000)</span></span><br/>
+**2020年8月17日**<br/>
+2009 版本 (組建 13212.20000)<br/>
 
-<span data-ttu-id="e45f2-216">**2020 年 8 月 3 日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-216">**August 03, 2020**</span></span><br/>
-<span data-ttu-id="e45f2-217">版本 2009 (組建 13130.20000)</span><span class="sxs-lookup"><span data-stu-id="e45f2-217">Version 2009 (Build 13130.20000)</span></span><br/>
+**2020 年 8 月 10 日**<br/>
+版本 2009 (組建 13205.20000)<br/>
 
-<span data-ttu-id="e45f2-218">**2020 年 7 月 29 日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-218">**July 29, 2020**</span></span><br/>
-<span data-ttu-id="e45f2-219">版本 2008 (組建 13127.20002)</span><span class="sxs-lookup"><span data-stu-id="e45f2-219">Version 2008 (Build 13127.20002)</span></span><br/>
+**2020 年 8 月 3 日**<br/>
+版本 2009 (組建 13130.20000)<br/>
 
-<span data-ttu-id="e45f2-220">**2020 年 7 月 21 日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-220">**July 21, 2020**</span></span><br/>
-<span data-ttu-id="e45f2-221">版本 2008 (組建 13117.20000)</span><span class="sxs-lookup"><span data-stu-id="e45f2-221">Version 2008 (Build 13117.20000)</span></span><br/>
+**2020 年 7 月 29 日**<br/>
+版本 2008 (組建 13127.20002)<br/>
 
-<span data-ttu-id="e45f2-222">**2020年7月16日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-222">**July 16, 2020**</span></span><br/>
-<span data-ttu-id="e45f2-223">版本2008（組建13115.20000）</span><span class="sxs-lookup"><span data-stu-id="e45f2-223">Version 2008 (Build 13115.20000)</span></span><br/>
+**2020 年 7 月 21 日**<br/>
+版本 2008 (組建 13117.20000)<br/>
 
-<span data-ttu-id="e45f2-224">**2020年7月07日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-224">**July 07, 2020**</span></span><br/>
-<span data-ttu-id="e45f2-225">版本2008（組建13102.20002）</span><span class="sxs-lookup"><span data-stu-id="e45f2-225">Version 2008 (Build 13102.20002)</span></span><br/>
+**2020年7月16日**<br/>
+版本2008（組建13115.20000）<br/>
 
-<span data-ttu-id="e45f2-226">**2020年7月01日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-226">**July 01, 2020**</span></span><br/>
-<span data-ttu-id="e45f2-227">版本 2007 (組建 13029.20006)</span><span class="sxs-lookup"><span data-stu-id="e45f2-227">Version 2007 (Build 13029.20006)</span></span><br/>
+**2020年7月07日**<br/>
+版本2008（組建13102.20002）<br/>
 
-<span data-ttu-id="e45f2-228">**2020年6月29日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-228">**June 29, 2020**</span></span><br/>
-<span data-ttu-id="e45f2-229">版本2007（組建13025.20000）</span><span class="sxs-lookup"><span data-stu-id="e45f2-229">Version 2007 (Build 13025.20000)</span></span><br/>
+**2020年7月01日**<br/>
+版本 2007 (組建 13029.20006)<br/>
 
-<span data-ttu-id="e45f2-230">**2020年6月23日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-230">**June 23, 2020**</span></span><br/>
-<span data-ttu-id="e45f2-231">版本2007（組建13020.20004）</span><span class="sxs-lookup"><span data-stu-id="e45f2-231">Version 2007 (Build 13020.20004)</span></span><br/>
+**2020年6月29日**<br/>
+版本2007（組建13025.20000）<br/>
 
-<span data-ttu-id="e45f2-232">**2020年6月15日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-232">**June 15, 2020**</span></span><br/>
-<span data-ttu-id="e45f2-233">版本 2007 (組建 13012.20000)</span><span class="sxs-lookup"><span data-stu-id="e45f2-233">Version 2007 (Build 13012.20000)</span></span><br/>
+**2020年6月23日**<br/>
+版本2007（組建13020.20004）<br/>
 
-<span data-ttu-id="e45f2-234">**2020 年 6 月 09 日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-234">**June 09, 2020**</span></span><br/>
-<span data-ttu-id="e45f2-235">版本2007（組建13006.20002）</span><span class="sxs-lookup"><span data-stu-id="e45f2-235">Version 2007 (Build 13006.20002)</span></span><br/>
+**2020年6月15日**<br/>
+版本 2007 (組建 13012.20000)<br/>
 
-<span data-ttu-id="e45f2-236">**2020 年 6 月 03 日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-236">**June 03, 2020**</span></span><br/>
-<span data-ttu-id="e45f2-237">版本2006（組建13001.20002）</span><span class="sxs-lookup"><span data-stu-id="e45f2-237">Version 2006 (Build 13001.20002)</span></span><br/>
+**2020 年 6 月 09 日**<br/>
+版本2007（組建13006.20002）<br/>
 
-<span data-ttu-id="e45f2-238">**2020年6月01日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-238">**June 01, 2020**</span></span><br/>
-<span data-ttu-id="e45f2-239">版本2006（組建12930.20014）</span><span class="sxs-lookup"><span data-stu-id="e45f2-239">Version 2006 (Build 12930.20014)</span></span><br/>
+**2020 年 6 月 03 日**<br/>
+版本2006（組建13001.20002）<br/>
 
-<span data-ttu-id="e45f2-240">**5月25日2020**</span><span class="sxs-lookup"><span data-stu-id="e45f2-240">**May 25, 2020**</span></span><br/>
-<span data-ttu-id="e45f2-241">版本2006（組建12920.20000）</span><span class="sxs-lookup"><span data-stu-id="e45f2-241">Version 2006 (Build 12920.20000)</span></span><br/>
+**2020年6月01日**<br/>
+版本2006（組建12930.20014）<br/>
 
-<span data-ttu-id="e45f2-242">**2020年 5月 18日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-242">**May 18, 2020**</span></span><br/>
-<span data-ttu-id="e45f2-243">版本2006（組建12914.20000）</span><span class="sxs-lookup"><span data-stu-id="e45f2-243">Version 2006 (Build 12914.20000)</span></span><br/>
+**5月25日2020**<br/>
+版本2006（組建12920.20000）<br/>
 
-<span data-ttu-id="e45f2-244">**2020 年 5 月 11 日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-244">**May 11, 2020**</span></span><br/>
-<span data-ttu-id="e45f2-245">版本 2006 (組建 12905.20000)</span><span class="sxs-lookup"><span data-stu-id="e45f2-245">Version 2006 (Build 12905.20000)</span></span><br/>
+**2020年 5月 18日**<br/>
+版本2006（組建12914.20000）<br/>
 
-<span data-ttu-id="e45f2-246">**2020 年 5 月 4 日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-246">**May 04, 2020**</span></span><br/>
-<span data-ttu-id="e45f2-247">版本 2006 (組建 12829.20000)</span><span class="sxs-lookup"><span data-stu-id="e45f2-247">Version 2006 (Build 12829.20000)</span></span><br/>
+**2020 年 5 月 11 日**<br/>
+版本 2006 (組建 12905.20000)<br/>
 
-<span data-ttu-id="e45f2-248">**2020 年 4 月 29 日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-248">**April 29, 2020**</span></span><br/>
-<span data-ttu-id="e45f2-249">版本 2005 (組建 12827.20030)</span><span class="sxs-lookup"><span data-stu-id="e45f2-249">Version 2005 (Build 12827.20030)</span></span><br/>
+**2020 年 5 月 4 日**<br/>
+版本 2006 (組建 12829.20000)<br/>
 
-<span data-ttu-id="e45f2-250">**2020 年 4 月 27 日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-250">**April 27, 2020**</span></span><br/>
-<span data-ttu-id="e45f2-251">版本 2005 (組建 12823.20010)</span><span class="sxs-lookup"><span data-stu-id="e45f2-251">Version 2005 (Build 12823.20010)</span></span><br/>
+**2020 年 4 月 29 日**<br/>
+版本 2005 (組建 12827.20030)<br/>
 
-<span data-ttu-id="e45f2-252">**2020 年 4 月 22 日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-252">**April 22, 2020**</span></span><br/>
-<span data-ttu-id="e45f2-253">版本 2005 (組建 12816.20006)</span><span class="sxs-lookup"><span data-stu-id="e45f2-253">Version 2005 (Build 12816.20006)</span></span><br/>
+**2020 年 4 月 27 日**<br/>
+版本 2005 (組建 12823.20010)<br/>
 
-<span data-ttu-id="e45f2-254">**2020 年 4 月 20**</span><span class="sxs-lookup"><span data-stu-id="e45f2-254">**April 20, 2020**</span></span><br/>
-<span data-ttu-id="e45f2-255">版本 2005 (組建 12816.20000) (已復原)</span><span class="sxs-lookup"><span data-stu-id="e45f2-255">Version 2005 (Build 12816.20000) (Rolled back)</span></span> <br/>
+**2020 年 4 月 22 日**<br/>
+版本 2005 (組建 12816.20006)<br/>
 
-<span data-ttu-id="e45f2-256">**2020 年 4 月 14 日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-256">**April 14, 2020**</span></span><br/>
-<span data-ttu-id="e45f2-257">版本 2005 (組建 12810.20002)</span><span class="sxs-lookup"><span data-stu-id="e45f2-257">Version 2005 (Build 12810.20002)</span></span><br/>
+**2020 年 4 月 20**<br/>
+版本 2005 (組建 12816.20000) (已復原) <br/>
 
-<span data-ttu-id="e45f2-258">**2020 年 4 月 5 日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-258">**April 05, 2020**</span></span><br/>
-<span data-ttu-id="e45f2-259">版本 2004 (組建 12730.20024)</span><span class="sxs-lookup"><span data-stu-id="e45f2-259">Version 2004 (Build 12730.20024)</span></span><br/>
+**2020 年 4 月 14 日**<br/>
+版本 2005 (組建 12810.20002)<br/>
 
-<span data-ttu-id="e45f2-260">**2020 年 3 月 30 日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-260">**March 30, 2020**</span></span><br/>
-<span data-ttu-id="e45f2-261">版本 2004 (組建 12725.20006) (已復原)</span><span class="sxs-lookup"><span data-stu-id="e45f2-261">Version 2004 (Build 12725.20006) (Rolled back)</span></span> <br/>
+**2020 年 4 月 5 日**<br/>
+版本 2004 (組建 12730.20024)<br/>
 
-<span data-ttu-id="e45f2-262">**2020 年 3 月 23 日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-262">**March 23, 2020**</span></span><br/>
-<span data-ttu-id="e45f2-263">版本 2004 (組建 12718.20010)</span><span class="sxs-lookup"><span data-stu-id="e45f2-263">Version 2004 (Build 12718.20010)</span></span><br/>
+**2020 年 3 月 30 日**<br/>
+版本 2004 (組建 12725.20006) (已復原) <br/>
 
-<span data-ttu-id="e45f2-264">**2020 年 3 月 13 日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-264">**March 13, 2020**</span></span><br/>
-<span data-ttu-id="e45f2-265">版本 2004 (組建 12711.20000)</span><span class="sxs-lookup"><span data-stu-id="e45f2-265">Version 2004 (Build 12711.20000)</span></span><br/>
+**2020 年 3 月 23 日**<br/>
+版本 2004 (組建 12718.20010)<br/>
 
-<span data-ttu-id="e45f2-266">**2020 年 3 月 9 日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-266">**March 09, 2020**</span></span><br/>
-<span data-ttu-id="e45f2-267">版本 2004 (組建 12703.20010)</span><span class="sxs-lookup"><span data-stu-id="e45f2-267">Version 2004 (Build 12703.20010)</span></span><br/>
+**2020 年 3 月 13 日**<br/>
+版本 2004 (組建 12711.20000)<br/>
 
-<span data-ttu-id="e45f2-268">**2020 年 3 月 1 日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-268">**March 01, 2020**</span></span><br/>
-<span data-ttu-id="e45f2-269">版本 2003 (組建 12624.20086)</span><span class="sxs-lookup"><span data-stu-id="e45f2-269">Version 2003 (Build 12624.20086)</span></span><br/>
+**2020 年 3 月 9 日**<br/>
+版本 2004 (組建 12703.20010)<br/>
 
-<span data-ttu-id="e45f2-270">**2020 年 2 月 24 日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-270">**February 24, 2020**</span></span><br/>
-<span data-ttu-id="e45f2-271">版本 2003 (組建 12619.20002)</span><span class="sxs-lookup"><span data-stu-id="e45f2-271">Version 2003 (Build 12619.20002)</span></span><br/>
+**2020 年 3 月 1 日**<br/>
+版本 2003 (組建 12624.20086)<br/>
 
-<span data-ttu-id="e45f2-272">**2020 年 2 月 18 日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-272">**February 18, 2020**</span></span><br/>
-<span data-ttu-id="e45f2-273">版本 2003 (組建 12615.20000)</span><span class="sxs-lookup"><span data-stu-id="e45f2-273">Version 2003 (Build 12615.20000)</span></span><br/>
+**2020 年 2 月 24 日**<br/>
+版本 2003 (組建 12619.20002)<br/>
 
-<span data-ttu-id="e45f2-274">**2020 年 2 月 11 日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-274">**February 11, 2020**</span></span><br/>
-<span data-ttu-id="e45f2-275">版本 2003 (組建 12607.20000)</span><span class="sxs-lookup"><span data-stu-id="e45f2-275">Version 2003 (Build 12607.20000)</span></span><br/>
+**2020 年 2 月 18 日**<br/>
+版本 2003 (組建 12615.20000)<br/>
 
-<span data-ttu-id="e45f2-276">**2020 年 1 月 31 日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-276">**January 31, 2020**</span></span><br/>
-<span data-ttu-id="e45f2-277">版本 2002 (組建 12527.20040)</span><span class="sxs-lookup"><span data-stu-id="e45f2-277">Version 2002 (Build 12527.20040)</span></span><br/>
+**2020 年 2 月 11 日**<br/>
+版本 2003 (組建 12607.20000)<br/>
 
-<span data-ttu-id="e45f2-278">**2020 年 1 月 27 日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-278">**January 27, 2020**</span></span><br/>
-<span data-ttu-id="e45f2-279">版本 2002 (組建 12513.20010)</span><span class="sxs-lookup"><span data-stu-id="e45f2-279">Version 2002 (Build 12513.20010)</span></span><br/>
+**2020 年 1 月 31 日**<br/>
+版本 2002 (組建 12527.20040)<br/>
 
-<span data-ttu-id="e45f2-280">**2020 年 1 月 14 日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-280">**January 14, 2020**</span></span><br/>
-<span data-ttu-id="e45f2-281">版本 2002 (組建 12508.20000)</span><span class="sxs-lookup"><span data-stu-id="e45f2-281">Version 2002 (Build 12508.20000)</span></span><br/>
+**2020 年 1 月 27 日**<br/>
+版本 2002 (組建 12513.20010)<br/>
 
-<span data-ttu-id="e45f2-282">**2020 年 1 月 6 日**</span><span class="sxs-lookup"><span data-stu-id="e45f2-282">**January 06, 2020**</span></span><br/>
-<span data-ttu-id="e45f2-283">版本 2001 (組建 12430.20000)</span><span class="sxs-lookup"><span data-stu-id="e45f2-283">Version 2001 (Build 12430.20000)</span></span><br/>
+**2020 年 1 月 14 日**<br/>
+版本 2002 (組建 12508.20000)<br/>
 
+**2020 年 1 月 6 日**<br/>
+版本 2001 (組建 12430.20000)<br/>
 
 
-## <a name="insider-community"></a><span data-ttu-id="e45f2-284">測試人員社群</span><span class="sxs-lookup"><span data-stu-id="e45f2-284">Insider community</span></span>
 
-<span data-ttu-id="e45f2-285">![影像顯示測試人員社群。</span><span class="sxs-lookup"><span data-stu-id="e45f2-285">![Image showing insider community.</span></span> ](images/insidercommunity.png) <br/>
-<span data-ttu-id="e45f2-286">**Office 測試人員社群**</span><span class="sxs-lookup"><span data-stu-id="e45f2-286">**Office Insider community**</span></span><br/> <span data-ttu-id="e45f2-287">如果您想要與其他測試人員交談，請張貼在我們社群中。</span><span class="sxs-lookup"><span data-stu-id="e45f2-287">If you want to chat with other Insiders, post in our community.</span></span><br/><span data-ttu-id="e45f2-288"> 
-[造訪社群](https://go.microsoft.com/fwlink/?linkid=843493)</span><span class="sxs-lookup"><span data-stu-id="e45f2-288"> 
-[Visit the community](https://go.microsoft.com/fwlink/?linkid=843493)</span></span><br/> 
+## <a name="insider-community"></a>測試人員社群
 
-<span data-ttu-id="e45f2-289">![影像顯示 Twitter 圖示。</span><span class="sxs-lookup"><span data-stu-id="e45f2-289">![Image showing twitter icon.</span></span> ](images/twitter.png)<br/>
-<span data-ttu-id="e45f2-290">**Twitter 上的 Office 測試人員**</span><span class="sxs-lookup"><span data-stu-id="e45f2-290">**Office Insider on Twitter**</span></span><br/> <span data-ttu-id="e45f2-291">我們經常會在 @OfficeInsider 張貼有關測試人員版本的資訊，以及為測試人員舉辦特別活動。</span><span class="sxs-lookup"><span data-stu-id="e45f2-291">On @OfficeInsider, we post frequently about Insider releases and host special events for Insiders.</span></span><br/><span data-ttu-id="e45f2-292"> 
-[在 Twitter 上關注我們](https://go.microsoft.com/fwlink/?linkid=717717)</span><span class="sxs-lookup"><span data-stu-id="e45f2-292"> 
-[Follow us on Twitter](https://go.microsoft.com/fwlink/?linkid=717717)</span></span><br/> 
+![影像顯示測試人員社群。 ](images/insidercommunity.png) <br/>
+**Office 測試人員社群**<br/> 如果您想要與其他測試人員交談，請張貼在我們社群中。<br/> 
+[造訪社群](https://go.microsoft.com/fwlink/?linkid=843493)<br/> 
 
-<span data-ttu-id="e45f2-293">[![影像顯示 Facebook 圖示。](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)</span><span class="sxs-lookup"><span data-stu-id="e45f2-293">[![Image showing Facebook icon. ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)</span></span>
+![影像顯示 Twitter 圖示。 ](images/twitter.png)<br/>
+**Twitter 上的 Office 測試人員**<br/> 我們經常會在 @OfficeInsider 張貼有關測試人員版本的資訊，以及為測試人員舉辦特別活動。<br/> 
+[在 Twitter 上關注我們](https://go.microsoft.com/fwlink/?linkid=717717)<br/> 
 
+[![影像顯示 Facebook 圖示。](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)
 
-<span data-ttu-id="e45f2-294">**搶先使用新功能**
-[立刻加入 Office 測試人員](https://insider.office.com/)</span><span class="sxs-lookup"><span data-stu-id="e45f2-294">**Get new features first**
-[Join Office Insiders](https://insider.office.com/)</span></span>
+
+**搶先使用新功能**
+[立刻加入 Office 測試人員](https://insider.office.com/)
