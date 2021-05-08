@@ -9,139 +9,144 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每個更新通道的更新大約下載大小相關資訊
-ms.openlocfilehash: 4d0be484cc3605b30d3feedcad0006278a249e79
-ms.sourcegitcommit: 596cdb3423140df0324a952157fbc39ebedc12b9
+ms.openlocfilehash: ed59e962bd4767dbded3801ec18c4c329a4cb1b3
+ms.sourcegitcommit: 42db2bd4c66e90f3a425f9d9f4d0b769b900d08a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 05/07/2021
-ms.locfileid: "52278070"
+ms.locfileid: "52264751"
 ---
-# <a name="download-sizes-for-updates-to-microsoft-365-apps"></a><span data-ttu-id="01df6-103">Microsoft 365 Apps 更新的下載大小</span><span class="sxs-lookup"><span data-stu-id="01df6-103">Download sizes for updates to Microsoft 365 Apps</span></span>
+# <a name="download-sizes-for-updates-to-microsoft-365-apps"></a><span data-ttu-id="78003-103">Microsoft 365 Apps 更新的下載大小</span><span class="sxs-lookup"><span data-stu-id="78003-103">Download sizes for updates to Microsoft 365 Apps</span></span>
 
-<span data-ttu-id="01df6-104">我們的目標是提供更新大小資訊，可能的話，協助企業客戶規劃網路頻寬使用量。</span><span class="sxs-lookup"><span data-stu-id="01df6-104">Our goal is to provide update size information, if possible, in advance to help enterprise customers plan network bandwidth utilization.</span></span>
+<span data-ttu-id="78003-104">我們的目標是提供更新大小資訊，可能的話，協助企業客戶規劃網路頻寬使用量。</span><span class="sxs-lookup"><span data-stu-id="78003-104">Our goal is to provide update size information, if possible, in advance to help enterprise customers plan network bandwidth utilization.</span></span>
 
-<span data-ttu-id="01df6-105">下表顯示從舊版 Microsoft 365 Apps 更新至最新版本時，大約的下載大小。</span><span class="sxs-lookup"><span data-stu-id="01df6-105">The following tables show the approximate download size when updating from the previous release of Microsoft 365 Apps to the most current release.</span></span> <span data-ttu-id="01df6-106">實際下載大小可能有所不同，最多可達 50 MB。</span><span class="sxs-lookup"><span data-stu-id="01df6-106">Actual download sizes might vary, by as much as 50 mb.</span></span> <span data-ttu-id="01df6-107">如果您從舊版更新到最新版本時，下載大小可能會更大。</span><span class="sxs-lookup"><span data-stu-id="01df6-107">If you are updating from an older release to the current release, your download size could be larger.</span></span>
+<span data-ttu-id="78003-105">下表顯示從舊版 Microsoft 365 Apps 更新至最新版本時，大約的下載大小。</span><span class="sxs-lookup"><span data-stu-id="78003-105">The following tables show the approximate download size when updating from the previous release of Microsoft 365 Apps to the most current release.</span></span> <span data-ttu-id="78003-106">實際下載大小可能有所不同，最多可達 50 MB。</span><span class="sxs-lookup"><span data-stu-id="78003-106">Actual download sizes might vary, by as much as 50 mb.</span></span> <span data-ttu-id="78003-107">如果您從舊版更新到最新版本時，下載大小可能會更大。</span><span class="sxs-lookup"><span data-stu-id="78003-107">If you are updating from an older release to the current release, your download size could be larger.</span></span>
 
-<span data-ttu-id="01df6-p102">如果您正在切換至不同的通道，例如從「半年通道 (已設定目標)」到「半年通道」，更新大小會遠超過表格中所列的大小。它可能需要完整下載，其可能為至少 1 GB。</span><span class="sxs-lookup"><span data-stu-id="01df6-p102">If you are switching to a different channel, for example from Semi-Annual Channel (Targeted) to Semi-Annual Channel, your update size could be considerably larger than what's listed in the table. It could entail a full download, which could be at least 1 GB.</span></span>
+<span data-ttu-id="78003-p102">如果您正在切換至不同的通道，例如從「半年通道 (已設定目標)」到「半年通道」，更新大小會遠超過表格中所列的大小。它可能需要完整下載，其可能為至少 1 GB。</span><span class="sxs-lookup"><span data-stu-id="78003-p102">If you are switching to a different channel, for example from Semi-Annual Channel (Targeted) to Semi-Annual Channel, your update size could be considerably larger than what's listed in the table. It could entail a full download, which could be at least 1 GB.</span></span>
+
+
+> [!IMPORTANT]
+> - <span data-ttu-id="78003-110">我們會變更 Microsoft 365 應用程式的更新通道，包括新增新的更新通道 (每月企業通道)，並變更現有的更新通道名稱。</span><span class="sxs-lookup"><span data-stu-id="78003-110">We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels.</span></span> <span data-ttu-id="78003-111">如需深入了解，[請閱讀本文](/DeployOffice/update-channels-changes)。</span><span class="sxs-lookup"><span data-stu-id="78003-111">To learn more, [read this article](/DeployOffice/update-channels-changes).</span></span>
+> - <span data-ttu-id="78003-112">Office 365 專業增強版即將從版本 2004 開始，重新命名為 Microsoft 365 Apps 企業版。</span><span class="sxs-lookup"><span data-stu-id="78003-112">Office 365 ProPlus is being renamed to Microsoft 365 Apps for enterprise, starting with Version 2004.</span></span> <span data-ttu-id="78003-113">若要深入了解，請[閱讀本文](/deployoffice/name-change)。</span><span class="sxs-lookup"><span data-stu-id="78003-113">To learn more, [read this article](/deployoffice/name-change).</span></span> <span data-ttu-id="78003-114">在我們的文件中，我們通常直接將它稱為 Microsoft 365 Apps。</span><span class="sxs-lookup"><span data-stu-id="78003-114">In our documentation, we'll usually just refer to it as Microsoft 365 Apps.</span></span>
 
 
 > [!NOTE]
-> - <span data-ttu-id="01df6-110">表格中所列的大約下載大小僅適用於 Microsoft 365 Apps 的 x64 英文 (美國) 版本。</span><span class="sxs-lookup"><span data-stu-id="01df6-110">The approximate download size listed in the tables only applies to the en-us x64 version of Microsoft 365 Apps.</span></span>
-> - <span data-ttu-id="01df6-111">會列出最近四個月的發行。</span><span class="sxs-lookup"><span data-stu-id="01df6-111">Releases from the last four months are listed.</span></span>
+> - <span data-ttu-id="78003-115">表格中所列的大約下載大小僅適用於 Microsoft 365 Apps 的 x64 英文 (美國) 版本。</span><span class="sxs-lookup"><span data-stu-id="78003-115">The approximate download size listed in the tables only applies to the en-us x64 version of Microsoft 365 Apps.</span></span>
+> - <span data-ttu-id="78003-116">會列出最近四個月的發行。</span><span class="sxs-lookup"><span data-stu-id="78003-116">Releases from the last four months are listed.</span></span>
 
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FORECAST CONTENT START)
 
-## <a name="may-6-2021"></a><span data-ttu-id="01df6-114">2021 年 5 月 6 日</span><span class="sxs-lookup"><span data-stu-id="01df6-114">May 6, 2021</span></span>
+## <a name="may-6-2021"></a><span data-ttu-id="78003-119">2021 年 5 月 6 日</span><span class="sxs-lookup"><span data-stu-id="78003-119">May 6, 2021</span></span>
 
 
-### <a name="monthly-enterprise-channel"></a><span data-ttu-id="01df6-115">每月企業通道</span><span class="sxs-lookup"><span data-stu-id="01df6-115">Monthly Enterprise Channel</span></span>
+### <a name="monthly-enterprise-channel"></a><span data-ttu-id="78003-120">每月企業通道</span><span class="sxs-lookup"><span data-stu-id="78003-120">Monthly Enterprise Channel</span></span>
 
-<span data-ttu-id="01df6-116"><i>預期的版本為版本 2103 (組建 13901.20506)。</i></span><span class="sxs-lookup"><span data-stu-id="01df6-116"><i>The expected release is Version 2103 (Build 13901.20506).</i></span></span>
+<span data-ttu-id="78003-121"><i>預期的版本為版本 2103 (組建 13901.20506)。</i></span><span class="sxs-lookup"><span data-stu-id="78003-121"><i>The expected release is Version 2103 (Build 13901.20506).</i></span></span>
 
-|<span data-ttu-id="01df6-117">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="01df6-117">**Release upgrading from**</span></span>|<span data-ttu-id="01df6-118">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="01df6-118">**Release date**</span></span>|<span data-ttu-id="01df6-119">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="01df6-119">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="78003-122">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="78003-122">**Release upgrading from**</span></span>|<span data-ttu-id="78003-123">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="78003-123">**Release date**</span></span>|<span data-ttu-id="78003-124">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="78003-124">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="01df6-120">版本 2102 (組建 13801.20506)</span><span class="sxs-lookup"><span data-stu-id="01df6-120">Version 2102 (Build 13801.20506)</span></span> <br/> |<span data-ttu-id="01df6-121">2021 年 4 月 13 日</span><span class="sxs-lookup"><span data-stu-id="01df6-121">April 13, 2021</span></span> <br/> |<span data-ttu-id="01df6-122">137</span><span class="sxs-lookup"><span data-stu-id="01df6-122">137</span></span><br/> |
+|<span data-ttu-id="78003-125">版本 2102 (組建 13801.20506)</span><span class="sxs-lookup"><span data-stu-id="78003-125">Version 2102 (Build 13801.20506)</span></span> <br/> |<span data-ttu-id="78003-126">2021 年 4 月 13 日</span><span class="sxs-lookup"><span data-stu-id="78003-126">April 13, 2021</span></span> <br/> |<span data-ttu-id="78003-127">137</span><span class="sxs-lookup"><span data-stu-id="78003-127">137</span></span><br/> |
 
 
 
-### <a name="semi-annual-enterprise-channel-preview"></a><span data-ttu-id="01df6-123">半年企業通道 (預覽)</span><span class="sxs-lookup"><span data-stu-id="01df6-123">Semi-Annual Enterprise Channel (Preview)</span></span>
+### <a name="semi-annual-enterprise-channel-preview"></a><span data-ttu-id="78003-128">半年企業通道 (預覽)</span><span class="sxs-lookup"><span data-stu-id="78003-128">Semi-Annual Enterprise Channel (Preview)</span></span>
 
-<span data-ttu-id="01df6-124"><i>預期的版本為版本 2102 (組建 13801.20626)。</i></span><span class="sxs-lookup"><span data-stu-id="01df6-124"><i>The expected release is Version 2102 (Build 13801.20626).</i></span></span>
+<span data-ttu-id="78003-129"><i>預期的版本為版本 2102 (組建 13801.20626)。</i></span><span class="sxs-lookup"><span data-stu-id="78003-129"><i>The expected release is Version 2102 (Build 13801.20626).</i></span></span>
 
-|<span data-ttu-id="01df6-125">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="01df6-125">**Release upgrading from**</span></span>|<span data-ttu-id="01df6-126">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="01df6-126">**Release date**</span></span>|<span data-ttu-id="01df6-127">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="01df6-127">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="78003-130">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="78003-130">**Release upgrading from**</span></span>|<span data-ttu-id="78003-131">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="78003-131">**Release date**</span></span>|<span data-ttu-id="78003-132">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="78003-132">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="01df6-128">版本 2102 (組建 13801.20506)</span><span class="sxs-lookup"><span data-stu-id="01df6-128">Version 2102 (Build 13801.20506)</span></span> <br/> |<span data-ttu-id="01df6-129">2021 年 4 月 13 日</span><span class="sxs-lookup"><span data-stu-id="01df6-129">April 13, 2021</span></span> <br/> |<span data-ttu-id="01df6-130">45</span><span class="sxs-lookup"><span data-stu-id="01df6-130">45</span></span><br/> |
-|<span data-ttu-id="01df6-131">版本 2102 (組建 13801.20294)</span><span class="sxs-lookup"><span data-stu-id="01df6-131">Version 2102 (Build 13801.20294)</span></span> <br/> |<span data-ttu-id="01df6-132">2021 年 3 月 9 日</span><span class="sxs-lookup"><span data-stu-id="01df6-132">March 9, 2021</span></span> <br/> |<span data-ttu-id="01df6-133">72</span><span class="sxs-lookup"><span data-stu-id="01df6-133">72</span></span><br/> |
+|<span data-ttu-id="78003-133">版本 2102 (組建 13801.20506)</span><span class="sxs-lookup"><span data-stu-id="78003-133">Version 2102 (Build 13801.20506)</span></span> <br/> |<span data-ttu-id="78003-134">2021 年 4 月 13 日</span><span class="sxs-lookup"><span data-stu-id="78003-134">April 13, 2021</span></span> <br/> |<span data-ttu-id="78003-135">45</span><span class="sxs-lookup"><span data-stu-id="78003-135">45</span></span><br/> |
+|<span data-ttu-id="78003-136">版本 2102 (組建 13801.20294)</span><span class="sxs-lookup"><span data-stu-id="78003-136">Version 2102 (Build 13801.20294)</span></span> <br/> |<span data-ttu-id="78003-137">2021 年 3 月 9 日</span><span class="sxs-lookup"><span data-stu-id="78003-137">March 9, 2021</span></span> <br/> |<span data-ttu-id="78003-138">72</span><span class="sxs-lookup"><span data-stu-id="78003-138">72</span></span><br/> |
 
 
-### <a name="semi-annual-enterprise-channel"></a><span data-ttu-id="01df6-134">半年企業通道</span><span class="sxs-lookup"><span data-stu-id="01df6-134">Semi-Annual Enterprise Channel</span></span>
+### <a name="semi-annual-enterprise-channel"></a><span data-ttu-id="78003-139">半年企業通道</span><span class="sxs-lookup"><span data-stu-id="78003-139">Semi-Annual Enterprise Channel</span></span>
 
-<span data-ttu-id="01df6-135"><i>預期的版本為版本 2008 (組建 13127.21614)。</i></span><span class="sxs-lookup"><span data-stu-id="01df6-135"><i>The expected release is Version 2008 (Build 13127.21614).</i></span></span>
+<span data-ttu-id="78003-140"><i>預期的版本為版本 2008 (組建 13127.21614)。</i></span><span class="sxs-lookup"><span data-stu-id="78003-140"><i>The expected release is Version 2008 (Build 13127.21614).</i></span></span>
 
-|<span data-ttu-id="01df6-136">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="01df6-136">**Release upgrading from**</span></span>|<span data-ttu-id="01df6-137">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="01df6-137">**Release date**</span></span>|<span data-ttu-id="01df6-138">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="01df6-138">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="78003-141">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="78003-141">**Release upgrading from**</span></span>|<span data-ttu-id="78003-142">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="78003-142">**Release date**</span></span>|<span data-ttu-id="78003-143">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="78003-143">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="01df6-139">版本 2008 (組建 13127.21506)</span><span class="sxs-lookup"><span data-stu-id="01df6-139">Version 2008 (Build 13127.21506)</span></span> <br/> |<span data-ttu-id="01df6-140">2021 年 4 月 13 日</span><span class="sxs-lookup"><span data-stu-id="01df6-140">April 13, 2021</span></span> <br/> |<span data-ttu-id="01df6-141">55</span><span class="sxs-lookup"><span data-stu-id="01df6-141">55</span></span><br/> |
-|<span data-ttu-id="01df6-142">版本 2008 (組建 13127.21348)</span><span class="sxs-lookup"><span data-stu-id="01df6-142">Version 2008 (Build 13127.21348)</span></span> <br/> |<span data-ttu-id="01df6-143">2021 年 3 月 9 日</span><span class="sxs-lookup"><span data-stu-id="01df6-143">March 9, 2021</span></span> <br/> |<span data-ttu-id="01df6-144">61</span><span class="sxs-lookup"><span data-stu-id="01df6-144">61</span></span><br/> |
+|<span data-ttu-id="78003-144">版本 2008 (組建 13127.21506)</span><span class="sxs-lookup"><span data-stu-id="78003-144">Version 2008 (Build 13127.21506)</span></span> <br/> |<span data-ttu-id="78003-145">2021 年 4 月 13 日</span><span class="sxs-lookup"><span data-stu-id="78003-145">April 13, 2021</span></span> <br/> |<span data-ttu-id="78003-146">55</span><span class="sxs-lookup"><span data-stu-id="78003-146">55</span></span><br/> |
+|<span data-ttu-id="78003-147">版本 2008 (組建 13127.21348)</span><span class="sxs-lookup"><span data-stu-id="78003-147">Version 2008 (Build 13127.21348)</span></span> <br/> |<span data-ttu-id="78003-148">2021 年 3 月 9 日</span><span class="sxs-lookup"><span data-stu-id="78003-148">March 9, 2021</span></span> <br/> |<span data-ttu-id="78003-149">61</span><span class="sxs-lookup"><span data-stu-id="78003-149">61</span></span><br/> |
 
 
 [//]: # (DO NOT REMOVE FORECAST CONTENT END)
 
-## <a name="april-29-2021"></a><span data-ttu-id="01df6-146">2021 年 4 月 29 日</span><span class="sxs-lookup"><span data-stu-id="01df6-146">April 29, 2021</span></span>
+## <a name="april-29-2021"></a><span data-ttu-id="78003-151">2021 年 4 月 29 日</span><span class="sxs-lookup"><span data-stu-id="78003-151">April 29, 2021</span></span>
 
 [//]: # (DO NOT REMOVE CONTENT STARTApril 29, 2021)
 
-### <a name="current-channel"></a><span data-ttu-id="01df6-148">目前通道</span><span class="sxs-lookup"><span data-stu-id="01df6-148">Current Channel</span></span>
+### <a name="current-channel"></a><span data-ttu-id="78003-153">目前通道</span><span class="sxs-lookup"><span data-stu-id="78003-153">Current Channel</span></span>
 
-<span data-ttu-id="01df6-149">最新的版本是版本 Version 2104 (組建 13929.20296)。</span><span class="sxs-lookup"><span data-stu-id="01df6-149">The most current release is Version 2104 (Build 13929.20296).</span></span>
+<span data-ttu-id="78003-154">最新的版本是版本 Version 2104 (組建 13929.20296)。</span><span class="sxs-lookup"><span data-stu-id="78003-154">The most current release is Version 2104 (Build 13929.20296).</span></span>
 
-|<span data-ttu-id="01df6-150">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="01df6-150">**Release upgrading from**</span></span>|<span data-ttu-id="01df6-151">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="01df6-151">**Release date**</span></span>|<span data-ttu-id="01df6-152">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="01df6-152">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="78003-155">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="78003-155">**Release upgrading from**</span></span>|<span data-ttu-id="78003-156">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="78003-156">**Release date**</span></span>|<span data-ttu-id="78003-157">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="78003-157">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="01df6-153">版本 2103 (組建 13901.20462)</span><span class="sxs-lookup"><span data-stu-id="01df6-153">Version 2103 (Build 13901.20462)</span></span> <br/> |<span data-ttu-id="01df6-154">2021 年 4 月 23 日</span><span class="sxs-lookup"><span data-stu-id="01df6-154">April 23, 2021</span></span> <br/> |<span data-ttu-id="01df6-155">167</span><span class="sxs-lookup"><span data-stu-id="01df6-155">167</span></span><br/> |
-|<span data-ttu-id="01df6-156">版本 2103 (組建 13901.20400)</span><span class="sxs-lookup"><span data-stu-id="01df6-156">Version 2103 (Build 13901.20400)</span></span> <br/> |<span data-ttu-id="01df6-157">2021 年 4 月 13 日</span><span class="sxs-lookup"><span data-stu-id="01df6-157">April 13, 2021</span></span> <br/> |<span data-ttu-id="01df6-158">167</span><span class="sxs-lookup"><span data-stu-id="01df6-158">167</span></span><br/> |
+|<span data-ttu-id="78003-158">版本 2103 (組建 13901.20462)</span><span class="sxs-lookup"><span data-stu-id="78003-158">Version 2103 (Build 13901.20462)</span></span> <br/> |<span data-ttu-id="78003-159">2021 年 4 月 23 日</span><span class="sxs-lookup"><span data-stu-id="78003-159">April 23, 2021</span></span> <br/> |<span data-ttu-id="78003-160">167</span><span class="sxs-lookup"><span data-stu-id="78003-160">167</span></span><br/> |
+|<span data-ttu-id="78003-161">版本 2103 (組建 13901.20400)</span><span class="sxs-lookup"><span data-stu-id="78003-161">Version 2103 (Build 13901.20400)</span></span> <br/> |<span data-ttu-id="78003-162">2021 年 4 月 13 日</span><span class="sxs-lookup"><span data-stu-id="78003-162">April 13, 2021</span></span> <br/> |<span data-ttu-id="78003-163">167</span><span class="sxs-lookup"><span data-stu-id="78003-163">167</span></span><br/> |
 
 
 [//]: # (DO NOT REMOVE CONTENT ENDApril 29, 2021)
 
-## <a name="april-23-2021"></a><span data-ttu-id="01df6-160">2021 年 4 月 23 日</span><span class="sxs-lookup"><span data-stu-id="01df6-160">April 23, 2021</span></span>
+## <a name="april-23-2021"></a><span data-ttu-id="78003-165">2021 年 4 月 23 日</span><span class="sxs-lookup"><span data-stu-id="78003-165">April 23, 2021</span></span>
 
 [//]: # (DO NOT REMOVE CONTENT STARTApril 23, 2021)
 
-### <a name="current-channel"></a><span data-ttu-id="01df6-162">目前通道</span><span class="sxs-lookup"><span data-stu-id="01df6-162">Current Channel</span></span>
+### <a name="current-channel"></a><span data-ttu-id="78003-167">目前通道</span><span class="sxs-lookup"><span data-stu-id="78003-167">Current Channel</span></span>
 
-<span data-ttu-id="01df6-163">最新的版本是版本 2103 (組建 13901.20462)。</span><span class="sxs-lookup"><span data-stu-id="01df6-163">The most current release is Version 2103 (Build 13901.20462).</span></span>
+<span data-ttu-id="78003-168">最新的版本是版本 2103 (組建 13901.20462)。</span><span class="sxs-lookup"><span data-stu-id="78003-168">The most current release is Version 2103 (Build 13901.20462).</span></span>
 
-|<span data-ttu-id="01df6-164">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="01df6-164">**Release upgrading from**</span></span>|<span data-ttu-id="01df6-165">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="01df6-165">**Release date**</span></span>|<span data-ttu-id="01df6-166">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="01df6-166">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="78003-169">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="78003-169">**Release upgrading from**</span></span>|<span data-ttu-id="78003-170">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="78003-170">**Release date**</span></span>|<span data-ttu-id="78003-171">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="78003-171">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="01df6-167">版本 2103 (組建 13901.20400)</span><span class="sxs-lookup"><span data-stu-id="01df6-167">Version 2103 (Build 13901.20400)</span></span> <br/> |<span data-ttu-id="01df6-168">2021 年 4 月 13 日</span><span class="sxs-lookup"><span data-stu-id="01df6-168">April 13, 2021</span></span> <br/> |<span data-ttu-id="01df6-169">53</span><span class="sxs-lookup"><span data-stu-id="01df6-169">53</span></span><br/> |
-|<span data-ttu-id="01df6-170">版本 2103 (組建 13901.20336)</span><span class="sxs-lookup"><span data-stu-id="01df6-170">Version 2103 (Build 13901.20336)</span></span> <br/> |<span data-ttu-id="01df6-171">2021 年 4 月 2 日</span><span class="sxs-lookup"><span data-stu-id="01df6-171">April 2, 2021</span></span> <br/> |<span data-ttu-id="01df6-172">66</span><span class="sxs-lookup"><span data-stu-id="01df6-172">66</span></span><br/> |
+|<span data-ttu-id="78003-172">版本 2103 (組建 13901.20400)</span><span class="sxs-lookup"><span data-stu-id="78003-172">Version 2103 (Build 13901.20400)</span></span> <br/> |<span data-ttu-id="78003-173">2021 年 4 月 13 日</span><span class="sxs-lookup"><span data-stu-id="78003-173">April 13, 2021</span></span> <br/> |<span data-ttu-id="78003-174">53</span><span class="sxs-lookup"><span data-stu-id="78003-174">53</span></span><br/> |
+|<span data-ttu-id="78003-175">版本 2103 (組建 13901.20336)</span><span class="sxs-lookup"><span data-stu-id="78003-175">Version 2103 (Build 13901.20336)</span></span> <br/> |<span data-ttu-id="78003-176">2021 年 4 月 2 日</span><span class="sxs-lookup"><span data-stu-id="78003-176">April 2, 2021</span></span> <br/> |<span data-ttu-id="78003-177">66</span><span class="sxs-lookup"><span data-stu-id="78003-177">66</span></span><br/> |
 
 
 [//]: # (DO NOT REMOVE CONTENT ENDApril 23, 2021)
 
-## <a name="april-13-2021"></a><span data-ttu-id="01df6-174">2021 年 4 月 13 日</span><span class="sxs-lookup"><span data-stu-id="01df6-174">April 13, 2021</span></span>
+## <a name="april-13-2021"></a><span data-ttu-id="78003-179">2021 年 4 月 13 日</span><span class="sxs-lookup"><span data-stu-id="78003-179">April 13, 2021</span></span>
 
 [//]: # (DO NOT REMOVE CONTENT STARTApril 13, 2021)
 
-### <a name="current-channel"></a><span data-ttu-id="01df6-176">目前通道</span><span class="sxs-lookup"><span data-stu-id="01df6-176">Current Channel</span></span>
+### <a name="current-channel"></a><span data-ttu-id="78003-181">目前通道</span><span class="sxs-lookup"><span data-stu-id="78003-181">Current Channel</span></span>
 
-<span data-ttu-id="01df6-177">最新的版本是版本 2103 (組建 13901.20400)。</span><span class="sxs-lookup"><span data-stu-id="01df6-177">The most current release is Version 2103 (Build 13901.20400).</span></span>
+<span data-ttu-id="78003-182">最新的版本是版本 2103 (組建 13901.20400)。</span><span class="sxs-lookup"><span data-stu-id="78003-182">The most current release is Version 2103 (Build 13901.20400).</span></span>
 
-|<span data-ttu-id="01df6-178">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="01df6-178">**Release upgrading from**</span></span>|<span data-ttu-id="01df6-179">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="01df6-179">**Release date**</span></span>|<span data-ttu-id="01df6-180">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="01df6-180">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="78003-183">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="78003-183">**Release upgrading from**</span></span>|<span data-ttu-id="78003-184">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="78003-184">**Release date**</span></span>|<span data-ttu-id="78003-185">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="78003-185">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="01df6-181">版本 2103 (組建 13901.20336)</span><span class="sxs-lookup"><span data-stu-id="01df6-181">Version 2103 (Build 13901.20336)</span></span> <br/> |<span data-ttu-id="01df6-182">2021 年 4 月 2 日</span><span class="sxs-lookup"><span data-stu-id="01df6-182">April 2, 2021</span></span> <br/> |<span data-ttu-id="01df6-183">65</span><span class="sxs-lookup"><span data-stu-id="01df6-183">65</span></span><br/> |
-|<span data-ttu-id="01df6-184">版本 2103 (組建 13901.20312)</span><span class="sxs-lookup"><span data-stu-id="01df6-184">Version 2103 (Build 13901.20312)</span></span> <br/> |<span data-ttu-id="01df6-185">2021 年 3 月 30 日</span><span class="sxs-lookup"><span data-stu-id="01df6-185">March 30, 2021</span></span> <br/> |<span data-ttu-id="01df6-186">284</span><span class="sxs-lookup"><span data-stu-id="01df6-186">284</span></span><br/> |
+|<span data-ttu-id="78003-186">版本 2103 (組建 13901.20336)</span><span class="sxs-lookup"><span data-stu-id="78003-186">Version 2103 (Build 13901.20336)</span></span> <br/> |<span data-ttu-id="78003-187">2021 年 4 月 2 日</span><span class="sxs-lookup"><span data-stu-id="78003-187">April 2, 2021</span></span> <br/> |<span data-ttu-id="78003-188">65</span><span class="sxs-lookup"><span data-stu-id="78003-188">65</span></span><br/> |
+|<span data-ttu-id="78003-189">版本 2103 (組建 13901.20312)</span><span class="sxs-lookup"><span data-stu-id="78003-189">Version 2103 (Build 13901.20312)</span></span> <br/> |<span data-ttu-id="78003-190">2021 年 3 月 30 日</span><span class="sxs-lookup"><span data-stu-id="78003-190">March 30, 2021</span></span> <br/> |<span data-ttu-id="78003-191">284</span><span class="sxs-lookup"><span data-stu-id="78003-191">284</span></span><br/> |
 
 
-### <a name="monthly-enterprise-channel"></a><span data-ttu-id="01df6-187">每月企業通道</span><span class="sxs-lookup"><span data-stu-id="01df6-187">Monthly Enterprise Channel</span></span>
+### <a name="monthly-enterprise-channel"></a><span data-ttu-id="78003-192">每月企業通道</span><span class="sxs-lookup"><span data-stu-id="78003-192">Monthly Enterprise Channel</span></span>
 
-<span data-ttu-id="01df6-188">最新的版本是版本 2102 (組建 13801.20506)。</span><span class="sxs-lookup"><span data-stu-id="01df6-188">The most current release is Version 2102 (Build 13801.20506).</span></span>
+<span data-ttu-id="78003-193">最新的版本是版本 2102 (組建 13801.20506)。</span><span class="sxs-lookup"><span data-stu-id="78003-193">The most current release is Version 2102 (Build 13801.20506).</span></span>
 
-|<span data-ttu-id="01df6-189">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="01df6-189">**Release upgrading from**</span></span>|<span data-ttu-id="01df6-190">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="01df6-190">**Release date**</span></span>|<span data-ttu-id="01df6-191">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="01df6-191">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="78003-194">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="78003-194">**Release upgrading from**</span></span>|<span data-ttu-id="78003-195">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="78003-195">**Release date**</span></span>|<span data-ttu-id="78003-196">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="78003-196">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="01df6-192">版本 2101 (組建 13628.20528)</span><span class="sxs-lookup"><span data-stu-id="01df6-192">Version 2101 (Build 13628.20528)</span></span> <br/> |<span data-ttu-id="01df6-193">2021 年 3 月 9 日</span><span class="sxs-lookup"><span data-stu-id="01df6-193">March 9, 2021</span></span> <br/> |<span data-ttu-id="01df6-194">190</span><span class="sxs-lookup"><span data-stu-id="01df6-194">190</span></span><br/> |
+|<span data-ttu-id="78003-197">版本 2101 (組建 13628.20528)</span><span class="sxs-lookup"><span data-stu-id="78003-197">Version 2101 (Build 13628.20528)</span></span> <br/> |<span data-ttu-id="78003-198">2021 年 3 月 9 日</span><span class="sxs-lookup"><span data-stu-id="78003-198">March 9, 2021</span></span> <br/> |<span data-ttu-id="78003-199">190</span><span class="sxs-lookup"><span data-stu-id="78003-199">190</span></span><br/> |
 
 
 
-### <a name="semi-annual-enterprise-channel-preview"></a><span data-ttu-id="01df6-195">半年企業通道 (預覽)</span><span class="sxs-lookup"><span data-stu-id="01df6-195">Semi-Annual Enterprise Channel (Preview)</span></span>
+### <a name="semi-annual-enterprise-channel-preview"></a><span data-ttu-id="78003-200">半年企業通道 (預覽)</span><span class="sxs-lookup"><span data-stu-id="78003-200">Semi-Annual Enterprise Channel (Preview)</span></span>
 
-<span data-ttu-id="01df6-196">最新的版本是版本 2102 (組建 13801.20506)。</span><span class="sxs-lookup"><span data-stu-id="01df6-196">The most current release is Version 2102 (Build 13801.20506).</span></span>
+<span data-ttu-id="78003-201">最新的版本是版本 2102 (組建 13801.20506)。</span><span class="sxs-lookup"><span data-stu-id="78003-201">The most current release is Version 2102 (Build 13801.20506).</span></span>
 
-|<span data-ttu-id="01df6-197">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="01df6-197">**Release upgrading from**</span></span>|<span data-ttu-id="01df6-198">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="01df6-198">**Release date**</span></span>|<span data-ttu-id="01df6-199">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="01df6-199">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="78003-202">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="78003-202">**Release upgrading from**</span></span>|<span data-ttu-id="78003-203">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="78003-203">**Release date**</span></span>|<span data-ttu-id="78003-204">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="78003-204">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="01df6-200">版本 2102 (組建 13801.20294)</span><span class="sxs-lookup"><span data-stu-id="01df6-200">Version 2102 (Build 13801.20294)</span></span> <br/> |<span data-ttu-id="01df6-201">2021 年 3 月 9 日</span><span class="sxs-lookup"><span data-stu-id="01df6-201">March 9, 2021</span></span> <br/> |<span data-ttu-id="01df6-202">63</span><span class="sxs-lookup"><span data-stu-id="01df6-202">63</span></span><br/> |
-|<span data-ttu-id="01df6-203">版本 2008 (組建 13127.21216)</span><span class="sxs-lookup"><span data-stu-id="01df6-203">Version 2008 (Build 13127.21216)</span></span> <br/> |<span data-ttu-id="01df6-204">2021 年 2 月 9 日</span><span class="sxs-lookup"><span data-stu-id="01df6-204">February 9, 2021</span></span> <br/> |<span data-ttu-id="01df6-205">444</span><span class="sxs-lookup"><span data-stu-id="01df6-205">444</span></span><br/> |
+|<span data-ttu-id="78003-205">版本 2102 (組建 13801.20294)</span><span class="sxs-lookup"><span data-stu-id="78003-205">Version 2102 (Build 13801.20294)</span></span> <br/> |<span data-ttu-id="78003-206">2021 年 3 月 9 日</span><span class="sxs-lookup"><span data-stu-id="78003-206">March 9, 2021</span></span> <br/> |<span data-ttu-id="78003-207">63</span><span class="sxs-lookup"><span data-stu-id="78003-207">63</span></span><br/> |
+|<span data-ttu-id="78003-208">版本 2008 (組建 13127.21216)</span><span class="sxs-lookup"><span data-stu-id="78003-208">Version 2008 (Build 13127.21216)</span></span> <br/> |<span data-ttu-id="78003-209">2021 年 2 月 9 日</span><span class="sxs-lookup"><span data-stu-id="78003-209">February 9, 2021</span></span> <br/> |<span data-ttu-id="78003-210">444</span><span class="sxs-lookup"><span data-stu-id="78003-210">444</span></span><br/> |
 
 
-### <a name="semi-annual-enterprise-channel"></a><span data-ttu-id="01df6-206">半年企業通道</span><span class="sxs-lookup"><span data-stu-id="01df6-206">Semi-Annual Enterprise Channel</span></span>
+### <a name="semi-annual-enterprise-channel"></a><span data-ttu-id="78003-211">半年企業通道</span><span class="sxs-lookup"><span data-stu-id="78003-211">Semi-Annual Enterprise Channel</span></span>
 
-<span data-ttu-id="01df6-207">最新的版本是版本 2008 (組建 13127.21506)。</span><span class="sxs-lookup"><span data-stu-id="01df6-207">The most current release is Version 2008 (Build 13127.21506).</span></span>
+<span data-ttu-id="78003-212">最新的版本是版本 2008 (組建 13127.21506)。</span><span class="sxs-lookup"><span data-stu-id="78003-212">The most current release is Version 2008 (Build 13127.21506).</span></span>
 
-|<span data-ttu-id="01df6-208">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="01df6-208">**Release upgrading from**</span></span>|<span data-ttu-id="01df6-209">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="01df6-209">**Release date**</span></span>|<span data-ttu-id="01df6-210">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="01df6-210">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="78003-213">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="78003-213">**Release upgrading from**</span></span>|<span data-ttu-id="78003-214">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="78003-214">**Release date**</span></span>|<span data-ttu-id="78003-215">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="78003-215">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="01df6-211">版本 2008 (組建 13127.21348)</span><span class="sxs-lookup"><span data-stu-id="01df6-211">Version 2008 (Build 13127.21348)</span></span> <br/> |<span data-ttu-id="01df6-212">2021 年 3 月 9 日</span><span class="sxs-lookup"><span data-stu-id="01df6-212">March 9, 2021</span></span> <br/> |<span data-ttu-id="01df6-213">61</span><span class="sxs-lookup"><span data-stu-id="01df6-213">61</span></span><br/> |
-|<span data-ttu-id="01df6-214">版本 2008 (組建 13127.21216)</span><span class="sxs-lookup"><span data-stu-id="01df6-214">Version 2008 (Build 13127.21216)</span></span> <br/> |<span data-ttu-id="01df6-215">2021 年 2 月 9 日</span><span class="sxs-lookup"><span data-stu-id="01df6-215">February 9, 2021</span></span> <br/> |<span data-ttu-id="01df6-216">62</span><span class="sxs-lookup"><span data-stu-id="01df6-216">62</span></span><br/> |
+|<span data-ttu-id="78003-216">版本 2008 (組建 13127.21348)</span><span class="sxs-lookup"><span data-stu-id="78003-216">Version 2008 (Build 13127.21348)</span></span> <br/> |<span data-ttu-id="78003-217">2021 年 3 月 9 日</span><span class="sxs-lookup"><span data-stu-id="78003-217">March 9, 2021</span></span> <br/> |<span data-ttu-id="78003-218">61</span><span class="sxs-lookup"><span data-stu-id="78003-218">61</span></span><br/> |
+|<span data-ttu-id="78003-219">版本 2008 (組建 13127.21216)</span><span class="sxs-lookup"><span data-stu-id="78003-219">Version 2008 (Build 13127.21216)</span></span> <br/> |<span data-ttu-id="78003-220">2021 年 2 月 9 日</span><span class="sxs-lookup"><span data-stu-id="78003-220">February 9, 2021</span></span> <br/> |<span data-ttu-id="78003-221">62</span><span class="sxs-lookup"><span data-stu-id="78003-221">62</span></span><br/> |
 
 
 [//]: # (DO NOT REMOVE CONTENT ENDApril 13, 2021)
@@ -149,95 +154,95 @@ ms.locfileid: "52278070"
 
 
 
-## <a name="april-2-2021"></a><span data-ttu-id="01df6-218">2021 年 4 月 2 日</span><span class="sxs-lookup"><span data-stu-id="01df6-218">April 2, 2021</span></span>
+## <a name="april-2-2021"></a><span data-ttu-id="78003-223">2021 年 4 月 2 日</span><span class="sxs-lookup"><span data-stu-id="78003-223">April 2, 2021</span></span>
 
 [//]: # (DO NOT REMOVE CONTENT STARTApril 2, 2021)
 
-### <a name="current-channel"></a><span data-ttu-id="01df6-220">目前通道</span><span class="sxs-lookup"><span data-stu-id="01df6-220">Current Channel</span></span>
+### <a name="current-channel"></a><span data-ttu-id="78003-225">目前通道</span><span class="sxs-lookup"><span data-stu-id="78003-225">Current Channel</span></span>
 
-<span data-ttu-id="01df6-221">最新的版本是版本 2103 (組建 13901.20336)。</span><span class="sxs-lookup"><span data-stu-id="01df6-221">The most current release is Version 2103 (Build 13901.20336).</span></span>
+<span data-ttu-id="78003-226">最新的版本是版本 2103 (組建 13901.20336)。</span><span class="sxs-lookup"><span data-stu-id="78003-226">The most current release is Version 2103 (Build 13901.20336).</span></span>
 
-|<span data-ttu-id="01df6-222">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="01df6-222">**Release upgrading from**</span></span>|<span data-ttu-id="01df6-223">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="01df6-223">**Release date**</span></span>|<span data-ttu-id="01df6-224">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="01df6-224">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="78003-227">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="78003-227">**Release upgrading from**</span></span>|<span data-ttu-id="78003-228">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="78003-228">**Release date**</span></span>|<span data-ttu-id="78003-229">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="78003-229">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="01df6-225">版本 2103 (組建 13901.20312)</span><span class="sxs-lookup"><span data-stu-id="01df6-225">Version 2103 (Build 13901.20312)</span></span> <br/> |<span data-ttu-id="01df6-226">2021 年 3 月 30 日</span><span class="sxs-lookup"><span data-stu-id="01df6-226">March 30, 2021</span></span> <br/> |<span data-ttu-id="01df6-227">57</span><span class="sxs-lookup"><span data-stu-id="01df6-227">57</span></span><br/> |
-|<span data-ttu-id="01df6-228">版本 2102 (組建 13801.20360)</span><span class="sxs-lookup"><span data-stu-id="01df6-228">Version 2102 (Build 13801.20360)</span></span> <br/> |<span data-ttu-id="01df6-229">2021 年 3 月 18 日</span><span class="sxs-lookup"><span data-stu-id="01df6-229">March 18, 2021</span></span> <br/> |<span data-ttu-id="01df6-230">149</span><span class="sxs-lookup"><span data-stu-id="01df6-230">149</span></span><br/> |
+|<span data-ttu-id="78003-230">版本 2103 (組建 13901.20312)</span><span class="sxs-lookup"><span data-stu-id="78003-230">Version 2103 (Build 13901.20312)</span></span> <br/> |<span data-ttu-id="78003-231">2021 年 3 月 30 日</span><span class="sxs-lookup"><span data-stu-id="78003-231">March 30, 2021</span></span> <br/> |<span data-ttu-id="78003-232">57</span><span class="sxs-lookup"><span data-stu-id="78003-232">57</span></span><br/> |
+|<span data-ttu-id="78003-233">版本 2102 (組建 13801.20360)</span><span class="sxs-lookup"><span data-stu-id="78003-233">Version 2102 (Build 13801.20360)</span></span> <br/> |<span data-ttu-id="78003-234">2021 年 3 月 18 日</span><span class="sxs-lookup"><span data-stu-id="78003-234">March 18, 2021</span></span> <br/> |<span data-ttu-id="78003-235">149</span><span class="sxs-lookup"><span data-stu-id="78003-235">149</span></span><br/> |
 
 
 [//]: # (DO NOT REMOVE CONTENT ENDApril 2, 2021)
 
-## <a name="march-30-2021"></a><span data-ttu-id="01df6-232">2021 年 3 月 30 日</span><span class="sxs-lookup"><span data-stu-id="01df6-232">March 30, 2021</span></span>
+## <a name="march-30-2021"></a><span data-ttu-id="78003-237">2021 年 3 月 30 日</span><span class="sxs-lookup"><span data-stu-id="78003-237">March 30, 2021</span></span>
 
 [//]: # (DO NOT REMOVE CONTENT STARTMarch 30, 2021)
 
-### <a name="current-channel"></a><span data-ttu-id="01df6-234">目前通道</span><span class="sxs-lookup"><span data-stu-id="01df6-234">Current Channel</span></span>
+### <a name="current-channel"></a><span data-ttu-id="78003-239">目前通道</span><span class="sxs-lookup"><span data-stu-id="78003-239">Current Channel</span></span>
 
-<span data-ttu-id="01df6-235">最新的版本是版本 2103 (組建 13901.20312)。</span><span class="sxs-lookup"><span data-stu-id="01df6-235">The most current release is Version 2103 (Build 13901.20312).</span></span>
+<span data-ttu-id="78003-240">最新的版本是版本 2103 (組建 13901.20312)。</span><span class="sxs-lookup"><span data-stu-id="78003-240">The most current release is Version 2103 (Build 13901.20312).</span></span>
 
-|<span data-ttu-id="01df6-236">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="01df6-236">**Release upgrading from**</span></span>|<span data-ttu-id="01df6-237">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="01df6-237">**Release date**</span></span>|<span data-ttu-id="01df6-238">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="01df6-238">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="78003-241">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="78003-241">**Release upgrading from**</span></span>|<span data-ttu-id="78003-242">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="78003-242">**Release date**</span></span>|<span data-ttu-id="78003-243">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="78003-243">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="01df6-239">版本 2102 (組建 13801.20360)</span><span class="sxs-lookup"><span data-stu-id="01df6-239">Version 2102 (Build 13801.20360)</span></span> <br/> |<span data-ttu-id="01df6-240">2021 年 3 月 18 日</span><span class="sxs-lookup"><span data-stu-id="01df6-240">March 18, 2021</span></span> <br/> |<span data-ttu-id="01df6-241">147</span><span class="sxs-lookup"><span data-stu-id="01df6-241">147</span></span><br/> |
-|<span data-ttu-id="01df6-242">版本 2102 (組建 13801.20294)</span><span class="sxs-lookup"><span data-stu-id="01df6-242">Version 2102 (Build 13801.20294)</span></span> <br/> |<span data-ttu-id="01df6-243">2021 年 3 月 9 日</span><span class="sxs-lookup"><span data-stu-id="01df6-243">March 9, 2021</span></span> <br/> |<span data-ttu-id="01df6-244">157</span><span class="sxs-lookup"><span data-stu-id="01df6-244">157</span></span><br/> |
+|<span data-ttu-id="78003-244">版本 2102 (組建 13801.20360)</span><span class="sxs-lookup"><span data-stu-id="78003-244">Version 2102 (Build 13801.20360)</span></span> <br/> |<span data-ttu-id="78003-245">2021 年 3 月 18 日</span><span class="sxs-lookup"><span data-stu-id="78003-245">March 18, 2021</span></span> <br/> |<span data-ttu-id="78003-246">147</span><span class="sxs-lookup"><span data-stu-id="78003-246">147</span></span><br/> |
+|<span data-ttu-id="78003-247">版本 2102 (組建 13801.20294)</span><span class="sxs-lookup"><span data-stu-id="78003-247">Version 2102 (Build 13801.20294)</span></span> <br/> |<span data-ttu-id="78003-248">2021 年 3 月 9 日</span><span class="sxs-lookup"><span data-stu-id="78003-248">March 9, 2021</span></span> <br/> |<span data-ttu-id="78003-249">157</span><span class="sxs-lookup"><span data-stu-id="78003-249">157</span></span><br/> |
 
 
 [//]: # (DO NOT REMOVE CONTENT ENDMarch 30, 2021)
 
-## <a name="march-18-2021"></a><span data-ttu-id="01df6-246">2021 年 3 月 18 日</span><span class="sxs-lookup"><span data-stu-id="01df6-246">March 18, 2021</span></span>
+## <a name="march-18-2021"></a><span data-ttu-id="78003-251">2021 年 3 月 18 日</span><span class="sxs-lookup"><span data-stu-id="78003-251">March 18, 2021</span></span>
 
 [//]: # (DO NOT REMOVE CONTENT STARTMarch 18, 2021)
 
-### <a name="current-channel"></a><span data-ttu-id="01df6-248">目前通道</span><span class="sxs-lookup"><span data-stu-id="01df6-248">Current Channel</span></span>
+### <a name="current-channel"></a><span data-ttu-id="78003-253">目前通道</span><span class="sxs-lookup"><span data-stu-id="78003-253">Current Channel</span></span>
 
-<span data-ttu-id="01df6-249">最新的版本是版本 2102 (組建 13801.20360)。</span><span class="sxs-lookup"><span data-stu-id="01df6-249">The most current release is Version 2102 (Build 13801.20360).</span></span>
+<span data-ttu-id="78003-254">最新的版本是版本 2102 (組建 13801.20360)。</span><span class="sxs-lookup"><span data-stu-id="78003-254">The most current release is Version 2102 (Build 13801.20360).</span></span>
 
-|<span data-ttu-id="01df6-250">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="01df6-250">**Release upgrading from**</span></span>|<span data-ttu-id="01df6-251">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="01df6-251">**Release date**</span></span>|<span data-ttu-id="01df6-252">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="01df6-252">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="78003-255">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="78003-255">**Release upgrading from**</span></span>|<span data-ttu-id="78003-256">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="78003-256">**Release date**</span></span>|<span data-ttu-id="78003-257">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="78003-257">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="01df6-253">版本 2102 (組建 13801.20294)</span><span class="sxs-lookup"><span data-stu-id="01df6-253">Version 2102 (Build 13801.20294)</span></span> <br/> |<span data-ttu-id="01df6-254">2021 年 3 月 9 日</span><span class="sxs-lookup"><span data-stu-id="01df6-254">March 9, 2021</span></span> <br/> |<span data-ttu-id="01df6-255">51</span><span class="sxs-lookup"><span data-stu-id="01df6-255">51</span></span><br/> |
-|<span data-ttu-id="01df6-256">版本 2102 (組建 13801.20266)</span><span class="sxs-lookup"><span data-stu-id="01df6-256">Version 2102 (Build 13801.20266)</span></span> <br/> |<span data-ttu-id="01df6-257">2021 年 3 月 1 日</span><span class="sxs-lookup"><span data-stu-id="01df6-257">March 1, 2021</span></span> <br/> |<span data-ttu-id="01df6-258">57</span><span class="sxs-lookup"><span data-stu-id="01df6-258">57</span></span><br/> |
+|<span data-ttu-id="78003-258">版本 2102 (組建 13801.20294)</span><span class="sxs-lookup"><span data-stu-id="78003-258">Version 2102 (Build 13801.20294)</span></span> <br/> |<span data-ttu-id="78003-259">2021 年 3 月 9 日</span><span class="sxs-lookup"><span data-stu-id="78003-259">March 9, 2021</span></span> <br/> |<span data-ttu-id="78003-260">51</span><span class="sxs-lookup"><span data-stu-id="78003-260">51</span></span><br/> |
+|<span data-ttu-id="78003-261">版本 2102 (組建 13801.20266)</span><span class="sxs-lookup"><span data-stu-id="78003-261">Version 2102 (Build 13801.20266)</span></span> <br/> |<span data-ttu-id="78003-262">2021 年 3 月 1 日</span><span class="sxs-lookup"><span data-stu-id="78003-262">March 1, 2021</span></span> <br/> |<span data-ttu-id="78003-263">57</span><span class="sxs-lookup"><span data-stu-id="78003-263">57</span></span><br/> |
 
 
 [//]: # (DO NOT REMOVE CONTENT ENDMarch 18, 2021)
 
-## <a name="march-9-2021"></a><span data-ttu-id="01df6-260">2021 年 3 月 9 日</span><span class="sxs-lookup"><span data-stu-id="01df6-260">March 9, 2021</span></span>
+## <a name="march-9-2021"></a><span data-ttu-id="78003-265">2021 年 3 月 9 日</span><span class="sxs-lookup"><span data-stu-id="78003-265">March 9, 2021</span></span>
 
 [//]: # (DO NOT REMOVE CONTENT STARTMarch 9, 2021)
 
-### <a name="current-channel"></a><span data-ttu-id="01df6-262">目前通道</span><span class="sxs-lookup"><span data-stu-id="01df6-262">Current Channel</span></span>
+### <a name="current-channel"></a><span data-ttu-id="78003-267">目前通道</span><span class="sxs-lookup"><span data-stu-id="78003-267">Current Channel</span></span>
 
-<span data-ttu-id="01df6-263">最新的版本是版本 2102 (組建 13801.20294)。</span><span class="sxs-lookup"><span data-stu-id="01df6-263">The most current release is Version 2102 (Build 13801.20294).</span></span>
+<span data-ttu-id="78003-268">最新的版本是版本 2102 (組建 13801.20294)。</span><span class="sxs-lookup"><span data-stu-id="78003-268">The most current release is Version 2102 (Build 13801.20294).</span></span>
 
-|<span data-ttu-id="01df6-264">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="01df6-264">**Release upgrading from**</span></span>|<span data-ttu-id="01df6-265">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="01df6-265">**Release date**</span></span>|<span data-ttu-id="01df6-266">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="01df6-266">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="78003-269">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="78003-269">**Release upgrading from**</span></span>|<span data-ttu-id="78003-270">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="78003-270">**Release date**</span></span>|<span data-ttu-id="78003-271">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="78003-271">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="01df6-267">版本 2102 (組建 13801.20266)</span><span class="sxs-lookup"><span data-stu-id="01df6-267">Version 2102 (Build 13801.20266)</span></span> <br/> |<span data-ttu-id="01df6-268">2021 年 3 月 1 日</span><span class="sxs-lookup"><span data-stu-id="01df6-268">March 1, 2021</span></span> <br/> |<span data-ttu-id="01df6-269">56</span><span class="sxs-lookup"><span data-stu-id="01df6-269">56</span></span><br/> |
-|<span data-ttu-id="01df6-270">版本 2101 (組建 13628.20448)</span><span class="sxs-lookup"><span data-stu-id="01df6-270">Version 2101 (Build 13628.20448)</span></span> <br/> |<span data-ttu-id="01df6-271">2021 年 2 月 16 日</span><span class="sxs-lookup"><span data-stu-id="01df6-271">February 16, 2021</span></span> <br/> |<span data-ttu-id="01df6-272">193</span><span class="sxs-lookup"><span data-stu-id="01df6-272">193</span></span><br/> |
+|<span data-ttu-id="78003-272">版本 2102 (組建 13801.20266)</span><span class="sxs-lookup"><span data-stu-id="78003-272">Version 2102 (Build 13801.20266)</span></span> <br/> |<span data-ttu-id="78003-273">2021 年 3 月 1 日</span><span class="sxs-lookup"><span data-stu-id="78003-273">March 1, 2021</span></span> <br/> |<span data-ttu-id="78003-274">56</span><span class="sxs-lookup"><span data-stu-id="78003-274">56</span></span><br/> |
+|<span data-ttu-id="78003-275">版本 2101 (組建 13628.20448)</span><span class="sxs-lookup"><span data-stu-id="78003-275">Version 2101 (Build 13628.20448)</span></span> <br/> |<span data-ttu-id="78003-276">2021 年 2 月 16 日</span><span class="sxs-lookup"><span data-stu-id="78003-276">February 16, 2021</span></span> <br/> |<span data-ttu-id="78003-277">193</span><span class="sxs-lookup"><span data-stu-id="78003-277">193</span></span><br/> |
 
 
-### <a name="monthly-enterprise-channel"></a><span data-ttu-id="01df6-273">每月企業通道</span><span class="sxs-lookup"><span data-stu-id="01df6-273">Monthly Enterprise Channel</span></span>
+### <a name="monthly-enterprise-channel"></a><span data-ttu-id="78003-278">每月企業通道</span><span class="sxs-lookup"><span data-stu-id="78003-278">Monthly Enterprise Channel</span></span>
 
-<span data-ttu-id="01df6-274">最新的版本是版本 2101 (組建 13628.20528)。</span><span class="sxs-lookup"><span data-stu-id="01df6-274">The most current release is Version 2101 (Build 13628.20528).</span></span>
+<span data-ttu-id="78003-279">最新的版本是版本 2101 (組建 13628.20528)。</span><span class="sxs-lookup"><span data-stu-id="78003-279">The most current release is Version 2101 (Build 13628.20528).</span></span>
 
-|<span data-ttu-id="01df6-275">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="01df6-275">**Release upgrading from**</span></span>|<span data-ttu-id="01df6-276">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="01df6-276">**Release date**</span></span>|<span data-ttu-id="01df6-277">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="01df6-277">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="78003-280">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="78003-280">**Release upgrading from**</span></span>|<span data-ttu-id="78003-281">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="78003-281">**Release date**</span></span>|<span data-ttu-id="78003-282">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="78003-282">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="01df6-278">版本 2012 (組建 13530.20528)</span><span class="sxs-lookup"><span data-stu-id="01df6-278">Version 2012 (Build 13530.20528)</span></span> <br/> |<span data-ttu-id="01df6-279">2021 年 2 月 9 日</span><span class="sxs-lookup"><span data-stu-id="01df6-279">February 9, 2021</span></span> <br/> |<span data-ttu-id="01df6-280">203</span><span class="sxs-lookup"><span data-stu-id="01df6-280">203</span></span><br/> |
+|<span data-ttu-id="78003-283">版本 2012 (組建 13530.20528)</span><span class="sxs-lookup"><span data-stu-id="78003-283">Version 2012 (Build 13530.20528)</span></span> <br/> |<span data-ttu-id="78003-284">2021 年 2 月 9 日</span><span class="sxs-lookup"><span data-stu-id="78003-284">February 9, 2021</span></span> <br/> |<span data-ttu-id="78003-285">203</span><span class="sxs-lookup"><span data-stu-id="78003-285">203</span></span><br/> |
 
 
-### <a name="semi-annual-enterprise-channel-preview"></a><span data-ttu-id="01df6-281">半年企業通道 (預覽)</span><span class="sxs-lookup"><span data-stu-id="01df6-281">Semi-Annual Enterprise Channel (Preview)</span></span>
+### <a name="semi-annual-enterprise-channel-preview"></a><span data-ttu-id="78003-286">半年企業通道 (預覽)</span><span class="sxs-lookup"><span data-stu-id="78003-286">Semi-Annual Enterprise Channel (Preview)</span></span>
 
-<span data-ttu-id="01df6-282">最新的版本是版本 2102 (組建 13801.20294)。</span><span class="sxs-lookup"><span data-stu-id="01df6-282">The most current release is Version 2102 (Build 13801.20294).</span></span>
+<span data-ttu-id="78003-287">最新的版本是版本 2102 (組建 13801.20294)。</span><span class="sxs-lookup"><span data-stu-id="78003-287">The most current release is Version 2102 (Build 13801.20294).</span></span>
 
-|<span data-ttu-id="01df6-283">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="01df6-283">**Release upgrading from**</span></span>|<span data-ttu-id="01df6-284">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="01df6-284">**Release date**</span></span>|<span data-ttu-id="01df6-285">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="01df6-285">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="78003-288">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="78003-288">**Release upgrading from**</span></span>|<span data-ttu-id="78003-289">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="78003-289">**Release date**</span></span>|<span data-ttu-id="78003-290">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="78003-290">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="01df6-286">版本 2008 (組建 13127.21216)</span><span class="sxs-lookup"><span data-stu-id="01df6-286">Version 2008 (Build 13127.21216)</span></span> <br/> |<span data-ttu-id="01df6-287">2021 年 2 月 9 日</span><span class="sxs-lookup"><span data-stu-id="01df6-287">February 9, 2021</span></span> <br/> |<span data-ttu-id="01df6-288">280</span><span class="sxs-lookup"><span data-stu-id="01df6-288">280</span></span><br/> |
-|<span data-ttu-id="01df6-289">版本 2008 (組建 13127.21064)</span><span class="sxs-lookup"><span data-stu-id="01df6-289">Version 2008 (Build 13127.21064)</span></span> <br/> |<span data-ttu-id="01df6-290">2021 年 1 月 12 日</span><span class="sxs-lookup"><span data-stu-id="01df6-290">January 12, 2021</span></span> <br/> |<span data-ttu-id="01df6-291">534</span><span class="sxs-lookup"><span data-stu-id="01df6-291">534</span></span><br/> |
+|<span data-ttu-id="78003-291">版本 2008 (組建 13127.21216)</span><span class="sxs-lookup"><span data-stu-id="78003-291">Version 2008 (Build 13127.21216)</span></span> <br/> |<span data-ttu-id="78003-292">2021 年 2 月 9 日</span><span class="sxs-lookup"><span data-stu-id="78003-292">February 9, 2021</span></span> <br/> |<span data-ttu-id="78003-293">280</span><span class="sxs-lookup"><span data-stu-id="78003-293">280</span></span><br/> |
+|<span data-ttu-id="78003-294">版本 2008 (組建 13127.21064)</span><span class="sxs-lookup"><span data-stu-id="78003-294">Version 2008 (Build 13127.21064)</span></span> <br/> |<span data-ttu-id="78003-295">2021 年 1 月 12 日</span><span class="sxs-lookup"><span data-stu-id="78003-295">January 12, 2021</span></span> <br/> |<span data-ttu-id="78003-296">534</span><span class="sxs-lookup"><span data-stu-id="78003-296">534</span></span><br/> |
 
 
-### <a name="semi-annual-enterprise-channel"></a><span data-ttu-id="01df6-292">半年企業通道</span><span class="sxs-lookup"><span data-stu-id="01df6-292">Semi-Annual Enterprise Channel</span></span>
+### <a name="semi-annual-enterprise-channel"></a><span data-ttu-id="78003-297">半年企業通道</span><span class="sxs-lookup"><span data-stu-id="78003-297">Semi-Annual Enterprise Channel</span></span>
 
-<span data-ttu-id="01df6-293">最新的版本是版本 2008 (組建 13127.21348)。</span><span class="sxs-lookup"><span data-stu-id="01df6-293">The most current release is Version 2008 (Build 13127.21348).</span></span>
+<span data-ttu-id="78003-298">最新的版本是版本 2008 (組建 13127.21348)。</span><span class="sxs-lookup"><span data-stu-id="78003-298">The most current release is Version 2008 (Build 13127.21348).</span></span>
 
-|<span data-ttu-id="01df6-294">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="01df6-294">**Release upgrading from**</span></span>|<span data-ttu-id="01df6-295">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="01df6-295">**Release date**</span></span>|<span data-ttu-id="01df6-296">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="01df6-296">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="78003-299">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="78003-299">**Release upgrading from**</span></span>|<span data-ttu-id="78003-300">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="78003-300">**Release date**</span></span>|<span data-ttu-id="78003-301">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="78003-301">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="01df6-297">版本 2008 (組建 13127.21216)</span><span class="sxs-lookup"><span data-stu-id="01df6-297">Version 2008 (Build 13127.21216)</span></span> <br/> |<span data-ttu-id="01df6-298">2021 年 2 月 9 日</span><span class="sxs-lookup"><span data-stu-id="01df6-298">February 9, 2021</span></span> <br/> |<span data-ttu-id="01df6-299">43</span><span class="sxs-lookup"><span data-stu-id="01df6-299">43</span></span><br/> |
-|<span data-ttu-id="01df6-300">版本 2008 (組建 13127.21064)</span><span class="sxs-lookup"><span data-stu-id="01df6-300">Version 2008 (Build 13127.21064)</span></span> <br/> |<span data-ttu-id="01df6-301">2021 年 1 月 12 日</span><span class="sxs-lookup"><span data-stu-id="01df6-301">January 12, 2021</span></span> <br/> |<span data-ttu-id="01df6-302">61</span><span class="sxs-lookup"><span data-stu-id="01df6-302">61</span></span><br/> |
+|<span data-ttu-id="78003-302">版本 2008 (組建 13127.21216)</span><span class="sxs-lookup"><span data-stu-id="78003-302">Version 2008 (Build 13127.21216)</span></span> <br/> |<span data-ttu-id="78003-303">2021 年 2 月 9 日</span><span class="sxs-lookup"><span data-stu-id="78003-303">February 9, 2021</span></span> <br/> |<span data-ttu-id="78003-304">43</span><span class="sxs-lookup"><span data-stu-id="78003-304">43</span></span><br/> |
+|<span data-ttu-id="78003-305">版本 2008 (組建 13127.21064)</span><span class="sxs-lookup"><span data-stu-id="78003-305">Version 2008 (Build 13127.21064)</span></span> <br/> |<span data-ttu-id="78003-306">2021 年 1 月 12 日</span><span class="sxs-lookup"><span data-stu-id="78003-306">January 12, 2021</span></span> <br/> |<span data-ttu-id="78003-307">61</span><span class="sxs-lookup"><span data-stu-id="78003-307">61</span></span><br/> |
 
 
 [//]: # (DO NOT REMOVE CONTENT ENDMarch 9, 2021)
@@ -245,80 +250,80 @@ ms.locfileid: "52278070"
 
 
 
-## <a name="march-1-2021"></a><span data-ttu-id="01df6-304">2021 年 3 月 1 日</span><span class="sxs-lookup"><span data-stu-id="01df6-304">March 1, 2021</span></span>
+## <a name="march-1-2021"></a><span data-ttu-id="78003-309">2021 年 3 月 1 日</span><span class="sxs-lookup"><span data-stu-id="78003-309">March 1, 2021</span></span>
 
 [//]: # (DO NOT REMOVE CONTENT STARTMarch 1, 2021)
 
-### <a name="current-channel"></a><span data-ttu-id="01df6-306">目前通道</span><span class="sxs-lookup"><span data-stu-id="01df6-306">Current Channel</span></span>
+### <a name="current-channel"></a><span data-ttu-id="78003-311">目前通道</span><span class="sxs-lookup"><span data-stu-id="78003-311">Current Channel</span></span>
 
-<span data-ttu-id="01df6-307">最新的版本是版本 2102 (組建 Build 13801.20266)。</span><span class="sxs-lookup"><span data-stu-id="01df6-307">The most current release is Version 2102 (Build 13801.20266).</span></span>
+<span data-ttu-id="78003-312">最新的版本是版本 2102 (組建 Build 13801.20266)。</span><span class="sxs-lookup"><span data-stu-id="78003-312">The most current release is Version 2102 (Build 13801.20266).</span></span>
 
-|<span data-ttu-id="01df6-308">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="01df6-308">**Release upgrading from**</span></span>|<span data-ttu-id="01df6-309">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="01df6-309">**Release date**</span></span>|<span data-ttu-id="01df6-310">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="01df6-310">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="78003-313">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="78003-313">**Release upgrading from**</span></span>|<span data-ttu-id="78003-314">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="78003-314">**Release date**</span></span>|<span data-ttu-id="78003-315">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="78003-315">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="01df6-311">版本 2101 (組建 13628.20448)</span><span class="sxs-lookup"><span data-stu-id="01df6-311">Version 2101 (Build 13628.20448)</span></span> <br/> |<span data-ttu-id="01df6-312">2021 年 2 月 16 日</span><span class="sxs-lookup"><span data-stu-id="01df6-312">February 16, 2021</span></span> <br/> |<span data-ttu-id="01df6-313">192</span><span class="sxs-lookup"><span data-stu-id="01df6-313">192</span></span><br/> |
-|<span data-ttu-id="01df6-314">版本 2101 (組建 13628.20380)</span><span class="sxs-lookup"><span data-stu-id="01df6-314">Version 2101 (Build 13628.20380)</span></span> <br/> |<span data-ttu-id="01df6-315">2021 年 2 月 9 日</span><span class="sxs-lookup"><span data-stu-id="01df6-315">February 9, 2021</span></span> <br/> |<span data-ttu-id="01df6-316">192</span><span class="sxs-lookup"><span data-stu-id="01df6-316">192</span></span><br/> |
+|<span data-ttu-id="78003-316">版本 2101 (組建 13628.20448)</span><span class="sxs-lookup"><span data-stu-id="78003-316">Version 2101 (Build 13628.20448)</span></span> <br/> |<span data-ttu-id="78003-317">2021 年 2 月 16 日</span><span class="sxs-lookup"><span data-stu-id="78003-317">February 16, 2021</span></span> <br/> |<span data-ttu-id="78003-318">192</span><span class="sxs-lookup"><span data-stu-id="78003-318">192</span></span><br/> |
+|<span data-ttu-id="78003-319">版本 2101 (組建 13628.20380)</span><span class="sxs-lookup"><span data-stu-id="78003-319">Version 2101 (Build 13628.20380)</span></span> <br/> |<span data-ttu-id="78003-320">2021 年 2 月 9 日</span><span class="sxs-lookup"><span data-stu-id="78003-320">February 9, 2021</span></span> <br/> |<span data-ttu-id="78003-321">192</span><span class="sxs-lookup"><span data-stu-id="78003-321">192</span></span><br/> |
 
 
 [//]: # (DO NOT REMOVE CONTENT ENDMarch 1, 2021)
 
-## <a name="february-16-2021"></a><span data-ttu-id="01df6-318">2021 年 2 月 16 日</span><span class="sxs-lookup"><span data-stu-id="01df6-318">February 16, 2021</span></span>
+## <a name="february-16-2021"></a><span data-ttu-id="78003-323">2021 年 2 月 16 日</span><span class="sxs-lookup"><span data-stu-id="78003-323">February 16, 2021</span></span>
 
 [//]: # (DO NOT REMOVE CONTENT STARTFebruary 17, 2021)
 
-### <a name="current-channel"></a><span data-ttu-id="01df6-320">目前通道</span><span class="sxs-lookup"><span data-stu-id="01df6-320">Current Channel</span></span>
+### <a name="current-channel"></a><span data-ttu-id="78003-325">目前通道</span><span class="sxs-lookup"><span data-stu-id="78003-325">Current Channel</span></span>
 
-<span data-ttu-id="01df6-321">最新的版本是版本 2101 (組建 13628.20448)。</span><span class="sxs-lookup"><span data-stu-id="01df6-321">The most current release is Version 2101 (Build 13628.20448).</span></span>
+<span data-ttu-id="78003-326">最新的版本是版本 2101 (組建 13628.20448)。</span><span class="sxs-lookup"><span data-stu-id="78003-326">The most current release is Version 2101 (Build 13628.20448).</span></span>
 
-|<span data-ttu-id="01df6-322">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="01df6-322">**Release upgrading from**</span></span>|<span data-ttu-id="01df6-323">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="01df6-323">**Release date**</span></span>|<span data-ttu-id="01df6-324">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="01df6-324">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="78003-327">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="78003-327">**Release upgrading from**</span></span>|<span data-ttu-id="78003-328">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="78003-328">**Release date**</span></span>|<span data-ttu-id="78003-329">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="78003-329">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="01df6-325">版本 2101 (組建 13628.20380)</span><span class="sxs-lookup"><span data-stu-id="01df6-325">Version 2101 (Build 13628.20380)</span></span> <br/> |<span data-ttu-id="01df6-326">2021 年 2 月 9 日</span><span class="sxs-lookup"><span data-stu-id="01df6-326">February 9, 2021</span></span> <br/> |<span data-ttu-id="01df6-327">160</span><span class="sxs-lookup"><span data-stu-id="01df6-327">160</span></span><br/> |
-|<span data-ttu-id="01df6-328">版本 2101 (組建 13628.20274)</span><span class="sxs-lookup"><span data-stu-id="01df6-328">Version 2101 (Build 13628.20274)</span></span> <br/> |<span data-ttu-id="01df6-329">2021 年 1 月 26 日</span><span class="sxs-lookup"><span data-stu-id="01df6-329">January 26, 2021</span></span> <br/> |<span data-ttu-id="01df6-330">63</span><span class="sxs-lookup"><span data-stu-id="01df6-330">63</span></span><br/> |
+|<span data-ttu-id="78003-330">版本 2101 (組建 13628.20380)</span><span class="sxs-lookup"><span data-stu-id="78003-330">Version 2101 (Build 13628.20380)</span></span> <br/> |<span data-ttu-id="78003-331">2021 年 2 月 9 日</span><span class="sxs-lookup"><span data-stu-id="78003-331">February 9, 2021</span></span> <br/> |<span data-ttu-id="78003-332">160</span><span class="sxs-lookup"><span data-stu-id="78003-332">160</span></span><br/> |
+|<span data-ttu-id="78003-333">版本 2101 (組建 13628.20274)</span><span class="sxs-lookup"><span data-stu-id="78003-333">Version 2101 (Build 13628.20274)</span></span> <br/> |<span data-ttu-id="78003-334">2021 年 1 月 26 日</span><span class="sxs-lookup"><span data-stu-id="78003-334">January 26, 2021</span></span> <br/> |<span data-ttu-id="78003-335">63</span><span class="sxs-lookup"><span data-stu-id="78003-335">63</span></span><br/> |
 
 
 [//]: # (DO NOT REMOVE CONTENT ENDFebruary 17, 2021)
 
-## <a name="february-9-2021"></a><span data-ttu-id="01df6-332">2021 年 2 月 9 日</span><span class="sxs-lookup"><span data-stu-id="01df6-332">February 9, 2021</span></span>
+## <a name="february-9-2021"></a><span data-ttu-id="78003-337">2021 年 2 月 9 日</span><span class="sxs-lookup"><span data-stu-id="78003-337">February 9, 2021</span></span>
 
 [//]: # (DO NOT REMOVE CONTENT STARTFebruary 9, 2021)
 
-### <a name="current-channel"></a><span data-ttu-id="01df6-334">目前通道</span><span class="sxs-lookup"><span data-stu-id="01df6-334">Current Channel</span></span>
+### <a name="current-channel"></a><span data-ttu-id="78003-339">目前通道</span><span class="sxs-lookup"><span data-stu-id="78003-339">Current Channel</span></span>
 
-<span data-ttu-id="01df6-335">最新的版本是版本 2101 (組建 13628.20380)。</span><span class="sxs-lookup"><span data-stu-id="01df6-335">The most current release is Version 2101 (Build 13628.20380).</span></span>
+<span data-ttu-id="78003-340">最新的版本是版本 2101 (組建 13628.20380)。</span><span class="sxs-lookup"><span data-stu-id="78003-340">The most current release is Version 2101 (Build 13628.20380).</span></span>
 
-|<span data-ttu-id="01df6-336">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="01df6-336">**Release upgrading from**</span></span>|<span data-ttu-id="01df6-337">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="01df6-337">**Release date**</span></span>|<span data-ttu-id="01df6-338">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="01df6-338">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="78003-341">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="78003-341">**Release upgrading from**</span></span>|<span data-ttu-id="78003-342">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="78003-342">**Release date**</span></span>|<span data-ttu-id="78003-343">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="78003-343">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="01df6-339">版本 2101 (組建 13628.20274)</span><span class="sxs-lookup"><span data-stu-id="01df6-339">Version 2101 (Build 13628.20274)</span></span> <br/> |<span data-ttu-id="01df6-340">2021 年 1 月 26 日</span><span class="sxs-lookup"><span data-stu-id="01df6-340">January 26, 2021</span></span> <br/> |<span data-ttu-id="01df6-341">62</span><span class="sxs-lookup"><span data-stu-id="01df6-341">62</span></span><br/> |
-|<span data-ttu-id="01df6-342">版本 2012 (組建 13530.20440)</span><span class="sxs-lookup"><span data-stu-id="01df6-342">Version 2012 (Build 13530.20440)</span></span> <br/> |<span data-ttu-id="01df6-343">2021 年 1 月 21 日</span><span class="sxs-lookup"><span data-stu-id="01df6-343">January 21, 2021</span></span> <br/> |<span data-ttu-id="01df6-344">203</span><span class="sxs-lookup"><span data-stu-id="01df6-344">203</span></span><br/> |
+|<span data-ttu-id="78003-344">版本 2101 (組建 13628.20274)</span><span class="sxs-lookup"><span data-stu-id="78003-344">Version 2101 (Build 13628.20274)</span></span> <br/> |<span data-ttu-id="78003-345">2021 年 1 月 26 日</span><span class="sxs-lookup"><span data-stu-id="78003-345">January 26, 2021</span></span> <br/> |<span data-ttu-id="78003-346">62</span><span class="sxs-lookup"><span data-stu-id="78003-346">62</span></span><br/> |
+|<span data-ttu-id="78003-347">版本 2012 (組建 13530.20440)</span><span class="sxs-lookup"><span data-stu-id="78003-347">Version 2012 (Build 13530.20440)</span></span> <br/> |<span data-ttu-id="78003-348">2021 年 1 月 21 日</span><span class="sxs-lookup"><span data-stu-id="78003-348">January 21, 2021</span></span> <br/> |<span data-ttu-id="78003-349">203</span><span class="sxs-lookup"><span data-stu-id="78003-349">203</span></span><br/> |
 
 
-### <a name="monthly-enterprise-channel"></a><span data-ttu-id="01df6-345">每月企業通道</span><span class="sxs-lookup"><span data-stu-id="01df6-345">Monthly Enterprise Channel</span></span>
+### <a name="monthly-enterprise-channel"></a><span data-ttu-id="78003-350">每月企業通道</span><span class="sxs-lookup"><span data-stu-id="78003-350">Monthly Enterprise Channel</span></span>
 
-<span data-ttu-id="01df6-346">最新的版本是版本 2012 (組建 13530.20528)。</span><span class="sxs-lookup"><span data-stu-id="01df6-346">The most current release is Version 2012 (Build 13530.20528).</span></span>
+<span data-ttu-id="78003-351">最新的版本是版本 2012 (組建 13530.20528)。</span><span class="sxs-lookup"><span data-stu-id="78003-351">The most current release is Version 2012 (Build 13530.20528).</span></span>
 
-|<span data-ttu-id="01df6-347">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="01df6-347">**Release upgrading from**</span></span>|<span data-ttu-id="01df6-348">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="01df6-348">**Release date**</span></span>|<span data-ttu-id="01df6-349">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="01df6-349">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="78003-352">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="78003-352">**Release upgrading from**</span></span>|<span data-ttu-id="78003-353">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="78003-353">**Release date**</span></span>|<span data-ttu-id="78003-354">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="78003-354">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="01df6-350">版本 2011 (組建 13426.20526)</span><span class="sxs-lookup"><span data-stu-id="01df6-350">Version 2011 (Build 13426.20526)</span></span> <br/> |<span data-ttu-id="01df6-351">2021 年 1 月 12 日</span><span class="sxs-lookup"><span data-stu-id="01df6-351">January 12, 2021</span></span> <br/> |<span data-ttu-id="01df6-352">143</span><span class="sxs-lookup"><span data-stu-id="01df6-352">143</span></span><br/> |
+|<span data-ttu-id="78003-355">版本 2011 (組建 13426.20526)</span><span class="sxs-lookup"><span data-stu-id="78003-355">Version 2011 (Build 13426.20526)</span></span> <br/> |<span data-ttu-id="78003-356">2021 年 1 月 12 日</span><span class="sxs-lookup"><span data-stu-id="78003-356">January 12, 2021</span></span> <br/> |<span data-ttu-id="78003-357">143</span><span class="sxs-lookup"><span data-stu-id="78003-357">143</span></span><br/> |
 
 
 
-### <a name="semi-annual-enterprise-channel-preview"></a><span data-ttu-id="01df6-353">半年企業通道 (預覽)</span><span class="sxs-lookup"><span data-stu-id="01df6-353">Semi-Annual Enterprise Channel (Preview)</span></span>
+### <a name="semi-annual-enterprise-channel-preview"></a><span data-ttu-id="78003-358">半年企業通道 (預覽)</span><span class="sxs-lookup"><span data-stu-id="78003-358">Semi-Annual Enterprise Channel (Preview)</span></span>
 
-<span data-ttu-id="01df6-354">最新的版本是版本 2008 (組建 13127.21216)。</span><span class="sxs-lookup"><span data-stu-id="01df6-354">The most current release is Version 2008 (Build 13127.21216).</span></span>
+<span data-ttu-id="78003-359">最新的版本是版本 2008 (組建 13127.21216)。</span><span class="sxs-lookup"><span data-stu-id="78003-359">The most current release is Version 2008 (Build 13127.21216).</span></span>
 
-|<span data-ttu-id="01df6-355">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="01df6-355">**Release upgrading from**</span></span>|<span data-ttu-id="01df6-356">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="01df6-356">**Release date**</span></span>|<span data-ttu-id="01df6-357">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="01df6-357">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="78003-360">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="78003-360">**Release upgrading from**</span></span>|<span data-ttu-id="78003-361">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="78003-361">**Release date**</span></span>|<span data-ttu-id="78003-362">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="78003-362">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="01df6-358">版本 2008 (組建 13127.21064)</span><span class="sxs-lookup"><span data-stu-id="01df6-358">Version 2008 (Build 13127.21064)</span></span> <br/> |<span data-ttu-id="01df6-359">2021 年 1 月 12 日</span><span class="sxs-lookup"><span data-stu-id="01df6-359">January 12, 2021</span></span> <br/> |<span data-ttu-id="01df6-360">60</span><span class="sxs-lookup"><span data-stu-id="01df6-360">60</span></span><br/> |
-|<span data-ttu-id="01df6-361">版本 2008 (組建 13127.20910)</span><span class="sxs-lookup"><span data-stu-id="01df6-361">Version 2008 (Build 13127.20910)</span></span> <br/> |<span data-ttu-id="01df6-362">2020 年 12 月 8 日</span><span class="sxs-lookup"><span data-stu-id="01df6-362">December 8, 2020</span></span> <br/> |<span data-ttu-id="01df6-363">62</span><span class="sxs-lookup"><span data-stu-id="01df6-363">62</span></span><br/> |
+|<span data-ttu-id="78003-363">版本 2008 (組建 13127.21064)</span><span class="sxs-lookup"><span data-stu-id="78003-363">Version 2008 (Build 13127.21064)</span></span> <br/> |<span data-ttu-id="78003-364">2021 年 1 月 12 日</span><span class="sxs-lookup"><span data-stu-id="78003-364">January 12, 2021</span></span> <br/> |<span data-ttu-id="78003-365">60</span><span class="sxs-lookup"><span data-stu-id="78003-365">60</span></span><br/> |
+|<span data-ttu-id="78003-366">版本 2008 (組建 13127.20910)</span><span class="sxs-lookup"><span data-stu-id="78003-366">Version 2008 (Build 13127.20910)</span></span> <br/> |<span data-ttu-id="78003-367">2020 年 12 月 8 日</span><span class="sxs-lookup"><span data-stu-id="78003-367">December 8, 2020</span></span> <br/> |<span data-ttu-id="78003-368">62</span><span class="sxs-lookup"><span data-stu-id="78003-368">62</span></span><br/> |
 
 
-### <a name="semi-annual-enterprise-channel"></a><span data-ttu-id="01df6-364">半年企業通道</span><span class="sxs-lookup"><span data-stu-id="01df6-364">Semi-Annual Enterprise Channel</span></span>
+### <a name="semi-annual-enterprise-channel"></a><span data-ttu-id="78003-369">半年企業通道</span><span class="sxs-lookup"><span data-stu-id="78003-369">Semi-Annual Enterprise Channel</span></span>
 
-<span data-ttu-id="01df6-365">最新的版本是版本 2008 (組建 13127.21216)。</span><span class="sxs-lookup"><span data-stu-id="01df6-365">The most current release is Version 2008 (Build 13127.21216).</span></span>
+<span data-ttu-id="78003-370">最新的版本是版本 2008 (組建 13127.21216)。</span><span class="sxs-lookup"><span data-stu-id="78003-370">The most current release is Version 2008 (Build 13127.21216).</span></span>
 
-|<span data-ttu-id="01df6-366">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="01df6-366">**Release upgrading from**</span></span>|<span data-ttu-id="01df6-367">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="01df6-367">**Release date**</span></span>|<span data-ttu-id="01df6-368">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="01df6-368">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="78003-371">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="78003-371">**Release upgrading from**</span></span>|<span data-ttu-id="78003-372">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="78003-372">**Release date**</span></span>|<span data-ttu-id="78003-373">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="78003-373">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="01df6-369">版本 2008 (組建 13127.21064)</span><span class="sxs-lookup"><span data-stu-id="01df6-369">Version 2008 (Build 13127.21064)</span></span> <br/> |<span data-ttu-id="01df6-370">2021 年 1 月 12 日</span><span class="sxs-lookup"><span data-stu-id="01df6-370">January 12, 2021</span></span> <br/> |<span data-ttu-id="01df6-371">60</span><span class="sxs-lookup"><span data-stu-id="01df6-371">60</span></span><br/> |
-|<span data-ttu-id="01df6-372">版本 2002 (組建 12527.21416)</span><span class="sxs-lookup"><span data-stu-id="01df6-372">Version 2002 (Build 12527.21416)</span></span> <br/> |<span data-ttu-id="01df6-373">2020 年 12 月 8 日</span><span class="sxs-lookup"><span data-stu-id="01df6-373">December 8, 2020</span></span> <br/> |<span data-ttu-id="01df6-374">363</span><span class="sxs-lookup"><span data-stu-id="01df6-374">363</span></span><br/> |
+|<span data-ttu-id="78003-374">版本 2008 (組建 13127.21064)</span><span class="sxs-lookup"><span data-stu-id="78003-374">Version 2008 (Build 13127.21064)</span></span> <br/> |<span data-ttu-id="78003-375">2021 年 1 月 12 日</span><span class="sxs-lookup"><span data-stu-id="78003-375">January 12, 2021</span></span> <br/> |<span data-ttu-id="78003-376">60</span><span class="sxs-lookup"><span data-stu-id="78003-376">60</span></span><br/> |
+|<span data-ttu-id="78003-377">版本 2002 (組建 12527.21416)</span><span class="sxs-lookup"><span data-stu-id="78003-377">Version 2002 (Build 12527.21416)</span></span> <br/> |<span data-ttu-id="78003-378">2020 年 12 月 8 日</span><span class="sxs-lookup"><span data-stu-id="78003-378">December 8, 2020</span></span> <br/> |<span data-ttu-id="78003-379">363</span><span class="sxs-lookup"><span data-stu-id="78003-379">363</span></span><br/> |
 
 
 [//]: # (DO NOT REMOVE CONTENT ENDFebruary 9, 2021)
@@ -326,79 +331,79 @@ ms.locfileid: "52278070"
 
 
 
-## <a name="january-26-2021"></a><span data-ttu-id="01df6-376">2021 年 1 月 26 日</span><span class="sxs-lookup"><span data-stu-id="01df6-376">January 26, 2021</span></span>
+## <a name="january-26-2021"></a><span data-ttu-id="78003-381">2021 年 1 月 26 日</span><span class="sxs-lookup"><span data-stu-id="78003-381">January 26, 2021</span></span>
 
 [//]: # (DO NOT REMOVE CONTENT STARTJanuary 26, 2021)
 
-### <a name="current-channel"></a><span data-ttu-id="01df6-378">目前通道</span><span class="sxs-lookup"><span data-stu-id="01df6-378">Current Channel</span></span>
+### <a name="current-channel"></a><span data-ttu-id="78003-383">目前通道</span><span class="sxs-lookup"><span data-stu-id="78003-383">Current Channel</span></span>
 
-<span data-ttu-id="01df6-379">最新的版本是版本 2101 (組建 13628.20274)。</span><span class="sxs-lookup"><span data-stu-id="01df6-379">The most current release is Version 2101 (Build 13628.20274).</span></span>
+<span data-ttu-id="78003-384">最新的版本是版本 2101 (組建 13628.20274)。</span><span class="sxs-lookup"><span data-stu-id="78003-384">The most current release is Version 2101 (Build 13628.20274).</span></span>
 
-|<span data-ttu-id="01df6-380">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="01df6-380">**Release upgrading from**</span></span>|<span data-ttu-id="01df6-381">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="01df6-381">**Release date**</span></span>|<span data-ttu-id="01df6-382">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="01df6-382">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="78003-385">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="78003-385">**Release upgrading from**</span></span>|<span data-ttu-id="78003-386">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="78003-386">**Release date**</span></span>|<span data-ttu-id="78003-387">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="78003-387">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="01df6-383">版本 2012 (組建 13530.20440)</span><span class="sxs-lookup"><span data-stu-id="01df6-383">Version 2012 (Build 13530.20440)</span></span> <br/> |<span data-ttu-id="01df6-384">2021 年 1 月 21 日</span><span class="sxs-lookup"><span data-stu-id="01df6-384">January 21, 2021</span></span> <br/> |<span data-ttu-id="01df6-385">197</span><span class="sxs-lookup"><span data-stu-id="01df6-385">197</span></span><br/> |
-|<span data-ttu-id="01df6-386">版本 2012 (組建 13530.20376)</span><span class="sxs-lookup"><span data-stu-id="01df6-386">Version 2012 (Build 13530.20376)</span></span> <br/> |<span data-ttu-id="01df6-387">2021 年 1 月 12 日</span><span class="sxs-lookup"><span data-stu-id="01df6-387">January 12, 2021</span></span> <br/> |<span data-ttu-id="01df6-388">211</span><span class="sxs-lookup"><span data-stu-id="01df6-388">211</span></span><br/> |
+|<span data-ttu-id="78003-388">版本 2012 (組建 13530.20440)</span><span class="sxs-lookup"><span data-stu-id="78003-388">Version 2012 (Build 13530.20440)</span></span> <br/> |<span data-ttu-id="78003-389">2021 年 1 月 21 日</span><span class="sxs-lookup"><span data-stu-id="78003-389">January 21, 2021</span></span> <br/> |<span data-ttu-id="78003-390">197</span><span class="sxs-lookup"><span data-stu-id="78003-390">197</span></span><br/> |
+|<span data-ttu-id="78003-391">版本 2012 (組建 13530.20376)</span><span class="sxs-lookup"><span data-stu-id="78003-391">Version 2012 (Build 13530.20376)</span></span> <br/> |<span data-ttu-id="78003-392">2021 年 1 月 12 日</span><span class="sxs-lookup"><span data-stu-id="78003-392">January 12, 2021</span></span> <br/> |<span data-ttu-id="78003-393">211</span><span class="sxs-lookup"><span data-stu-id="78003-393">211</span></span><br/> |
 
 
 [//]: # (DO NOT REMOVE CONTENT ENDJanuary 26, 2021)
 
-## <a name="january-21-2021"></a><span data-ttu-id="01df6-390">2021 年 1 月 21 日</span><span class="sxs-lookup"><span data-stu-id="01df6-390">January 21, 2021</span></span>
+## <a name="january-21-2021"></a><span data-ttu-id="78003-395">2021 年 1 月 21 日</span><span class="sxs-lookup"><span data-stu-id="78003-395">January 21, 2021</span></span>
 
 [//]: # (DO NOT REMOVE CONTENT STARTJanuary 21, 2021)
 
-### <a name="current-channel"></a><span data-ttu-id="01df6-392">目前通道</span><span class="sxs-lookup"><span data-stu-id="01df6-392">Current Channel</span></span>
+### <a name="current-channel"></a><span data-ttu-id="78003-397">目前通道</span><span class="sxs-lookup"><span data-stu-id="78003-397">Current Channel</span></span>
 
-<span data-ttu-id="01df6-393">最新的版本是版本 2012 (組建 13530.20440)。</span><span class="sxs-lookup"><span data-stu-id="01df6-393">The most current release is Version 2012 (Build 13530.20440).</span></span>
+<span data-ttu-id="78003-398">最新的版本是版本 2012 (組建 13530.20440)。</span><span class="sxs-lookup"><span data-stu-id="78003-398">The most current release is Version 2012 (Build 13530.20440).</span></span>
 
-|<span data-ttu-id="01df6-394">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="01df6-394">**Release upgrading from**</span></span>|<span data-ttu-id="01df6-395">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="01df6-395">**Release date**</span></span>|<span data-ttu-id="01df6-396">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="01df6-396">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="78003-399">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="78003-399">**Release upgrading from**</span></span>|<span data-ttu-id="78003-400">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="78003-400">**Release date**</span></span>|<span data-ttu-id="78003-401">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="78003-401">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="01df6-397">版本 2012 (組建 13530.20376)</span><span class="sxs-lookup"><span data-stu-id="01df6-397">Version 2012 (Build 13530.20376)</span></span> <br/> |<span data-ttu-id="01df6-398">2021 年 1 月 12 日</span><span class="sxs-lookup"><span data-stu-id="01df6-398">January 12, 2021</span></span> <br/> |<span data-ttu-id="01df6-399">61</span><span class="sxs-lookup"><span data-stu-id="01df6-399">61</span></span><br/> |
-|<span data-ttu-id="01df6-400">版本 2012 (組建 13530.20316)</span><span class="sxs-lookup"><span data-stu-id="01df6-400">Version 2012 (Build 13530.20316)</span></span> <br/> |<span data-ttu-id="01df6-401">2021 年 1 月 4 日</span><span class="sxs-lookup"><span data-stu-id="01df6-401">January 4, 2021</span></span> <br/> |<span data-ttu-id="01df6-402">71</span><span class="sxs-lookup"><span data-stu-id="01df6-402">71</span></span><br/> |
+|<span data-ttu-id="78003-402">版本 2012 (組建 13530.20376)</span><span class="sxs-lookup"><span data-stu-id="78003-402">Version 2012 (Build 13530.20376)</span></span> <br/> |<span data-ttu-id="78003-403">2021 年 1 月 12 日</span><span class="sxs-lookup"><span data-stu-id="78003-403">January 12, 2021</span></span> <br/> |<span data-ttu-id="78003-404">61</span><span class="sxs-lookup"><span data-stu-id="78003-404">61</span></span><br/> |
+|<span data-ttu-id="78003-405">版本 2012 (組建 13530.20316)</span><span class="sxs-lookup"><span data-stu-id="78003-405">Version 2012 (Build 13530.20316)</span></span> <br/> |<span data-ttu-id="78003-406">2021 年 1 月 4 日</span><span class="sxs-lookup"><span data-stu-id="78003-406">January 4, 2021</span></span> <br/> |<span data-ttu-id="78003-407">71</span><span class="sxs-lookup"><span data-stu-id="78003-407">71</span></span><br/> |
 
 
 [//]: # (DO NOT REMOVE CONTENT ENDJanuary 21, 2021)
 
-## <a name="january-12-2021"></a><span data-ttu-id="01df6-404">2021 年 1 月 12 日</span><span class="sxs-lookup"><span data-stu-id="01df6-404">January 12, 2021</span></span>
+## <a name="january-12-2021"></a><span data-ttu-id="78003-409">2021 年 1 月 12 日</span><span class="sxs-lookup"><span data-stu-id="78003-409">January 12, 2021</span></span>
 
 [//]: # (DO NOT REMOVE CONTENT STARTJanuary 12, 2021)
 
-### <a name="current-channel"></a><span data-ttu-id="01df6-406">目前通道</span><span class="sxs-lookup"><span data-stu-id="01df6-406">Current Channel</span></span>
+### <a name="current-channel"></a><span data-ttu-id="78003-411">目前通道</span><span class="sxs-lookup"><span data-stu-id="78003-411">Current Channel</span></span>
 
-<span data-ttu-id="01df6-407">最新的版本是版本 2012 (組建 13530.20376)。</span><span class="sxs-lookup"><span data-stu-id="01df6-407">The most current release is Version 2012 (Build 13530.20376).</span></span>
+<span data-ttu-id="78003-412">最新的版本是版本 2012 (組建 13530.20376)。</span><span class="sxs-lookup"><span data-stu-id="78003-412">The most current release is Version 2012 (Build 13530.20376).</span></span>
 
-|<span data-ttu-id="01df6-408">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="01df6-408">**Release upgrading from**</span></span>|<span data-ttu-id="01df6-409">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="01df6-409">**Release date**</span></span>|<span data-ttu-id="01df6-410">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="01df6-410">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="78003-413">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="78003-413">**Release upgrading from**</span></span>|<span data-ttu-id="78003-414">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="78003-414">**Release date**</span></span>|<span data-ttu-id="78003-415">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="78003-415">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="01df6-411">版本 2012 (組建 13530.20316)</span><span class="sxs-lookup"><span data-stu-id="01df6-411">Version 2012 (Build 13530.20316)</span></span> <br/> |<span data-ttu-id="01df6-412">2021 年 1 月 4 日</span><span class="sxs-lookup"><span data-stu-id="01df6-412">January 4, 2021</span></span> <br/> |<span data-ttu-id="01df6-413">56</span><span class="sxs-lookup"><span data-stu-id="01df6-413">56</span></span><br/> |
-|<span data-ttu-id="01df6-414">版本 2011 (組建 13426.20404)</span><span class="sxs-lookup"><span data-stu-id="01df6-414">Version 2011 (Build 13426.20404)</span></span> <br/> |<span data-ttu-id="01df6-415">2020 年 12 月 21 日</span><span class="sxs-lookup"><span data-stu-id="01df6-415">December 21, 2020</span></span> <br/> |<span data-ttu-id="01df6-416">151</span><span class="sxs-lookup"><span data-stu-id="01df6-416">151</span></span><br/> |
+|<span data-ttu-id="78003-416">版本 2012 (組建 13530.20316)</span><span class="sxs-lookup"><span data-stu-id="78003-416">Version 2012 (Build 13530.20316)</span></span> <br/> |<span data-ttu-id="78003-417">2021 年 1 月 4 日</span><span class="sxs-lookup"><span data-stu-id="78003-417">January 4, 2021</span></span> <br/> |<span data-ttu-id="78003-418">56</span><span class="sxs-lookup"><span data-stu-id="78003-418">56</span></span><br/> |
+|<span data-ttu-id="78003-419">版本 2011 (組建 13426.20404)</span><span class="sxs-lookup"><span data-stu-id="78003-419">Version 2011 (Build 13426.20404)</span></span> <br/> |<span data-ttu-id="78003-420">2020 年 12 月 21 日</span><span class="sxs-lookup"><span data-stu-id="78003-420">December 21, 2020</span></span> <br/> |<span data-ttu-id="78003-421">151</span><span class="sxs-lookup"><span data-stu-id="78003-421">151</span></span><br/> |
 
 
-### <a name="monthly-enterprise-channel"></a><span data-ttu-id="01df6-417">每月企業通道</span><span class="sxs-lookup"><span data-stu-id="01df6-417">Monthly Enterprise Channel</span></span>
+### <a name="monthly-enterprise-channel"></a><span data-ttu-id="78003-422">每月企業通道</span><span class="sxs-lookup"><span data-stu-id="78003-422">Monthly Enterprise Channel</span></span>
 
-<span data-ttu-id="01df6-418">最新的版本是版本 2011 (組建 13426.20526)。</span><span class="sxs-lookup"><span data-stu-id="01df6-418">The most current release is Version 2011 (Build 13426.20526).</span></span>
+<span data-ttu-id="78003-423">最新的版本是版本 2011 (組建 13426.20526)。</span><span class="sxs-lookup"><span data-stu-id="78003-423">The most current release is Version 2011 (Build 13426.20526).</span></span>
 
-|<span data-ttu-id="01df6-419">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="01df6-419">**Release upgrading from**</span></span>|<span data-ttu-id="01df6-420">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="01df6-420">**Release date**</span></span>|<span data-ttu-id="01df6-421">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="01df6-421">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="78003-424">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="78003-424">**Release upgrading from**</span></span>|<span data-ttu-id="78003-425">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="78003-425">**Release date**</span></span>|<span data-ttu-id="78003-426">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="78003-426">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="01df6-422">版本 2010 (組建 13328.20478)</span><span class="sxs-lookup"><span data-stu-id="01df6-422">Version 2010 (Build 13328.20478)</span></span> <br/> |<span data-ttu-id="01df6-423">2020 年 12 月 8 日</span><span class="sxs-lookup"><span data-stu-id="01df6-423">December 8, 2020</span></span> <br/> |<span data-ttu-id="01df6-424">146</span><span class="sxs-lookup"><span data-stu-id="01df6-424">146</span></span><br/> |
+|<span data-ttu-id="78003-427">版本 2010 (組建 13328.20478)</span><span class="sxs-lookup"><span data-stu-id="78003-427">Version 2010 (Build 13328.20478)</span></span> <br/> |<span data-ttu-id="78003-428">2020 年 12 月 8 日</span><span class="sxs-lookup"><span data-stu-id="78003-428">December 8, 2020</span></span> <br/> |<span data-ttu-id="78003-429">146</span><span class="sxs-lookup"><span data-stu-id="78003-429">146</span></span><br/> |
 
 
-### <a name="semi-annual-enterprise-channel-preview"></a><span data-ttu-id="01df6-425">半年企業通道 (預覽)</span><span class="sxs-lookup"><span data-stu-id="01df6-425">Semi-Annual Enterprise Channel (Preview)</span></span>
+### <a name="semi-annual-enterprise-channel-preview"></a><span data-ttu-id="78003-430">半年企業通道 (預覽)</span><span class="sxs-lookup"><span data-stu-id="78003-430">Semi-Annual Enterprise Channel (Preview)</span></span>
 
-<span data-ttu-id="01df6-426">最新的版本是版本 2008 (組建 13127.21064)。</span><span class="sxs-lookup"><span data-stu-id="01df6-426">The most current release is Version 2008 (Build 13127.21064).</span></span>
+<span data-ttu-id="78003-431">最新的版本是版本 2008 (組建 13127.21064)。</span><span class="sxs-lookup"><span data-stu-id="78003-431">The most current release is Version 2008 (Build 13127.21064).</span></span>
 
-|<span data-ttu-id="01df6-427">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="01df6-427">**Release upgrading from**</span></span>|<span data-ttu-id="01df6-428">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="01df6-428">**Release date**</span></span>|<span data-ttu-id="01df6-429">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="01df6-429">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="78003-432">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="78003-432">**Release upgrading from**</span></span>|<span data-ttu-id="78003-433">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="78003-433">**Release date**</span></span>|<span data-ttu-id="78003-434">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="78003-434">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="01df6-430">版本 2008 (組建 13127.20910)</span><span class="sxs-lookup"><span data-stu-id="01df6-430">Version 2008 (Build 13127.20910)</span></span> <br/> |<span data-ttu-id="01df6-431">2020 年 12 月 8 日</span><span class="sxs-lookup"><span data-stu-id="01df6-431">December 8, 2020</span></span> <br/> |<span data-ttu-id="01df6-432">48</span><span class="sxs-lookup"><span data-stu-id="01df6-432">48</span></span><br/> |
-|<span data-ttu-id="01df6-433">版本 2008 (組建 13127.20760) </span><span class="sxs-lookup"><span data-stu-id="01df6-433">Version 2008 (Build 13127.20760)</span></span> <br/> |<span data-ttu-id="01df6-434">2020 年 11 月 10 日</span><span class="sxs-lookup"><span data-stu-id="01df6-434">November 10, 2020</span></span> <br/> |<span data-ttu-id="01df6-435">72</span><span class="sxs-lookup"><span data-stu-id="01df6-435">72</span></span><br/> |
+|<span data-ttu-id="78003-435">版本 2008 (組建 13127.20910)</span><span class="sxs-lookup"><span data-stu-id="78003-435">Version 2008 (Build 13127.20910)</span></span> <br/> |<span data-ttu-id="78003-436">2020 年 12 月 8 日</span><span class="sxs-lookup"><span data-stu-id="78003-436">December 8, 2020</span></span> <br/> |<span data-ttu-id="78003-437">48</span><span class="sxs-lookup"><span data-stu-id="78003-437">48</span></span><br/> |
+|<span data-ttu-id="78003-438">版本 2008 (組建 13127.20760) </span><span class="sxs-lookup"><span data-stu-id="78003-438">Version 2008 (Build 13127.20760)</span></span> <br/> |<span data-ttu-id="78003-439">2020 年 11 月 10 日</span><span class="sxs-lookup"><span data-stu-id="78003-439">November 10, 2020</span></span> <br/> |<span data-ttu-id="78003-440">72</span><span class="sxs-lookup"><span data-stu-id="78003-440">72</span></span><br/> |
 
 
-### <a name="semi-annual-enterprise-channel"></a><span data-ttu-id="01df6-436">半年企業通道</span><span class="sxs-lookup"><span data-stu-id="01df6-436">Semi-Annual Enterprise Channel</span></span>
+### <a name="semi-annual-enterprise-channel"></a><span data-ttu-id="78003-441">半年企業通道</span><span class="sxs-lookup"><span data-stu-id="78003-441">Semi-Annual Enterprise Channel</span></span>
 
-<span data-ttu-id="01df6-437">最新的版本是版本 2008 (組建 13127.21064)。</span><span class="sxs-lookup"><span data-stu-id="01df6-437">The most current release is Version 2008 (Build 13127.21064).</span></span>
+<span data-ttu-id="78003-442">最新的版本是版本 2008 (組建 13127.21064)。</span><span class="sxs-lookup"><span data-stu-id="78003-442">The most current release is Version 2008 (Build 13127.21064).</span></span>
 
-|<span data-ttu-id="01df6-438">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="01df6-438">**Release upgrading from**</span></span>|<span data-ttu-id="01df6-439">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="01df6-439">**Release date**</span></span>|<span data-ttu-id="01df6-440">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="01df6-440">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="78003-443">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="78003-443">**Release upgrading from**</span></span>|<span data-ttu-id="78003-444">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="78003-444">**Release date**</span></span>|<span data-ttu-id="78003-445">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="78003-445">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="01df6-441">版本 2002 (組建 12527.21416)</span><span class="sxs-lookup"><span data-stu-id="01df6-441">Version 2002 (Build 12527.21416)</span></span> <br/> |<span data-ttu-id="01df6-442">2020 年 12 月 8 日</span><span class="sxs-lookup"><span data-stu-id="01df6-442">December 8, 2020</span></span> <br/> |<span data-ttu-id="01df6-443">363</span><span class="sxs-lookup"><span data-stu-id="01df6-443">363</span></span><br/> |
-|<span data-ttu-id="01df6-444">版本 2002 (組建 12527.21330)</span><span class="sxs-lookup"><span data-stu-id="01df6-444">Version 2002 (Build 12527.21330)</span></span> <br/> |<span data-ttu-id="01df6-445">2020 年 11 月 10 日</span><span class="sxs-lookup"><span data-stu-id="01df6-445">November 10, 2020</span></span> <br/> |<span data-ttu-id="01df6-446">373</span><span class="sxs-lookup"><span data-stu-id="01df6-446">373</span></span><br/> |
+|<span data-ttu-id="78003-446">版本 2002 (組建 12527.21416)</span><span class="sxs-lookup"><span data-stu-id="78003-446">Version 2002 (Build 12527.21416)</span></span> <br/> |<span data-ttu-id="78003-447">2020 年 12 月 8 日</span><span class="sxs-lookup"><span data-stu-id="78003-447">December 8, 2020</span></span> <br/> |<span data-ttu-id="78003-448">363</span><span class="sxs-lookup"><span data-stu-id="78003-448">363</span></span><br/> |
+|<span data-ttu-id="78003-449">版本 2002 (組建 12527.21330)</span><span class="sxs-lookup"><span data-stu-id="78003-449">Version 2002 (Build 12527.21330)</span></span> <br/> |<span data-ttu-id="78003-450">2020 年 11 月 10 日</span><span class="sxs-lookup"><span data-stu-id="78003-450">November 10, 2020</span></span> <br/> |<span data-ttu-id="78003-451">373</span><span class="sxs-lookup"><span data-stu-id="78003-451">373</span></span><br/> |
 
 
 
@@ -407,79 +412,79 @@ ms.locfileid: "52278070"
 
 
 
-## <a name="january-5-2021"></a><span data-ttu-id="01df6-448">2021 年 1 月 5 日</span><span class="sxs-lookup"><span data-stu-id="01df6-448">January 5, 2021</span></span>
+## <a name="january-5-2021"></a><span data-ttu-id="78003-453">2021 年 1 月 5 日</span><span class="sxs-lookup"><span data-stu-id="78003-453">January 5, 2021</span></span>
 
 [//]: # (DO NOT REMOVE CONTENT STARTJanuary 5, 2021)
 
-### <a name="current-channel"></a><span data-ttu-id="01df6-450">目前通道</span><span class="sxs-lookup"><span data-stu-id="01df6-450">Current Channel</span></span>
+### <a name="current-channel"></a><span data-ttu-id="78003-455">目前通道</span><span class="sxs-lookup"><span data-stu-id="78003-455">Current Channel</span></span>
 
-<span data-ttu-id="01df6-451">最新的版本是版本 2012 (組建 13530.20316)。</span><span class="sxs-lookup"><span data-stu-id="01df6-451">The most current release is Version 2012 (Build 13530.20316).</span></span>
+<span data-ttu-id="78003-456">最新的版本是版本 2012 (組建 13530.20316)。</span><span class="sxs-lookup"><span data-stu-id="78003-456">The most current release is Version 2012 (Build 13530.20316).</span></span>
 
-|<span data-ttu-id="01df6-452">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="01df6-452">**Release upgrading from**</span></span>|<span data-ttu-id="01df6-453">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="01df6-453">**Release date**</span></span>|<span data-ttu-id="01df6-454">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="01df6-454">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="78003-457">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="78003-457">**Release upgrading from**</span></span>|<span data-ttu-id="78003-458">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="78003-458">**Release date**</span></span>|<span data-ttu-id="78003-459">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="78003-459">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="01df6-455">版本 2011 (組建 13426.20404)</span><span class="sxs-lookup"><span data-stu-id="01df6-455">Version 2011 (Build 13426.20404)</span></span> <br/> |<span data-ttu-id="01df6-456">2020 年 12 月 21 日</span><span class="sxs-lookup"><span data-stu-id="01df6-456">December 21, 2020</span></span> <br/> |<span data-ttu-id="01df6-457">149</span><span class="sxs-lookup"><span data-stu-id="01df6-457">149</span></span><br/> |
-|<span data-ttu-id="01df6-458">版本 2011 (組建 13426.20332)</span><span class="sxs-lookup"><span data-stu-id="01df6-458">Version 2011 (Build 13426.20332)</span></span> <br/> |<span data-ttu-id="01df6-459">2020 年 12 月 8 日</span><span class="sxs-lookup"><span data-stu-id="01df6-459">December 8, 2020</span></span> <br/> |<span data-ttu-id="01df6-460">149</span><span class="sxs-lookup"><span data-stu-id="01df6-460">149</span></span><br/> |
+|<span data-ttu-id="78003-460">版本 2011 (組建 13426.20404)</span><span class="sxs-lookup"><span data-stu-id="78003-460">Version 2011 (Build 13426.20404)</span></span> <br/> |<span data-ttu-id="78003-461">2020 年 12 月 21 日</span><span class="sxs-lookup"><span data-stu-id="78003-461">December 21, 2020</span></span> <br/> |<span data-ttu-id="78003-462">149</span><span class="sxs-lookup"><span data-stu-id="78003-462">149</span></span><br/> |
+|<span data-ttu-id="78003-463">版本 2011 (組建 13426.20332)</span><span class="sxs-lookup"><span data-stu-id="78003-463">Version 2011 (Build 13426.20332)</span></span> <br/> |<span data-ttu-id="78003-464">2020 年 12 月 8 日</span><span class="sxs-lookup"><span data-stu-id="78003-464">December 8, 2020</span></span> <br/> |<span data-ttu-id="78003-465">149</span><span class="sxs-lookup"><span data-stu-id="78003-465">149</span></span><br/> |
 
 
 [//]: # (DO NOT REMOVE CONTENT ENDJanuary 5, 2021)
 
-## <a name="december-21-2020"></a><span data-ttu-id="01df6-462">2020 年 12 月 21 日</span><span class="sxs-lookup"><span data-stu-id="01df6-462">December 21, 2020</span></span>
+## <a name="december-21-2020"></a><span data-ttu-id="78003-467">2020 年 12 月 21 日</span><span class="sxs-lookup"><span data-stu-id="78003-467">December 21, 2020</span></span>
 
 [//]: # (DO NOT REMOVE CONTENT STARTDecember 21, 2020)
 
-### <a name="current-channel"></a><span data-ttu-id="01df6-464">目前通道</span><span class="sxs-lookup"><span data-stu-id="01df6-464">Current Channel</span></span>
+### <a name="current-channel"></a><span data-ttu-id="78003-469">目前通道</span><span class="sxs-lookup"><span data-stu-id="78003-469">Current Channel</span></span>
 
-<span data-ttu-id="01df6-465">最新的版本是版本 2011 (組建 13426.20404)。</span><span class="sxs-lookup"><span data-stu-id="01df6-465">The most current release is Version 2011 (Build 13426.20404).</span></span>
+<span data-ttu-id="78003-470">最新的版本是版本 2011 (組建 13426.20404)。</span><span class="sxs-lookup"><span data-stu-id="78003-470">The most current release is Version 2011 (Build 13426.20404).</span></span>
 
-|<span data-ttu-id="01df6-466">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="01df6-466">**Release upgrading from**</span></span>|<span data-ttu-id="01df6-467">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="01df6-467">**Release date**</span></span>|<span data-ttu-id="01df6-468">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="01df6-468">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="78003-471">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="78003-471">**Release upgrading from**</span></span>|<span data-ttu-id="78003-472">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="78003-472">**Release date**</span></span>|<span data-ttu-id="78003-473">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="78003-473">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="01df6-469">版本 2011 (組建 13426.20332)</span><span class="sxs-lookup"><span data-stu-id="01df6-469">Version 2011 (Build 13426.20332)</span></span> <br/> |<span data-ttu-id="01df6-470">2020 年 12 月 8 日</span><span class="sxs-lookup"><span data-stu-id="01df6-470">December 8, 2020</span></span> <br/> |<span data-ttu-id="01df6-471">45</span><span class="sxs-lookup"><span data-stu-id="01df6-471">45</span></span><br/> |
-|<span data-ttu-id="01df6-472">版本 2011 (組建 13426.20308)</span><span class="sxs-lookup"><span data-stu-id="01df6-472">Version 2011 (Build 13426.20308)</span></span> <br/> |<span data-ttu-id="01df6-473">2020 年 12 月 2 日</span><span class="sxs-lookup"><span data-stu-id="01df6-473">December 2, 2020</span></span> <br/> |<span data-ttu-id="01df6-474">58</span><span class="sxs-lookup"><span data-stu-id="01df6-474">58</span></span><br/> |
+|<span data-ttu-id="78003-474">版本 2011 (組建 13426.20332)</span><span class="sxs-lookup"><span data-stu-id="78003-474">Version 2011 (Build 13426.20332)</span></span> <br/> |<span data-ttu-id="78003-475">2020 年 12 月 8 日</span><span class="sxs-lookup"><span data-stu-id="78003-475">December 8, 2020</span></span> <br/> |<span data-ttu-id="78003-476">45</span><span class="sxs-lookup"><span data-stu-id="78003-476">45</span></span><br/> |
+|<span data-ttu-id="78003-477">版本 2011 (組建 13426.20308)</span><span class="sxs-lookup"><span data-stu-id="78003-477">Version 2011 (Build 13426.20308)</span></span> <br/> |<span data-ttu-id="78003-478">2020 年 12 月 2 日</span><span class="sxs-lookup"><span data-stu-id="78003-478">December 2, 2020</span></span> <br/> |<span data-ttu-id="78003-479">58</span><span class="sxs-lookup"><span data-stu-id="78003-479">58</span></span><br/> |
 
 
 [//]: # (DO NOT REMOVE CONTENT ENDDecember 21, 2020)
 
-## <a name="december-8-2020"></a><span data-ttu-id="01df6-476">2020 年 12 月 8 日</span><span class="sxs-lookup"><span data-stu-id="01df6-476">December 8, 2020</span></span>
+## <a name="december-8-2020"></a><span data-ttu-id="78003-481">2020 年 12 月 8 日</span><span class="sxs-lookup"><span data-stu-id="78003-481">December 8, 2020</span></span>
 
 [//]: # (DO NOT REMOVE CONTENT STARTDecember 8, 2020)
 
-### <a name="current-channel"></a><span data-ttu-id="01df6-478">目前通道</span><span class="sxs-lookup"><span data-stu-id="01df6-478">Current Channel</span></span>
+### <a name="current-channel"></a><span data-ttu-id="78003-483">目前通道</span><span class="sxs-lookup"><span data-stu-id="78003-483">Current Channel</span></span>
 
-<span data-ttu-id="01df6-479">最新的版本是版本 2011 (組建 13426.20332)。</span><span class="sxs-lookup"><span data-stu-id="01df6-479">The most current release is Version 2011 (Build 13426.20332).</span></span>
+<span data-ttu-id="78003-484">最新的版本是版本 2011 (組建 13426.20332)。</span><span class="sxs-lookup"><span data-stu-id="78003-484">The most current release is Version 2011 (Build 13426.20332).</span></span>
 
-|<span data-ttu-id="01df6-480">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="01df6-480">**Release upgrading from**</span></span>|<span data-ttu-id="01df6-481">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="01df6-481">**Release date**</span></span>|<span data-ttu-id="01df6-482">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="01df6-482">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="78003-485">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="78003-485">**Release upgrading from**</span></span>|<span data-ttu-id="78003-486">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="78003-486">**Release date**</span></span>|<span data-ttu-id="78003-487">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="78003-487">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="01df6-483">版本 2011 (組建 13426.20308)</span><span class="sxs-lookup"><span data-stu-id="01df6-483">Version 2011 (Build 13426.20308)</span></span> <br/> |<span data-ttu-id="01df6-484">2020 年 12 月 2 日</span><span class="sxs-lookup"><span data-stu-id="01df6-484">December 2, 2020</span></span> <br/> |<span data-ttu-id="01df6-485">55</span><span class="sxs-lookup"><span data-stu-id="01df6-485">55</span></span><br/> |
-|<span data-ttu-id="01df6-486">版本 2011 (組建 13426.20294)</span><span class="sxs-lookup"><span data-stu-id="01df6-486">Version 2011 (Build 13426.20294)</span></span> <br/> |<span data-ttu-id="01df6-487">2020 年 11 月 30 日</span><span class="sxs-lookup"><span data-stu-id="01df6-487">November 30, 2020</span></span> <br/> |<span data-ttu-id="01df6-488">227</span><span class="sxs-lookup"><span data-stu-id="01df6-488">227</span></span><br/> |
+|<span data-ttu-id="78003-488">版本 2011 (組建 13426.20308)</span><span class="sxs-lookup"><span data-stu-id="78003-488">Version 2011 (Build 13426.20308)</span></span> <br/> |<span data-ttu-id="78003-489">2020 年 12 月 2 日</span><span class="sxs-lookup"><span data-stu-id="78003-489">December 2, 2020</span></span> <br/> |<span data-ttu-id="78003-490">55</span><span class="sxs-lookup"><span data-stu-id="78003-490">55</span></span><br/> |
+|<span data-ttu-id="78003-491">版本 2011 (組建 13426.20294)</span><span class="sxs-lookup"><span data-stu-id="78003-491">Version 2011 (Build 13426.20294)</span></span> <br/> |<span data-ttu-id="78003-492">2020 年 11 月 30 日</span><span class="sxs-lookup"><span data-stu-id="78003-492">November 30, 2020</span></span> <br/> |<span data-ttu-id="78003-493">227</span><span class="sxs-lookup"><span data-stu-id="78003-493">227</span></span><br/> |
 
 
-### <a name="monthly-enterprise-channel"></a><span data-ttu-id="01df6-489">每月企業通道</span><span class="sxs-lookup"><span data-stu-id="01df6-489">Monthly Enterprise Channel</span></span>
+### <a name="monthly-enterprise-channel"></a><span data-ttu-id="78003-494">每月企業通道</span><span class="sxs-lookup"><span data-stu-id="78003-494">Monthly Enterprise Channel</span></span>
 
-<span data-ttu-id="01df6-490">最新的版本是版本 2010 (組建 13328.20478)。</span><span class="sxs-lookup"><span data-stu-id="01df6-490">The most current release is Version 2010 (Build 13328.20478).</span></span>
+<span data-ttu-id="78003-495">最新的版本是版本 2010 (組建 13328.20478)。</span><span class="sxs-lookup"><span data-stu-id="78003-495">The most current release is Version 2010 (Build 13328.20478).</span></span>
 
-|<span data-ttu-id="01df6-491">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="01df6-491">**Release upgrading from**</span></span>|<span data-ttu-id="01df6-492">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="01df6-492">**Release date**</span></span>|<span data-ttu-id="01df6-493">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="01df6-493">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="78003-496">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="78003-496">**Release upgrading from**</span></span>|<span data-ttu-id="78003-497">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="78003-497">**Release date**</span></span>|<span data-ttu-id="78003-498">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="78003-498">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="01df6-494">版本 2009 (組建 13231.20514) </span><span class="sxs-lookup"><span data-stu-id="01df6-494">Version 2009 (Build 13231.20514)</span></span> <br/> |<span data-ttu-id="01df6-495">2020 年 11 月 10 日</span><span class="sxs-lookup"><span data-stu-id="01df6-495">November 10, 2020</span></span> <br/> |<span data-ttu-id="01df6-496">127</span><span class="sxs-lookup"><span data-stu-id="01df6-496">127</span></span><br/> |
+|<span data-ttu-id="78003-499">版本 2009 (組建 13231.20514) </span><span class="sxs-lookup"><span data-stu-id="78003-499">Version 2009 (Build 13231.20514)</span></span> <br/> |<span data-ttu-id="78003-500">2020 年 11 月 10 日</span><span class="sxs-lookup"><span data-stu-id="78003-500">November 10, 2020</span></span> <br/> |<span data-ttu-id="78003-501">127</span><span class="sxs-lookup"><span data-stu-id="78003-501">127</span></span><br/> |
 
 
-### <a name="semi-annual-enterprise-channel-preview"></a><span data-ttu-id="01df6-497">半年企業通道 (預覽)</span><span class="sxs-lookup"><span data-stu-id="01df6-497">Semi-Annual Enterprise Channel (Preview)</span></span>
+### <a name="semi-annual-enterprise-channel-preview"></a><span data-ttu-id="78003-502">半年企業通道 (預覽)</span><span class="sxs-lookup"><span data-stu-id="78003-502">Semi-Annual Enterprise Channel (Preview)</span></span>
 
-<span data-ttu-id="01df6-498">最新的版本是版本 2008 (組建 13127.20910)。</span><span class="sxs-lookup"><span data-stu-id="01df6-498">The most current release is Version 2008 (Build 13127.20910).</span></span>
+<span data-ttu-id="78003-503">最新的版本是版本 2008 (組建 13127.20910)。</span><span class="sxs-lookup"><span data-stu-id="78003-503">The most current release is Version 2008 (Build 13127.20910).</span></span>
 
-|<span data-ttu-id="01df6-499">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="01df6-499">**Release upgrading from**</span></span>|<span data-ttu-id="01df6-500">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="01df6-500">**Release date**</span></span>|<span data-ttu-id="01df6-501">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="01df6-501">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="78003-504">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="78003-504">**Release upgrading from**</span></span>|<span data-ttu-id="78003-505">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="78003-505">**Release date**</span></span>|<span data-ttu-id="78003-506">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="78003-506">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="01df6-502">版本 2008 (組建 13127.20760) </span><span class="sxs-lookup"><span data-stu-id="01df6-502">Version 2008 (Build 13127.20760)</span></span> <br/> |<span data-ttu-id="01df6-503">2020 年 11 月 10 日</span><span class="sxs-lookup"><span data-stu-id="01df6-503">November 10, 2020</span></span> <br/> |<span data-ttu-id="01df6-504">68</span><span class="sxs-lookup"><span data-stu-id="01df6-504">68</span></span><br/> |
-|<span data-ttu-id="01df6-505">版本 2008 (組建 13127.20638)</span><span class="sxs-lookup"><span data-stu-id="01df6-505">Version 2008 (Build 13127.20638)</span></span> <br/> |<span data-ttu-id="01df6-506">2020 年 10 月 13 日</span><span class="sxs-lookup"><span data-stu-id="01df6-506">October 13, 2020</span></span> <br/> |<span data-ttu-id="01df6-507">75</span><span class="sxs-lookup"><span data-stu-id="01df6-507">75</span></span><br/> |
+|<span data-ttu-id="78003-507">版本 2008 (組建 13127.20760) </span><span class="sxs-lookup"><span data-stu-id="78003-507">Version 2008 (Build 13127.20760)</span></span> <br/> |<span data-ttu-id="78003-508">2020 年 11 月 10 日</span><span class="sxs-lookup"><span data-stu-id="78003-508">November 10, 2020</span></span> <br/> |<span data-ttu-id="78003-509">68</span><span class="sxs-lookup"><span data-stu-id="78003-509">68</span></span><br/> |
+|<span data-ttu-id="78003-510">版本 2008 (組建 13127.20638)</span><span class="sxs-lookup"><span data-stu-id="78003-510">Version 2008 (Build 13127.20638)</span></span> <br/> |<span data-ttu-id="78003-511">2020 年 10 月 13 日</span><span class="sxs-lookup"><span data-stu-id="78003-511">October 13, 2020</span></span> <br/> |<span data-ttu-id="78003-512">75</span><span class="sxs-lookup"><span data-stu-id="78003-512">75</span></span><br/> |
 
 
-### <a name="semi-annual-enterprise-channel"></a><span data-ttu-id="01df6-508">半年企業通道</span><span class="sxs-lookup"><span data-stu-id="01df6-508">Semi-Annual Enterprise Channel</span></span>
+### <a name="semi-annual-enterprise-channel"></a><span data-ttu-id="78003-513">半年企業通道</span><span class="sxs-lookup"><span data-stu-id="78003-513">Semi-Annual Enterprise Channel</span></span>
 
-<span data-ttu-id="01df6-509">最新的版本是版本 2002 (組建 12527.21416)。</span><span class="sxs-lookup"><span data-stu-id="01df6-509">The most current release is Version 2002 (Build 12527.21416).</span></span>
+<span data-ttu-id="78003-514">最新的版本是版本 2002 (組建 12527.21416)。</span><span class="sxs-lookup"><span data-stu-id="78003-514">The most current release is Version 2002 (Build 12527.21416).</span></span>
 
-|<span data-ttu-id="01df6-510">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="01df6-510">**Release upgrading from**</span></span>|<span data-ttu-id="01df6-511">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="01df6-511">**Release date**</span></span>|<span data-ttu-id="01df6-512">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="01df6-512">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="78003-515">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="78003-515">**Release upgrading from**</span></span>|<span data-ttu-id="78003-516">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="78003-516">**Release date**</span></span>|<span data-ttu-id="78003-517">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="78003-517">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="01df6-513">版本 2002 (組建 12527.21330)</span><span class="sxs-lookup"><span data-stu-id="01df6-513">Version 2002 (Build 12527.21330)</span></span> <br/> |<span data-ttu-id="01df6-514">2020 年 11 月 10 日</span><span class="sxs-lookup"><span data-stu-id="01df6-514">November 10, 2020</span></span> <br/> |<span data-ttu-id="01df6-515">68</span><span class="sxs-lookup"><span data-stu-id="01df6-515">68</span></span><br/> |
-|<span data-ttu-id="01df6-516">版本 2002 (組建 12527.21236)</span><span class="sxs-lookup"><span data-stu-id="01df6-516">Version 2002 (Build 12527.21236)</span></span> <br/> |<span data-ttu-id="01df6-517">2020 年 10 月 13 日</span><span class="sxs-lookup"><span data-stu-id="01df6-517">October 13, 2020</span></span> <br/> |<span data-ttu-id="01df6-518">71</span><span class="sxs-lookup"><span data-stu-id="01df6-518">71</span></span><br/> |
+|<span data-ttu-id="78003-518">版本 2002 (組建 12527.21330)</span><span class="sxs-lookup"><span data-stu-id="78003-518">Version 2002 (Build 12527.21330)</span></span> <br/> |<span data-ttu-id="78003-519">2020 年 11 月 10 日</span><span class="sxs-lookup"><span data-stu-id="78003-519">November 10, 2020</span></span> <br/> |<span data-ttu-id="78003-520">68</span><span class="sxs-lookup"><span data-stu-id="78003-520">68</span></span><br/> |
+|<span data-ttu-id="78003-521">版本 2002 (組建 12527.21236)</span><span class="sxs-lookup"><span data-stu-id="78003-521">Version 2002 (Build 12527.21236)</span></span> <br/> |<span data-ttu-id="78003-522">2020 年 10 月 13 日</span><span class="sxs-lookup"><span data-stu-id="78003-522">October 13, 2020</span></span> <br/> |<span data-ttu-id="78003-523">71</span><span class="sxs-lookup"><span data-stu-id="78003-523">71</span></span><br/> |
 
 
 
@@ -488,112 +493,112 @@ ms.locfileid: "52278070"
 
 
 
-## <a name="december-2-2020"></a><span data-ttu-id="01df6-520">2020 年 12 月 2 日</span><span class="sxs-lookup"><span data-stu-id="01df6-520">December 2, 2020</span></span>
+## <a name="december-2-2020"></a><span data-ttu-id="78003-525">2020 年 12 月 2 日</span><span class="sxs-lookup"><span data-stu-id="78003-525">December 2, 2020</span></span>
 
 [//]: # (DO NOT REMOVE CONTENT STARTDecember 2, 2020)
 
-### <a name="current-channel"></a><span data-ttu-id="01df6-522">目前通道</span><span class="sxs-lookup"><span data-stu-id="01df6-522">Current Channel</span></span>
+### <a name="current-channel"></a><span data-ttu-id="78003-527">目前通道</span><span class="sxs-lookup"><span data-stu-id="78003-527">Current Channel</span></span>
 
-<span data-ttu-id="01df6-523">最新的版本是版本 2011 (組建 13426.20308)。</span><span class="sxs-lookup"><span data-stu-id="01df6-523">The most current release is Version 2011 (Build 13426.20308).</span></span>
+<span data-ttu-id="78003-528">最新的版本是版本 2011 (組建 13426.20308)。</span><span class="sxs-lookup"><span data-stu-id="78003-528">The most current release is Version 2011 (Build 13426.20308).</span></span>
 
-|<span data-ttu-id="01df6-524">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="01df6-524">**Release upgrading from**</span></span>|<span data-ttu-id="01df6-525">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="01df6-525">**Release date**</span></span>|<span data-ttu-id="01df6-526">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="01df6-526">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="78003-529">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="78003-529">**Release upgrading from**</span></span>|<span data-ttu-id="78003-530">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="78003-530">**Release date**</span></span>|<span data-ttu-id="78003-531">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="78003-531">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="01df6-527">版本 2011 (組建 13426.20294)</span><span class="sxs-lookup"><span data-stu-id="01df6-527">Version 2011 (Build 13426.20294)</span></span> <br/> |<span data-ttu-id="01df6-528">2020 年 11 月 30 日</span><span class="sxs-lookup"><span data-stu-id="01df6-528">November 30, 2020</span></span> <br/> |<span data-ttu-id="01df6-529">53</span><span class="sxs-lookup"><span data-stu-id="01df6-529">53</span></span><br/> |
-|<span data-ttu-id="01df6-530">版本 2011 (組建 13426.20274)</span><span class="sxs-lookup"><span data-stu-id="01df6-530">Version 2011 (Build 13426.20274)</span></span> <br/> |<span data-ttu-id="01df6-531">2020 年 11 月 23 日</span><span class="sxs-lookup"><span data-stu-id="01df6-531">November 23, 2020</span></span> <br/> |<span data-ttu-id="01df6-532">241</span><span class="sxs-lookup"><span data-stu-id="01df6-532">241</span></span><br/> |
+|<span data-ttu-id="78003-532">版本 2011 (組建 13426.20294)</span><span class="sxs-lookup"><span data-stu-id="78003-532">Version 2011 (Build 13426.20294)</span></span> <br/> |<span data-ttu-id="78003-533">2020 年 11 月 30 日</span><span class="sxs-lookup"><span data-stu-id="78003-533">November 30, 2020</span></span> <br/> |<span data-ttu-id="78003-534">53</span><span class="sxs-lookup"><span data-stu-id="78003-534">53</span></span><br/> |
+|<span data-ttu-id="78003-535">版本 2011 (組建 13426.20274)</span><span class="sxs-lookup"><span data-stu-id="78003-535">Version 2011 (Build 13426.20274)</span></span> <br/> |<span data-ttu-id="78003-536">2020 年 11 月 23 日</span><span class="sxs-lookup"><span data-stu-id="78003-536">November 23, 2020</span></span> <br/> |<span data-ttu-id="78003-537">241</span><span class="sxs-lookup"><span data-stu-id="78003-537">241</span></span><br/> |
 
 
 [//]: # (DO NOT REMOVE CONTENT ENDDecember 2, 2020)
 
-## <a name="november-30-2020"></a><span data-ttu-id="01df6-534">2020 年 11 月 30 日</span><span class="sxs-lookup"><span data-stu-id="01df6-534">November 30, 2020</span></span>
+## <a name="november-30-2020"></a><span data-ttu-id="78003-539">2020 年 11 月 30 日</span><span class="sxs-lookup"><span data-stu-id="78003-539">November 30, 2020</span></span>
 
 [//]: # (DO NOT REMOVE CONTENT STARTNovember 30, 2020)
 
-### <a name="current-channel"></a><span data-ttu-id="01df6-536">目前通道</span><span class="sxs-lookup"><span data-stu-id="01df6-536">Current Channel</span></span>
+### <a name="current-channel"></a><span data-ttu-id="78003-541">目前通道</span><span class="sxs-lookup"><span data-stu-id="78003-541">Current Channel</span></span>
 
-<span data-ttu-id="01df6-537">最新的版本是版本 2011 (組建 13426.20294)。</span><span class="sxs-lookup"><span data-stu-id="01df6-537">The most current release is Version 2011 (Build 13426.20294).</span></span>
+<span data-ttu-id="78003-542">最新的版本是版本 2011 (組建 13426.20294)。</span><span class="sxs-lookup"><span data-stu-id="78003-542">The most current release is Version 2011 (Build 13426.20294).</span></span>
 
-|<span data-ttu-id="01df6-538">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="01df6-538">**Release upgrading from**</span></span>|<span data-ttu-id="01df6-539">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="01df6-539">**Release date**</span></span>|<span data-ttu-id="01df6-540">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="01df6-540">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="78003-543">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="78003-543">**Release upgrading from**</span></span>|<span data-ttu-id="78003-544">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="78003-544">**Release date**</span></span>|<span data-ttu-id="78003-545">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="78003-545">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="01df6-541">版本 2011 (組建 13426.20274)</span><span class="sxs-lookup"><span data-stu-id="01df6-541">Version 2011 (Build 13426.20274)</span></span> <br/> |<span data-ttu-id="01df6-542">2020 年 11 月 23 日</span><span class="sxs-lookup"><span data-stu-id="01df6-542">November 23, 2020</span></span> <br/> |<span data-ttu-id="01df6-543">40</span><span class="sxs-lookup"><span data-stu-id="01df6-543">40</span></span><br/> |
-|<span data-ttu-id="01df6-544">版本 2010 (組建 13328.20408)</span><span class="sxs-lookup"><span data-stu-id="01df6-544">Version 2010 (Build 13328.20408)</span></span> <br/> |<span data-ttu-id="01df6-545">2020 年 11 月 17 日</span><span class="sxs-lookup"><span data-stu-id="01df6-545">November 17, 2020</span></span> <br/> |<span data-ttu-id="01df6-546">146</span><span class="sxs-lookup"><span data-stu-id="01df6-546">146</span></span><br/> |
+|<span data-ttu-id="78003-546">版本 2011 (組建 13426.20274)</span><span class="sxs-lookup"><span data-stu-id="78003-546">Version 2011 (Build 13426.20274)</span></span> <br/> |<span data-ttu-id="78003-547">2020 年 11 月 23 日</span><span class="sxs-lookup"><span data-stu-id="78003-547">November 23, 2020</span></span> <br/> |<span data-ttu-id="78003-548">40</span><span class="sxs-lookup"><span data-stu-id="78003-548">40</span></span><br/> |
+|<span data-ttu-id="78003-549">版本 2010 (組建 13328.20408)</span><span class="sxs-lookup"><span data-stu-id="78003-549">Version 2010 (Build 13328.20408)</span></span> <br/> |<span data-ttu-id="78003-550">2020 年 11 月 17 日</span><span class="sxs-lookup"><span data-stu-id="78003-550">November 17, 2020</span></span> <br/> |<span data-ttu-id="78003-551">146</span><span class="sxs-lookup"><span data-stu-id="78003-551">146</span></span><br/> |
 
 
 [//]: # (DO NOT REMOVE CONTENT ENDNovember 30, 2020)
 
-## <a name="november-23-2020"></a><span data-ttu-id="01df6-548">2020 年 11 月 23 日</span><span class="sxs-lookup"><span data-stu-id="01df6-548">November 23, 2020</span></span>
+## <a name="november-23-2020"></a><span data-ttu-id="78003-553">2020 年 11 月 23 日</span><span class="sxs-lookup"><span data-stu-id="78003-553">November 23, 2020</span></span>
 
 [//]: # (DO NOT REMOVE CONTENT STARTNovember 23, 2020)
 
-### <a name="current-channel"></a><span data-ttu-id="01df6-550">目前通道</span><span class="sxs-lookup"><span data-stu-id="01df6-550">Current Channel</span></span>
+### <a name="current-channel"></a><span data-ttu-id="78003-555">目前通道</span><span class="sxs-lookup"><span data-stu-id="78003-555">Current Channel</span></span>
 
-<span data-ttu-id="01df6-551">最新的版本是版本 2011 (組建 13426.20274)。</span><span class="sxs-lookup"><span data-stu-id="01df6-551">The most current release is Version 2011 (Build 13426.20274).</span></span>
+<span data-ttu-id="78003-556">最新的版本是版本 2011 (組建 13426.20274)。</span><span class="sxs-lookup"><span data-stu-id="78003-556">The most current release is Version 2011 (Build 13426.20274).</span></span>
 
-|<span data-ttu-id="01df6-552">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="01df6-552">**Release upgrading from**</span></span>|<span data-ttu-id="01df6-553">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="01df6-553">**Release date**</span></span>|<span data-ttu-id="01df6-554">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="01df6-554">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="78003-557">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="78003-557">**Release upgrading from**</span></span>|<span data-ttu-id="78003-558">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="78003-558">**Release date**</span></span>|<span data-ttu-id="78003-559">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="78003-559">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="01df6-555">版本 2010 (組建 13328.20408)</span><span class="sxs-lookup"><span data-stu-id="01df6-555">Version 2010 (Build 13328.20408)</span></span> <br/> |<span data-ttu-id="01df6-556">2020 年 11 月 17 日</span><span class="sxs-lookup"><span data-stu-id="01df6-556">November 17, 2020</span></span> <br/> |<span data-ttu-id="01df6-557">143</span><span class="sxs-lookup"><span data-stu-id="01df6-557">143</span></span><br/> |
-|<span data-ttu-id="01df6-558">版本 2010 (組建 13328.20356)</span><span class="sxs-lookup"><span data-stu-id="01df6-558">Version 2010 (Build 13328.20356)</span></span> <br/> |<span data-ttu-id="01df6-559">2020 年 11 月 10 日</span><span class="sxs-lookup"><span data-stu-id="01df6-559">November 10, 2020</span></span> <br/> |<span data-ttu-id="01df6-560">148</span><span class="sxs-lookup"><span data-stu-id="01df6-560">148</span></span><br/> |
+|<span data-ttu-id="78003-560">版本 2010 (組建 13328.20408)</span><span class="sxs-lookup"><span data-stu-id="78003-560">Version 2010 (Build 13328.20408)</span></span> <br/> |<span data-ttu-id="78003-561">2020 年 11 月 17 日</span><span class="sxs-lookup"><span data-stu-id="78003-561">November 17, 2020</span></span> <br/> |<span data-ttu-id="78003-562">143</span><span class="sxs-lookup"><span data-stu-id="78003-562">143</span></span><br/> |
+|<span data-ttu-id="78003-563">版本 2010 (組建 13328.20356)</span><span class="sxs-lookup"><span data-stu-id="78003-563">Version 2010 (Build 13328.20356)</span></span> <br/> |<span data-ttu-id="78003-564">2020 年 11 月 10 日</span><span class="sxs-lookup"><span data-stu-id="78003-564">November 10, 2020</span></span> <br/> |<span data-ttu-id="78003-565">148</span><span class="sxs-lookup"><span data-stu-id="78003-565">148</span></span><br/> |
 
 
 [//]: # (DO NOT REMOVE CONTENT ENDNovember 23, 2020)
 
-## <a name="november-17-2020"></a><span data-ttu-id="01df6-562">2020 年 11 月 17 日</span><span class="sxs-lookup"><span data-stu-id="01df6-562">November 17, 2020</span></span>
+## <a name="november-17-2020"></a><span data-ttu-id="78003-567">2020 年 11 月 17 日</span><span class="sxs-lookup"><span data-stu-id="78003-567">November 17, 2020</span></span>
 
 [//]: # (DO NOT REMOVE CONTENT STARTNovember 17, 2020)
 
-### <a name="current-channel"></a><span data-ttu-id="01df6-564">目前通道</span><span class="sxs-lookup"><span data-stu-id="01df6-564">Current Channel</span></span>
+### <a name="current-channel"></a><span data-ttu-id="78003-569">目前通道</span><span class="sxs-lookup"><span data-stu-id="78003-569">Current Channel</span></span>
 
-<span data-ttu-id="01df6-565">最新的版本是版本 2010 (組建 13328.20408)。</span><span class="sxs-lookup"><span data-stu-id="01df6-565">The most current release is Version 2010 (Build 13328.20408).</span></span>
+<span data-ttu-id="78003-570">最新的版本是版本 2010 (組建 13328.20408)。</span><span class="sxs-lookup"><span data-stu-id="78003-570">The most current release is Version 2010 (Build 13328.20408).</span></span>
 
-|<span data-ttu-id="01df6-566">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="01df6-566">**Release upgrading from**</span></span>|<span data-ttu-id="01df6-567">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="01df6-567">**Release date**</span></span>|<span data-ttu-id="01df6-568">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="01df6-568">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="78003-571">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="78003-571">**Release upgrading from**</span></span>|<span data-ttu-id="78003-572">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="78003-572">**Release date**</span></span>|<span data-ttu-id="78003-573">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="78003-573">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="01df6-569">版本 2010 (組建 13328.20356)</span><span class="sxs-lookup"><span data-stu-id="01df6-569">Version 2010 (Build 13328.20356)</span></span> <br/> |<span data-ttu-id="01df6-570">2020 年 11 月 10 日</span><span class="sxs-lookup"><span data-stu-id="01df6-570">November 10, 2020</span></span> <br/> |<span data-ttu-id="01df6-571">51</span><span class="sxs-lookup"><span data-stu-id="01df6-571">51</span></span><br/> |
-|<span data-ttu-id="01df6-572">版本 2010 (組建 13328.20292)</span><span class="sxs-lookup"><span data-stu-id="01df6-572">Version 2010 (Build 13328.20292)</span></span> <br/> |<span data-ttu-id="01df6-573">2020 年 10 月 27 日</span><span class="sxs-lookup"><span data-stu-id="01df6-573">October 27, 2020</span></span> <br/> |<span data-ttu-id="01df6-574">60</span><span class="sxs-lookup"><span data-stu-id="01df6-574">60</span></span><br/> |
+|<span data-ttu-id="78003-574">版本 2010 (組建 13328.20356)</span><span class="sxs-lookup"><span data-stu-id="78003-574">Version 2010 (Build 13328.20356)</span></span> <br/> |<span data-ttu-id="78003-575">2020 年 11 月 10 日</span><span class="sxs-lookup"><span data-stu-id="78003-575">November 10, 2020</span></span> <br/> |<span data-ttu-id="78003-576">51</span><span class="sxs-lookup"><span data-stu-id="78003-576">51</span></span><br/> |
+|<span data-ttu-id="78003-577">版本 2010 (組建 13328.20292)</span><span class="sxs-lookup"><span data-stu-id="78003-577">Version 2010 (Build 13328.20292)</span></span> <br/> |<span data-ttu-id="78003-578">2020 年 10 月 27 日</span><span class="sxs-lookup"><span data-stu-id="78003-578">October 27, 2020</span></span> <br/> |<span data-ttu-id="78003-579">60</span><span class="sxs-lookup"><span data-stu-id="78003-579">60</span></span><br/> |
 
 
 [//]: # (DO NOT REMOVE CONTENT ENDNovember 17, 2020)
 
-## <a name="november-10-2020"></a><span data-ttu-id="01df6-576">2020 年 11 月 10 日</span><span class="sxs-lookup"><span data-stu-id="01df6-576">November 10, 2020</span></span>
+## <a name="november-10-2020"></a><span data-ttu-id="78003-581">2020 年 11 月 10 日</span><span class="sxs-lookup"><span data-stu-id="78003-581">November 10, 2020</span></span>
 
 [//]: # (DO NOT REMOVE CONTENT STARTNovember 10, 2020)
 
-### <a name="current-channel"></a><span data-ttu-id="01df6-578">目前通道</span><span class="sxs-lookup"><span data-stu-id="01df6-578">Current Channel</span></span>
+### <a name="current-channel"></a><span data-ttu-id="78003-583">目前通道</span><span class="sxs-lookup"><span data-stu-id="78003-583">Current Channel</span></span>
 
-<span data-ttu-id="01df6-579">最新的版本是版本 2010 (組建 13328.20356)。</span><span class="sxs-lookup"><span data-stu-id="01df6-579">The most current release is Version 2010 (Build 13328.20356).</span></span>
+<span data-ttu-id="78003-584">最新的版本是版本 2010 (組建 13328.20356)。</span><span class="sxs-lookup"><span data-stu-id="78003-584">The most current release is Version 2010 (Build 13328.20356).</span></span>
 
-|<span data-ttu-id="01df6-580">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="01df6-580">**Release upgrading from**</span></span>|<span data-ttu-id="01df6-581">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="01df6-581">**Release date**</span></span>|<span data-ttu-id="01df6-582">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="01df6-582">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="78003-585">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="78003-585">**Release upgrading from**</span></span>|<span data-ttu-id="78003-586">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="78003-586">**Release date**</span></span>|<span data-ttu-id="78003-587">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="78003-587">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="01df6-583">版本 2010 (組建 13328.20292)</span><span class="sxs-lookup"><span data-stu-id="01df6-583">Version 2010 (Build 13328.20292)</span></span> <br/> |<span data-ttu-id="01df6-584">2020 年 10 月 27 日</span><span class="sxs-lookup"><span data-stu-id="01df6-584">October 27, 2020</span></span> <br/> |<span data-ttu-id="01df6-585">57</span><span class="sxs-lookup"><span data-stu-id="01df6-585">57</span></span><br/> |
-|<span data-ttu-id="01df6-586">版本 2009 (組建 13231.20418)</span><span class="sxs-lookup"><span data-stu-id="01df6-586">Version 2009 (Build 13231.20418)</span></span> <br/> |<span data-ttu-id="01df6-587">2020 年 10 月 21 日</span><span class="sxs-lookup"><span data-stu-id="01df6-587">October 21, 2020</span></span> <br/> |<span data-ttu-id="01df6-588">286</span><span class="sxs-lookup"><span data-stu-id="01df6-588">286</span></span><br/> |
+|<span data-ttu-id="78003-588">版本 2010 (組建 13328.20292)</span><span class="sxs-lookup"><span data-stu-id="78003-588">Version 2010 (Build 13328.20292)</span></span> <br/> |<span data-ttu-id="78003-589">2020 年 10 月 27 日</span><span class="sxs-lookup"><span data-stu-id="78003-589">October 27, 2020</span></span> <br/> |<span data-ttu-id="78003-590">57</span><span class="sxs-lookup"><span data-stu-id="78003-590">57</span></span><br/> |
+|<span data-ttu-id="78003-591">版本 2009 (組建 13231.20418)</span><span class="sxs-lookup"><span data-stu-id="78003-591">Version 2009 (Build 13231.20418)</span></span> <br/> |<span data-ttu-id="78003-592">2020 年 10 月 21 日</span><span class="sxs-lookup"><span data-stu-id="78003-592">October 21, 2020</span></span> <br/> |<span data-ttu-id="78003-593">286</span><span class="sxs-lookup"><span data-stu-id="78003-593">286</span></span><br/> |
 
 
-### <a name="monthly-enterprise-channel"></a><span data-ttu-id="01df6-589">每月企業通道</span><span class="sxs-lookup"><span data-stu-id="01df6-589">Monthly Enterprise Channel</span></span>
+### <a name="monthly-enterprise-channel"></a><span data-ttu-id="78003-594">每月企業通道</span><span class="sxs-lookup"><span data-stu-id="78003-594">Monthly Enterprise Channel</span></span>
 
-<span data-ttu-id="01df6-590">最新的版本是版本 2009 (組建 13231.20514)。</span><span class="sxs-lookup"><span data-stu-id="01df6-590">The most current release is Version 2009 (Build 13231.20514).</span></span>
+<span data-ttu-id="78003-595">最新的版本是版本 2009 (組建 13231.20514)。</span><span class="sxs-lookup"><span data-stu-id="78003-595">The most current release is Version 2009 (Build 13231.20514).</span></span>
 
-|<span data-ttu-id="01df6-591">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="01df6-591">**Release upgrading from**</span></span>|<span data-ttu-id="01df6-592">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="01df6-592">**Release date**</span></span>|<span data-ttu-id="01df6-593">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="01df6-593">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="78003-596">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="78003-596">**Release upgrading from**</span></span>|<span data-ttu-id="78003-597">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="78003-597">**Release date**</span></span>|<span data-ttu-id="78003-598">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="78003-598">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="01df6-594">版本 2008 (組建 13127.20638)</span><span class="sxs-lookup"><span data-stu-id="01df6-594">Version 2008 (Build 13127.20638)</span></span> <br/> |<span data-ttu-id="01df6-595">2020 年 10 月 13 日</span><span class="sxs-lookup"><span data-stu-id="01df6-595">October 13, 2020</span></span> <br/> |<span data-ttu-id="01df6-596">130</span><span class="sxs-lookup"><span data-stu-id="01df6-596">130</span></span><br/> |
+|<span data-ttu-id="78003-599">版本 2008 (組建 13127.20638)</span><span class="sxs-lookup"><span data-stu-id="78003-599">Version 2008 (Build 13127.20638)</span></span> <br/> |<span data-ttu-id="78003-600">2020 年 10 月 13 日</span><span class="sxs-lookup"><span data-stu-id="78003-600">October 13, 2020</span></span> <br/> |<span data-ttu-id="78003-601">130</span><span class="sxs-lookup"><span data-stu-id="78003-601">130</span></span><br/> |
 
 
 
-### <a name="semi-annual-enterprise-channel-preview"></a><span data-ttu-id="01df6-597">半年企業通道 (預覽)</span><span class="sxs-lookup"><span data-stu-id="01df6-597">Semi-Annual Enterprise Channel (Preview)</span></span>
+### <a name="semi-annual-enterprise-channel-preview"></a><span data-ttu-id="78003-602">半年企業通道 (預覽)</span><span class="sxs-lookup"><span data-stu-id="78003-602">Semi-Annual Enterprise Channel (Preview)</span></span>
 
-<span data-ttu-id="01df6-598">最新的版本是版本 2008 (組建 13127.20760)。</span><span class="sxs-lookup"><span data-stu-id="01df6-598">The most current release is Version 2008 (Build 13127.20760).</span></span>
+<span data-ttu-id="78003-603">最新的版本是版本 2008 (組建 13127.20760)。</span><span class="sxs-lookup"><span data-stu-id="78003-603">The most current release is Version 2008 (Build 13127.20760).</span></span>
 
-|<span data-ttu-id="01df6-599">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="01df6-599">**Release upgrading from**</span></span>|<span data-ttu-id="01df6-600">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="01df6-600">**Release date**</span></span>|<span data-ttu-id="01df6-601">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="01df6-601">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="78003-604">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="78003-604">**Release upgrading from**</span></span>|<span data-ttu-id="78003-605">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="78003-605">**Release date**</span></span>|<span data-ttu-id="78003-606">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="78003-606">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="01df6-602">版本 2008 (組建 13127.20638)</span><span class="sxs-lookup"><span data-stu-id="01df6-602">Version 2008 (Build 13127.20638)</span></span> <br/> |<span data-ttu-id="01df6-603">2020 年 10 月 13 日</span><span class="sxs-lookup"><span data-stu-id="01df6-603">October 13, 2020</span></span> <br/> |<span data-ttu-id="01df6-604">60</span><span class="sxs-lookup"><span data-stu-id="01df6-604">60</span></span><br/> |
-|<span data-ttu-id="01df6-605">版本 2008 (組建 13127.20408)</span><span class="sxs-lookup"><span data-stu-id="01df6-605">Version 2008 (Build 13127.20408)</span></span> <br/> |<span data-ttu-id="01df6-606">2020 年 9 月 8 日</span><span class="sxs-lookup"><span data-stu-id="01df6-606">September 8, 2020</span></span> <br/> |<span data-ttu-id="01df6-607">65</span><span class="sxs-lookup"><span data-stu-id="01df6-607">65</span></span><br/> |
+|<span data-ttu-id="78003-607">版本 2008 (組建 13127.20638)</span><span class="sxs-lookup"><span data-stu-id="78003-607">Version 2008 (Build 13127.20638)</span></span> <br/> |<span data-ttu-id="78003-608">2020 年 10 月 13 日</span><span class="sxs-lookup"><span data-stu-id="78003-608">October 13, 2020</span></span> <br/> |<span data-ttu-id="78003-609">60</span><span class="sxs-lookup"><span data-stu-id="78003-609">60</span></span><br/> |
+|<span data-ttu-id="78003-610">版本 2008 (組建 13127.20408)</span><span class="sxs-lookup"><span data-stu-id="78003-610">Version 2008 (Build 13127.20408)</span></span> <br/> |<span data-ttu-id="78003-611">2020 年 9 月 8 日</span><span class="sxs-lookup"><span data-stu-id="78003-611">September 8, 2020</span></span> <br/> |<span data-ttu-id="78003-612">65</span><span class="sxs-lookup"><span data-stu-id="78003-612">65</span></span><br/> |
 
 
-### <a name="semi-annual-enterprise-channel"></a><span data-ttu-id="01df6-608">半年企業通道</span><span class="sxs-lookup"><span data-stu-id="01df6-608">Semi-Annual Enterprise Channel</span></span>
+### <a name="semi-annual-enterprise-channel"></a><span data-ttu-id="78003-613">半年企業通道</span><span class="sxs-lookup"><span data-stu-id="78003-613">Semi-Annual Enterprise Channel</span></span>
 
-<span data-ttu-id="01df6-609">最新的版本是版本 2002 (組建 12527.21330)。</span><span class="sxs-lookup"><span data-stu-id="01df6-609">The most current release is Version 2002 (Build 12527.21330).</span></span>
+<span data-ttu-id="78003-614">最新的版本是版本 2002 (組建 12527.21330)。</span><span class="sxs-lookup"><span data-stu-id="78003-614">The most current release is Version 2002 (Build 12527.21330).</span></span>
 
-|<span data-ttu-id="01df6-610">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="01df6-610">**Release upgrading from**</span></span>|<span data-ttu-id="01df6-611">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="01df6-611">**Release date**</span></span>|<span data-ttu-id="01df6-612">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="01df6-612">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="78003-615">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="78003-615">**Release upgrading from**</span></span>|<span data-ttu-id="78003-616">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="78003-616">**Release date**</span></span>|<span data-ttu-id="78003-617">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="78003-617">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="01df6-613">版本 2002 (組建 12527.21236)</span><span class="sxs-lookup"><span data-stu-id="01df6-613">Version 2002 (Build 12527.21236)</span></span> <br/> |<span data-ttu-id="01df6-614">2020 年 10 月 13 日</span><span class="sxs-lookup"><span data-stu-id="01df6-614">October 13, 2020</span></span> <br/> |<span data-ttu-id="01df6-615">63</span><span class="sxs-lookup"><span data-stu-id="01df6-615">63</span></span><br/> |
-|<span data-ttu-id="01df6-616">版本 2002 (組建 12527.21104)</span><span class="sxs-lookup"><span data-stu-id="01df6-616">Version 2002 (Build 12527.21104)</span></span> <br/> |<span data-ttu-id="01df6-617">2020 年 9 月 8 日</span><span class="sxs-lookup"><span data-stu-id="01df6-617">September 8, 2020</span></span> <br/> |<span data-ttu-id="01df6-618">76</span><span class="sxs-lookup"><span data-stu-id="01df6-618">76</span></span><br/> |
+|<span data-ttu-id="78003-618">版本 2002 (組建 12527.21236)</span><span class="sxs-lookup"><span data-stu-id="78003-618">Version 2002 (Build 12527.21236)</span></span> <br/> |<span data-ttu-id="78003-619">2020 年 10 月 13 日</span><span class="sxs-lookup"><span data-stu-id="78003-619">October 13, 2020</span></span> <br/> |<span data-ttu-id="78003-620">63</span><span class="sxs-lookup"><span data-stu-id="78003-620">63</span></span><br/> |
+|<span data-ttu-id="78003-621">版本 2002 (組建 12527.21104)</span><span class="sxs-lookup"><span data-stu-id="78003-621">Version 2002 (Build 12527.21104)</span></span> <br/> |<span data-ttu-id="78003-622">2020 年 9 月 8 日</span><span class="sxs-lookup"><span data-stu-id="78003-622">September 8, 2020</span></span> <br/> |<span data-ttu-id="78003-623">76</span><span class="sxs-lookup"><span data-stu-id="78003-623">76</span></span><br/> |
 
 
 [//]: # (DO NOT REMOVE CONTENT ENDNovember 10, 2020)
@@ -601,96 +606,96 @@ ms.locfileid: "52278070"
 
 
 
-## <a name="october-27-2020"></a><span data-ttu-id="01df6-620">2020 年 10 月 27 日</span><span class="sxs-lookup"><span data-stu-id="01df6-620">October 27, 2020</span></span>
+## <a name="october-27-2020"></a><span data-ttu-id="78003-625">2020 年 10 月 27 日</span><span class="sxs-lookup"><span data-stu-id="78003-625">October 27, 2020</span></span>
 
 [//]: # (DO NOT REMOVE CONTENT STARTOctober 27, 2020)
 
-### <a name="current-channel"></a><span data-ttu-id="01df6-622">目前通道</span><span class="sxs-lookup"><span data-stu-id="01df6-622">Current Channel</span></span>
+### <a name="current-channel"></a><span data-ttu-id="78003-627">目前通道</span><span class="sxs-lookup"><span data-stu-id="78003-627">Current Channel</span></span>
 
-<span data-ttu-id="01df6-623">最新的版本是版本 2010 (組建 13328.20292)。</span><span class="sxs-lookup"><span data-stu-id="01df6-623">The most current release is Version 2010 (Build 13328.20292).</span></span>
+<span data-ttu-id="78003-628">最新的版本是版本 2010 (組建 13328.20292)。</span><span class="sxs-lookup"><span data-stu-id="78003-628">The most current release is Version 2010 (Build 13328.20292).</span></span>
 
-|<span data-ttu-id="01df6-624">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="01df6-624">**Release upgrading from**</span></span>|<span data-ttu-id="01df6-625">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="01df6-625">**Release date**</span></span>|<span data-ttu-id="01df6-626">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="01df6-626">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="78003-629">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="78003-629">**Release upgrading from**</span></span>|<span data-ttu-id="78003-630">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="78003-630">**Release date**</span></span>|<span data-ttu-id="78003-631">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="78003-631">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="01df6-627">版本 2009 (組建 13231.20418)</span><span class="sxs-lookup"><span data-stu-id="01df6-627">Version 2009 (Build 13231.20418)</span></span> <br/> |<span data-ttu-id="01df6-628">2020 年 10 月 21 日</span><span class="sxs-lookup"><span data-stu-id="01df6-628">October 21, 2020</span></span> <br/> |<span data-ttu-id="01df6-629">133</span><span class="sxs-lookup"><span data-stu-id="01df6-629">133</span></span><br/> |
-|<span data-ttu-id="01df6-630">版本 2009 (組建 13231.20390)</span><span class="sxs-lookup"><span data-stu-id="01df6-630">Version 2009 (Build 13231.20390)</span></span> <br/> |<span data-ttu-id="01df6-631">2020 年 10 月 13 日</span><span class="sxs-lookup"><span data-stu-id="01df6-631">October 13, 2020</span></span> <br/> |<span data-ttu-id="01df6-632">133</span><span class="sxs-lookup"><span data-stu-id="01df6-632">133</span></span><br/> |
+|<span data-ttu-id="78003-632">版本 2009 (組建 13231.20418)</span><span class="sxs-lookup"><span data-stu-id="78003-632">Version 2009 (Build 13231.20418)</span></span> <br/> |<span data-ttu-id="78003-633">2020 年 10 月 21 日</span><span class="sxs-lookup"><span data-stu-id="78003-633">October 21, 2020</span></span> <br/> |<span data-ttu-id="78003-634">133</span><span class="sxs-lookup"><span data-stu-id="78003-634">133</span></span><br/> |
+|<span data-ttu-id="78003-635">版本 2009 (組建 13231.20390)</span><span class="sxs-lookup"><span data-stu-id="78003-635">Version 2009 (Build 13231.20390)</span></span> <br/> |<span data-ttu-id="78003-636">2020 年 10 月 13 日</span><span class="sxs-lookup"><span data-stu-id="78003-636">October 13, 2020</span></span> <br/> |<span data-ttu-id="78003-637">133</span><span class="sxs-lookup"><span data-stu-id="78003-637">133</span></span><br/> |
 
 
 [//]: # (DO NOT REMOVE CONTENT ENDOctober 27, 2020)
 
-## <a name="october-21-2020"></a><span data-ttu-id="01df6-634">2020 年 10 月 21 日</span><span class="sxs-lookup"><span data-stu-id="01df6-634">October 21, 2020</span></span>
+## <a name="october-21-2020"></a><span data-ttu-id="78003-639">2020 年 10 月 21 日</span><span class="sxs-lookup"><span data-stu-id="78003-639">October 21, 2020</span></span>
 
 [//]: # (DO NOT REMOVE CONTENT STARTOctober 21, 2020)
 
-### <a name="current-channel"></a><span data-ttu-id="01df6-636">目前通道</span><span class="sxs-lookup"><span data-stu-id="01df6-636">Current Channel</span></span>
+### <a name="current-channel"></a><span data-ttu-id="78003-641">目前通道</span><span class="sxs-lookup"><span data-stu-id="78003-641">Current Channel</span></span>
 
-<span data-ttu-id="01df6-637">最新的版本是版本 2009 (組建 13231.20418)。</span><span class="sxs-lookup"><span data-stu-id="01df6-637">The most current release is Version 2009 (Build 13231.20418).</span></span>
+<span data-ttu-id="78003-642">最新的版本是版本 2009 (組建 13231.20418)。</span><span class="sxs-lookup"><span data-stu-id="78003-642">The most current release is Version 2009 (Build 13231.20418).</span></span>
 
-|<span data-ttu-id="01df6-638">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="01df6-638">**Release upgrading from**</span></span>|<span data-ttu-id="01df6-639">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="01df6-639">**Release date**</span></span>|<span data-ttu-id="01df6-640">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="01df6-640">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="78003-643">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="78003-643">**Release upgrading from**</span></span>|<span data-ttu-id="78003-644">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="78003-644">**Release date**</span></span>|<span data-ttu-id="78003-645">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="78003-645">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="01df6-641">版本 2009 (組建 13231.20390)</span><span class="sxs-lookup"><span data-stu-id="01df6-641">Version 2009 (Build 13231.20390)</span></span> <br/> |<span data-ttu-id="01df6-642">2020 年 10 月 13 日</span><span class="sxs-lookup"><span data-stu-id="01df6-642">October 13, 2020</span></span> <br/> |<span data-ttu-id="01df6-643">38</span><span class="sxs-lookup"><span data-stu-id="01df6-643">38</span></span><br/> |
-|<span data-ttu-id="01df6-644">版本 2009 (組建 13231.20368)</span><span class="sxs-lookup"><span data-stu-id="01df6-644">Version 2009 (Build 13231.20368)</span></span> <br/> |<span data-ttu-id="01df6-645">2020 年 10 月 8 日</span><span class="sxs-lookup"><span data-stu-id="01df6-645">October 8, 2020</span></span> <br/> |<span data-ttu-id="01df6-646">173</span><span class="sxs-lookup"><span data-stu-id="01df6-646">173</span></span><br/> |
+|<span data-ttu-id="78003-646">版本 2009 (組建 13231.20390)</span><span class="sxs-lookup"><span data-stu-id="78003-646">Version 2009 (Build 13231.20390)</span></span> <br/> |<span data-ttu-id="78003-647">2020 年 10 月 13 日</span><span class="sxs-lookup"><span data-stu-id="78003-647">October 13, 2020</span></span> <br/> |<span data-ttu-id="78003-648">38</span><span class="sxs-lookup"><span data-stu-id="78003-648">38</span></span><br/> |
+|<span data-ttu-id="78003-649">版本 2009 (組建 13231.20368)</span><span class="sxs-lookup"><span data-stu-id="78003-649">Version 2009 (Build 13231.20368)</span></span> <br/> |<span data-ttu-id="78003-650">2020 年 10 月 8 日</span><span class="sxs-lookup"><span data-stu-id="78003-650">October 8, 2020</span></span> <br/> |<span data-ttu-id="78003-651">173</span><span class="sxs-lookup"><span data-stu-id="78003-651">173</span></span><br/> |
 
 
 [//]: # (DO NOT REMOVE CONTENT ENDOctober 21, 2020)
 
-## <a name="october-13-2020"></a><span data-ttu-id="01df6-648">2020 年 10 月 13 日</span><span class="sxs-lookup"><span data-stu-id="01df6-648">October 13, 2020</span></span>
+## <a name="october-13-2020"></a><span data-ttu-id="78003-653">2020 年 10 月 13 日</span><span class="sxs-lookup"><span data-stu-id="78003-653">October 13, 2020</span></span>
 
 [//]: # (DO NOT REMOVE CONTENT STARTOctober 13, 2020)
 
-### <a name="current-channel"></a><span data-ttu-id="01df6-650">目前通道</span><span class="sxs-lookup"><span data-stu-id="01df6-650">Current Channel</span></span>
+### <a name="current-channel"></a><span data-ttu-id="78003-655">目前通道</span><span class="sxs-lookup"><span data-stu-id="78003-655">Current Channel</span></span>
 
-<span data-ttu-id="01df6-651">最新的版本是版本 2009 (組建 13231.20390)。</span><span class="sxs-lookup"><span data-stu-id="01df6-651">The most current release is Version 2009 (Build 13231.20390).</span></span>
+<span data-ttu-id="78003-656">最新的版本是版本 2009 (組建 13231.20390)。</span><span class="sxs-lookup"><span data-stu-id="78003-656">The most current release is Version 2009 (Build 13231.20390).</span></span>
 
-|<span data-ttu-id="01df6-652">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="01df6-652">**Release upgrading from**</span></span>|<span data-ttu-id="01df6-653">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="01df6-653">**Release date**</span></span>|<span data-ttu-id="01df6-654">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="01df6-654">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="78003-657">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="78003-657">**Release upgrading from**</span></span>|<span data-ttu-id="78003-658">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="78003-658">**Release date**</span></span>|<span data-ttu-id="78003-659">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="78003-659">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="01df6-655">版本 2009 (組建 13231.20368)</span><span class="sxs-lookup"><span data-stu-id="01df6-655">Version 2009 (Build 13231.20368)</span></span> <br/> |<span data-ttu-id="01df6-656">2020 年 10 月 8 日</span><span class="sxs-lookup"><span data-stu-id="01df6-656">October 8, 2020</span></span> <br/> |<span data-ttu-id="01df6-657">42</span><span class="sxs-lookup"><span data-stu-id="01df6-657">42</span></span><br/> |
-|<span data-ttu-id="01df6-658">版本 2009 (組建 13231.20262)</span><span class="sxs-lookup"><span data-stu-id="01df6-658">Version 2009 (Build 13231.20262)</span></span> <br/> |<span data-ttu-id="01df6-659">2020 年 9 月 28 日</span><span class="sxs-lookup"><span data-stu-id="01df6-659">September 28, 2020</span></span> <br/> |<span data-ttu-id="01df6-660">47</span><span class="sxs-lookup"><span data-stu-id="01df6-660">47</span></span><br/> |
+|<span data-ttu-id="78003-660">版本 2009 (組建 13231.20368)</span><span class="sxs-lookup"><span data-stu-id="78003-660">Version 2009 (Build 13231.20368)</span></span> <br/> |<span data-ttu-id="78003-661">2020 年 10 月 8 日</span><span class="sxs-lookup"><span data-stu-id="78003-661">October 8, 2020</span></span> <br/> |<span data-ttu-id="78003-662">42</span><span class="sxs-lookup"><span data-stu-id="78003-662">42</span></span><br/> |
+|<span data-ttu-id="78003-663">版本 2009 (組建 13231.20262)</span><span class="sxs-lookup"><span data-stu-id="78003-663">Version 2009 (Build 13231.20262)</span></span> <br/> |<span data-ttu-id="78003-664">2020 年 9 月 28 日</span><span class="sxs-lookup"><span data-stu-id="78003-664">September 28, 2020</span></span> <br/> |<span data-ttu-id="78003-665">47</span><span class="sxs-lookup"><span data-stu-id="78003-665">47</span></span><br/> |
 
 
-### <a name="monthly-enterprise-channel"></a><span data-ttu-id="01df6-661">每月企業通道</span><span class="sxs-lookup"><span data-stu-id="01df6-661">Monthly Enterprise Channel</span></span>
+### <a name="monthly-enterprise-channel"></a><span data-ttu-id="78003-666">每月企業通道</span><span class="sxs-lookup"><span data-stu-id="78003-666">Monthly Enterprise Channel</span></span>
 
-<span data-ttu-id="01df6-662">最新的版本是版本 2008 (組建 13127.20638)。</span><span class="sxs-lookup"><span data-stu-id="01df6-662">The most current release is Version 2008 (Build 13127.20638).</span></span>
+<span data-ttu-id="78003-667">最新的版本是版本 2008 (組建 13127.20638)。</span><span class="sxs-lookup"><span data-stu-id="78003-667">The most current release is Version 2008 (Build 13127.20638).</span></span>
 
-|<span data-ttu-id="01df6-663">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="01df6-663">**Release upgrading from**</span></span>|<span data-ttu-id="01df6-664">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="01df6-664">**Release date**</span></span>|<span data-ttu-id="01df6-665">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="01df6-665">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="78003-668">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="78003-668">**Release upgrading from**</span></span>|<span data-ttu-id="78003-669">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="78003-669">**Release date**</span></span>|<span data-ttu-id="78003-670">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="78003-670">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="01df6-666">版本 2007 (組建 13029.20534)</span><span class="sxs-lookup"><span data-stu-id="01df6-666">Version 2007 (Build 13029.20534)</span></span> <br/> |<span data-ttu-id="01df6-667">2020 年 9 月 8 日</span><span class="sxs-lookup"><span data-stu-id="01df6-667">September 8, 2020</span></span> <br/> |<span data-ttu-id="01df6-668">252</span><span class="sxs-lookup"><span data-stu-id="01df6-668">252</span></span><br/> |
+|<span data-ttu-id="78003-671">版本 2007 (組建 13029.20534)</span><span class="sxs-lookup"><span data-stu-id="78003-671">Version 2007 (Build 13029.20534)</span></span> <br/> |<span data-ttu-id="78003-672">2020 年 9 月 8 日</span><span class="sxs-lookup"><span data-stu-id="78003-672">September 8, 2020</span></span> <br/> |<span data-ttu-id="78003-673">252</span><span class="sxs-lookup"><span data-stu-id="78003-673">252</span></span><br/> |
 
 
-### <a name="semi-annual-enterprise-channel-preview"></a><span data-ttu-id="01df6-669">半年企業通道 (預覽)</span><span class="sxs-lookup"><span data-stu-id="01df6-669">Semi-Annual Enterprise Channel (Preview)</span></span>
+### <a name="semi-annual-enterprise-channel-preview"></a><span data-ttu-id="78003-674">半年企業通道 (預覽)</span><span class="sxs-lookup"><span data-stu-id="78003-674">Semi-Annual Enterprise Channel (Preview)</span></span>
 
-<span data-ttu-id="01df6-670">最新的版本是版本 2008 (組建 13127.20638)。</span><span class="sxs-lookup"><span data-stu-id="01df6-670">The most current release is Version 2008 (Build 13127.20638).</span></span>
+<span data-ttu-id="78003-675">最新的版本是版本 2008 (組建 13127.20638)。</span><span class="sxs-lookup"><span data-stu-id="78003-675">The most current release is Version 2008 (Build 13127.20638).</span></span>
 
-|<span data-ttu-id="01df6-671">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="01df6-671">**Release upgrading from**</span></span>|<span data-ttu-id="01df6-672">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="01df6-672">**Release date**</span></span>|<span data-ttu-id="01df6-673">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="01df6-673">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="78003-676">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="78003-676">**Release upgrading from**</span></span>|<span data-ttu-id="78003-677">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="78003-677">**Release date**</span></span>|<span data-ttu-id="78003-678">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="78003-678">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="01df6-674">版本 2008 (組建 13127.20408)</span><span class="sxs-lookup"><span data-stu-id="01df6-674">Version 2008 (Build 13127.20408)</span></span> <br/> |<span data-ttu-id="01df6-675">2020 年 9 月 8 日</span><span class="sxs-lookup"><span data-stu-id="01df6-675">September 8, 2020</span></span> <br/> |<span data-ttu-id="01df6-676">49</span><span class="sxs-lookup"><span data-stu-id="01df6-676">49</span></span><br/> |
-|<span data-ttu-id="01df6-677">版本 2002 (組建 12527.20988)</span><span class="sxs-lookup"><span data-stu-id="01df6-677">Version 2002 (Build 12527.20988)</span></span> <br/> |<span data-ttu-id="01df6-678">2020 年 8 月 11 日</span><span class="sxs-lookup"><span data-stu-id="01df6-678">August 11, 2020</span></span> <br/> |<span data-ttu-id="01df6-679">499</span><span class="sxs-lookup"><span data-stu-id="01df6-679">499</span></span><br/> |
+|<span data-ttu-id="78003-679">版本 2008 (組建 13127.20408)</span><span class="sxs-lookup"><span data-stu-id="78003-679">Version 2008 (Build 13127.20408)</span></span> <br/> |<span data-ttu-id="78003-680">2020 年 9 月 8 日</span><span class="sxs-lookup"><span data-stu-id="78003-680">September 8, 2020</span></span> <br/> |<span data-ttu-id="78003-681">49</span><span class="sxs-lookup"><span data-stu-id="78003-681">49</span></span><br/> |
+|<span data-ttu-id="78003-682">版本 2002 (組建 12527.20988)</span><span class="sxs-lookup"><span data-stu-id="78003-682">Version 2002 (Build 12527.20988)</span></span> <br/> |<span data-ttu-id="78003-683">2020 年 8 月 11 日</span><span class="sxs-lookup"><span data-stu-id="78003-683">August 11, 2020</span></span> <br/> |<span data-ttu-id="78003-684">499</span><span class="sxs-lookup"><span data-stu-id="78003-684">499</span></span><br/> |
 
 
-### <a name="semi-annual-enterprise-channel"></a><span data-ttu-id="01df6-680">半年企業通道</span><span class="sxs-lookup"><span data-stu-id="01df6-680">Semi-Annual Enterprise Channel</span></span>
+### <a name="semi-annual-enterprise-channel"></a><span data-ttu-id="78003-685">半年企業通道</span><span class="sxs-lookup"><span data-stu-id="78003-685">Semi-Annual Enterprise Channel</span></span>
 
-<span data-ttu-id="01df6-681">最新的版本是版本 2002 (組建 12527.21236)。</span><span class="sxs-lookup"><span data-stu-id="01df6-681">The most current release is Version 2002 (Build 12527.21236).</span></span>
+<span data-ttu-id="78003-686">最新的版本是版本 2002 (組建 12527.21236)。</span><span class="sxs-lookup"><span data-stu-id="78003-686">The most current release is Version 2002 (Build 12527.21236).</span></span>
 
-|<span data-ttu-id="01df6-682">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="01df6-682">**Release upgrading from**</span></span>|<span data-ttu-id="01df6-683">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="01df6-683">**Release date**</span></span>|<span data-ttu-id="01df6-684">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="01df6-684">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="78003-687">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="78003-687">**Release upgrading from**</span></span>|<span data-ttu-id="78003-688">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="78003-688">**Release date**</span></span>|<span data-ttu-id="78003-689">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="78003-689">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="01df6-685">版本 2002 (組建 12527.21104)</span><span class="sxs-lookup"><span data-stu-id="01df6-685">Version 2002 (Build 12527.21104)</span></span> <br/> |<span data-ttu-id="01df6-686">2020 年 9 月 8 日</span><span class="sxs-lookup"><span data-stu-id="01df6-686">September 8, 2020</span></span> <br/> |<span data-ttu-id="01df6-687">76</span><span class="sxs-lookup"><span data-stu-id="01df6-687">76</span></span><br/> |
-|<span data-ttu-id="01df6-688">版本 2002 (組建 12527.20988)</span><span class="sxs-lookup"><span data-stu-id="01df6-688">Version 2002 (Build 12527.20988)</span></span> <br/> |<span data-ttu-id="01df6-689">2020 年 8 月 11 日</span><span class="sxs-lookup"><span data-stu-id="01df6-689">August 11, 2020</span></span> <br/> |<span data-ttu-id="01df6-690">89</span><span class="sxs-lookup"><span data-stu-id="01df6-690">89</span></span><br/> |
+|<span data-ttu-id="78003-690">版本 2002 (組建 12527.21104)</span><span class="sxs-lookup"><span data-stu-id="78003-690">Version 2002 (Build 12527.21104)</span></span> <br/> |<span data-ttu-id="78003-691">2020 年 9 月 8 日</span><span class="sxs-lookup"><span data-stu-id="78003-691">September 8, 2020</span></span> <br/> |<span data-ttu-id="78003-692">76</span><span class="sxs-lookup"><span data-stu-id="78003-692">76</span></span><br/> |
+|<span data-ttu-id="78003-693">版本 2002 (組建 12527.20988)</span><span class="sxs-lookup"><span data-stu-id="78003-693">Version 2002 (Build 12527.20988)</span></span> <br/> |<span data-ttu-id="78003-694">2020 年 8 月 11 日</span><span class="sxs-lookup"><span data-stu-id="78003-694">August 11, 2020</span></span> <br/> |<span data-ttu-id="78003-695">89</span><span class="sxs-lookup"><span data-stu-id="78003-695">89</span></span><br/> |
 
 
 
 [//]: # (DO NOT REMOVE CONTENT ENDOctober 13, 2020)
 
-## <a name="october-8-2020"></a><span data-ttu-id="01df6-692">2020 年 10 月 8 日</span><span class="sxs-lookup"><span data-stu-id="01df6-692">October 8, 2020</span></span>
+## <a name="october-8-2020"></a><span data-ttu-id="78003-697">2020 年 10 月 8 日</span><span class="sxs-lookup"><span data-stu-id="78003-697">October 8, 2020</span></span>
 
 [//]: # (DO NOT REMOVE CONTENT STARTOctober 8, 2020)
 
-### <a name="current-channel"></a><span data-ttu-id="01df6-694">目前通道</span><span class="sxs-lookup"><span data-stu-id="01df6-694">Current Channel</span></span>
+### <a name="current-channel"></a><span data-ttu-id="78003-699">目前通道</span><span class="sxs-lookup"><span data-stu-id="78003-699">Current Channel</span></span>
 
-<span data-ttu-id="01df6-695">最新的版本是版本 2009 (組建 13231.20368)。</span><span class="sxs-lookup"><span data-stu-id="01df6-695">The most current release is Version 2009 (Build 13231.20368).</span></span>
+<span data-ttu-id="78003-700">最新的版本是版本 2009 (組建 13231.20368)。</span><span class="sxs-lookup"><span data-stu-id="78003-700">The most current release is Version 2009 (Build 13231.20368).</span></span>
 
-|<span data-ttu-id="01df6-696">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="01df6-696">**Release upgrading from**</span></span>|<span data-ttu-id="01df6-697">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="01df6-697">**Release date**</span></span>|<span data-ttu-id="01df6-698">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="01df6-698">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="78003-701">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="78003-701">**Release upgrading from**</span></span>|<span data-ttu-id="78003-702">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="78003-702">**Release date**</span></span>|<span data-ttu-id="78003-703">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="78003-703">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="01df6-699">版本 2009 (組建 13231.20262)</span><span class="sxs-lookup"><span data-stu-id="01df6-699">Version 2009 (Build 13231.20262)</span></span> <br/> |<span data-ttu-id="01df6-700">2020 年 9 月 28 日</span><span class="sxs-lookup"><span data-stu-id="01df6-700">September 28, 2020</span></span> <br/> |<span data-ttu-id="01df6-701">47</span><span class="sxs-lookup"><span data-stu-id="01df6-701">47</span></span><br/> |
-|<span data-ttu-id="01df6-702">版本 2008 (組建 13127.20508)</span><span class="sxs-lookup"><span data-stu-id="01df6-702">Version 2008 (Build 13127.20508)</span></span> <br/> |<span data-ttu-id="01df6-703">2020 年 9 月 22 日</span><span class="sxs-lookup"><span data-stu-id="01df6-703">September 22, 2020</span></span> <br/> |<span data-ttu-id="01df6-704">361</span><span class="sxs-lookup"><span data-stu-id="01df6-704">361</span></span><br/> |
+|<span data-ttu-id="78003-704">版本 2009 (組建 13231.20262)</span><span class="sxs-lookup"><span data-stu-id="78003-704">Version 2009 (Build 13231.20262)</span></span> <br/> |<span data-ttu-id="78003-705">2020 年 9 月 28 日</span><span class="sxs-lookup"><span data-stu-id="78003-705">September 28, 2020</span></span> <br/> |<span data-ttu-id="78003-706">47</span><span class="sxs-lookup"><span data-stu-id="78003-706">47</span></span><br/> |
+|<span data-ttu-id="78003-707">版本 2008 (組建 13127.20508)</span><span class="sxs-lookup"><span data-stu-id="78003-707">Version 2008 (Build 13127.20508)</span></span> <br/> |<span data-ttu-id="78003-708">2020 年 9 月 22 日</span><span class="sxs-lookup"><span data-stu-id="78003-708">September 22, 2020</span></span> <br/> |<span data-ttu-id="78003-709">361</span><span class="sxs-lookup"><span data-stu-id="78003-709">361</span></span><br/> |
 
 
 [//]: # (DO NOT REMOVE CONTENT ENDOctober 8, 2020)
@@ -698,94 +703,94 @@ ms.locfileid: "52278070"
 
 
 
-## <a name="september-28-2020"></a><span data-ttu-id="01df6-706">2020 年 9 月 28 日</span><span class="sxs-lookup"><span data-stu-id="01df6-706">September 28, 2020</span></span>
+## <a name="september-28-2020"></a><span data-ttu-id="78003-711">2020 年 9 月 28 日</span><span class="sxs-lookup"><span data-stu-id="78003-711">September 28, 2020</span></span>
 
 [//]: # (DO NOT REMOVE CONTENT STARTSeptember 28, 2020)
 
-### <a name="current-channel"></a><span data-ttu-id="01df6-708">目前通道</span><span class="sxs-lookup"><span data-stu-id="01df6-708">Current Channel</span></span>
+### <a name="current-channel"></a><span data-ttu-id="78003-713">目前通道</span><span class="sxs-lookup"><span data-stu-id="78003-713">Current Channel</span></span>
 
-<span data-ttu-id="01df6-709">最新的版本是版本 2009 (組建 13231.20262)。</span><span class="sxs-lookup"><span data-stu-id="01df6-709">The most current release is Version 2009 (Build 13231.20262).</span></span>
+<span data-ttu-id="78003-714">最新的版本是版本 2009 (組建 13231.20262)。</span><span class="sxs-lookup"><span data-stu-id="78003-714">The most current release is Version 2009 (Build 13231.20262).</span></span>
 
-|<span data-ttu-id="01df6-710">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="01df6-710">**Release upgrading from**</span></span>|<span data-ttu-id="01df6-711">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="01df6-711">**Release date**</span></span>|<span data-ttu-id="01df6-712">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="01df6-712">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="78003-715">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="78003-715">**Release upgrading from**</span></span>|<span data-ttu-id="78003-716">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="78003-716">**Release date**</span></span>|<span data-ttu-id="78003-717">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="78003-717">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="01df6-713">版本 2008 (組建 13127.20508)</span><span class="sxs-lookup"><span data-stu-id="01df6-713">Version 2008 (Build 13127.20508)</span></span> <br/> |<span data-ttu-id="01df6-714">2020 年 9 月 22 日</span><span class="sxs-lookup"><span data-stu-id="01df6-714">September 22, 2020</span></span> <br/> |<span data-ttu-id="01df6-715">124</span><span class="sxs-lookup"><span data-stu-id="01df6-715">124</span></span><br/> |
-|<span data-ttu-id="01df6-716">版本 2008 (組建 13127.20408)</span><span class="sxs-lookup"><span data-stu-id="01df6-716">Version 2008 (Build 13127.20408)</span></span> <br/> |<span data-ttu-id="01df6-717">2020 年 9 月 8 日</span><span class="sxs-lookup"><span data-stu-id="01df6-717">September 8, 2020</span></span> <br/> |<span data-ttu-id="01df6-718">124</span><span class="sxs-lookup"><span data-stu-id="01df6-718">124</span></span><br/> |
+|<span data-ttu-id="78003-718">版本 2008 (組建 13127.20508)</span><span class="sxs-lookup"><span data-stu-id="78003-718">Version 2008 (Build 13127.20508)</span></span> <br/> |<span data-ttu-id="78003-719">2020 年 9 月 22 日</span><span class="sxs-lookup"><span data-stu-id="78003-719">September 22, 2020</span></span> <br/> |<span data-ttu-id="78003-720">124</span><span class="sxs-lookup"><span data-stu-id="78003-720">124</span></span><br/> |
+|<span data-ttu-id="78003-721">版本 2008 (組建 13127.20408)</span><span class="sxs-lookup"><span data-stu-id="78003-721">Version 2008 (Build 13127.20408)</span></span> <br/> |<span data-ttu-id="78003-722">2020 年 9 月 8 日</span><span class="sxs-lookup"><span data-stu-id="78003-722">September 8, 2020</span></span> <br/> |<span data-ttu-id="78003-723">124</span><span class="sxs-lookup"><span data-stu-id="78003-723">124</span></span><br/> |
 
 
 [//]: # (DO NOT REMOVE CONTENT ENDSeptember 28, 2020)
 
-## <a name="september-22-2020"></a><span data-ttu-id="01df6-720">2020 年 9 月 22 日</span><span class="sxs-lookup"><span data-stu-id="01df6-720">September 22, 2020</span></span>
+## <a name="september-22-2020"></a><span data-ttu-id="78003-725">2020 年 9 月 22 日</span><span class="sxs-lookup"><span data-stu-id="78003-725">September 22, 2020</span></span>
 
 [//]: # (DO NOT REMOVE CONTENT STARTSeptember 22, 2020)
 
-### <a name="current-channel"></a><span data-ttu-id="01df6-722">目前通道</span><span class="sxs-lookup"><span data-stu-id="01df6-722">Current Channel</span></span>
+### <a name="current-channel"></a><span data-ttu-id="78003-727">目前通道</span><span class="sxs-lookup"><span data-stu-id="78003-727">Current Channel</span></span>
 
-<span data-ttu-id="01df6-723">最新的版本是版本 2008 (組建 13127.20508)。</span><span class="sxs-lookup"><span data-stu-id="01df6-723">The most current release is Version 2008 (Build 13127.20508).</span></span>
+<span data-ttu-id="78003-728">最新的版本是版本 2008 (組建 13127.20508)。</span><span class="sxs-lookup"><span data-stu-id="78003-728">The most current release is Version 2008 (Build 13127.20508).</span></span>
 
-|<span data-ttu-id="01df6-724">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="01df6-724">**Release upgrading from**</span></span>|<span data-ttu-id="01df6-725">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="01df6-725">**Release date**</span></span>|<span data-ttu-id="01df6-726">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="01df6-726">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="78003-729">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="78003-729">**Release upgrading from**</span></span>|<span data-ttu-id="78003-730">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="78003-730">**Release date**</span></span>|<span data-ttu-id="78003-731">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="78003-731">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="01df6-727">版本 2008 (組建 13127.20408)</span><span class="sxs-lookup"><span data-stu-id="01df6-727">Version 2008 (Build 13127.20408)</span></span> <br/> |<span data-ttu-id="01df6-728">2020 年 9 月 8 日</span><span class="sxs-lookup"><span data-stu-id="01df6-728">September 8, 2020</span></span> <br/> |<span data-ttu-id="01df6-729">46</span><span class="sxs-lookup"><span data-stu-id="01df6-729">46</span></span><br/> |
-|<span data-ttu-id="01df6-730">版本 2008 (組建 13127.20296)</span><span class="sxs-lookup"><span data-stu-id="01df6-730">Version 2008 (Build 13127.20296)</span></span> <br/> |<span data-ttu-id="01df6-731">2020 年 8 月 31 日</span><span class="sxs-lookup"><span data-stu-id="01df6-731">August 31, 2020</span></span> <br/> |<span data-ttu-id="01df6-732">272</span><span class="sxs-lookup"><span data-stu-id="01df6-732">272</span></span><br/> |
+|<span data-ttu-id="78003-732">版本 2008 (組建 13127.20408)</span><span class="sxs-lookup"><span data-stu-id="78003-732">Version 2008 (Build 13127.20408)</span></span> <br/> |<span data-ttu-id="78003-733">2020 年 9 月 8 日</span><span class="sxs-lookup"><span data-stu-id="78003-733">September 8, 2020</span></span> <br/> |<span data-ttu-id="78003-734">46</span><span class="sxs-lookup"><span data-stu-id="78003-734">46</span></span><br/> |
+|<span data-ttu-id="78003-735">版本 2008 (組建 13127.20296)</span><span class="sxs-lookup"><span data-stu-id="78003-735">Version 2008 (Build 13127.20296)</span></span> <br/> |<span data-ttu-id="78003-736">2020 年 8 月 31 日</span><span class="sxs-lookup"><span data-stu-id="78003-736">August 31, 2020</span></span> <br/> |<span data-ttu-id="78003-737">272</span><span class="sxs-lookup"><span data-stu-id="78003-737">272</span></span><br/> |
 
 
 [//]: # (DO NOT REMOVE CONTENT ENDSeptember 22, 2020)
 
-## <a name="september-9-2020"></a><span data-ttu-id="01df6-734">2020 年 9 月 9 日</span><span class="sxs-lookup"><span data-stu-id="01df6-734">September 9, 2020</span></span>
+## <a name="september-9-2020"></a><span data-ttu-id="78003-739">2020 年 9 月 9 日</span><span class="sxs-lookup"><span data-stu-id="78003-739">September 9, 2020</span></span>
 
 [//]: # (DO NOT REMOVE CONTENT STARTSeptember 9, 2020)
 
-### <a name="current-channel"></a><span data-ttu-id="01df6-736">目前通道</span><span class="sxs-lookup"><span data-stu-id="01df6-736">Current Channel</span></span>
+### <a name="current-channel"></a><span data-ttu-id="78003-741">目前通道</span><span class="sxs-lookup"><span data-stu-id="78003-741">Current Channel</span></span>
 
-<span data-ttu-id="01df6-737">最新的版本是版本 2008 (組建 13127.20408)。</span><span class="sxs-lookup"><span data-stu-id="01df6-737">The most current release is Version 2008 (Build 13127.20408).</span></span>
+<span data-ttu-id="78003-742">最新的版本是版本 2008 (組建 13127.20408)。</span><span class="sxs-lookup"><span data-stu-id="78003-742">The most current release is Version 2008 (Build 13127.20408).</span></span>
 
-|<span data-ttu-id="01df6-738">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="01df6-738">**Release upgrading from**</span></span>|<span data-ttu-id="01df6-739">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="01df6-739">**Release date**</span></span>|<span data-ttu-id="01df6-740">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="01df6-740">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="78003-743">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="78003-743">**Release upgrading from**</span></span>|<span data-ttu-id="78003-744">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="78003-744">**Release date**</span></span>|<span data-ttu-id="78003-745">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="78003-745">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="01df6-741">版本 2008 (組建 13127.20296)</span><span class="sxs-lookup"><span data-stu-id="01df6-741">Version 2008 (Build 13127.20296)</span></span> <br/> |<span data-ttu-id="01df6-742">2020 年 8 月 31 日</span><span class="sxs-lookup"><span data-stu-id="01df6-742">August 31, 2020</span></span> <br/> |<span data-ttu-id="01df6-743">51</span><span class="sxs-lookup"><span data-stu-id="01df6-743">51</span></span><br/> |
-|<span data-ttu-id="01df6-744">版本 2007 (組建 13029.20460)</span><span class="sxs-lookup"><span data-stu-id="01df6-744">Version 2007 (Build 13029.20460)</span></span> <br/> |<span data-ttu-id="01df6-745">2020 年 8 月 25 日</span><span class="sxs-lookup"><span data-stu-id="01df6-745">August 25, 2020</span></span> <br/> |<span data-ttu-id="01df6-746">510</span><span class="sxs-lookup"><span data-stu-id="01df6-746">510</span></span><br/> |
+|<span data-ttu-id="78003-746">版本 2008 (組建 13127.20296)</span><span class="sxs-lookup"><span data-stu-id="78003-746">Version 2008 (Build 13127.20296)</span></span> <br/> |<span data-ttu-id="78003-747">2020 年 8 月 31 日</span><span class="sxs-lookup"><span data-stu-id="78003-747">August 31, 2020</span></span> <br/> |<span data-ttu-id="78003-748">51</span><span class="sxs-lookup"><span data-stu-id="78003-748">51</span></span><br/> |
+|<span data-ttu-id="78003-749">版本 2007 (組建 13029.20460)</span><span class="sxs-lookup"><span data-stu-id="78003-749">Version 2007 (Build 13029.20460)</span></span> <br/> |<span data-ttu-id="78003-750">2020 年 8 月 25 日</span><span class="sxs-lookup"><span data-stu-id="78003-750">August 25, 2020</span></span> <br/> |<span data-ttu-id="78003-751">510</span><span class="sxs-lookup"><span data-stu-id="78003-751">510</span></span><br/> |
 
 
 [//]: # (DO NOT REMOVE CONTENT ENDSeptember 9, 2020)
 
-## <a name="september-8-2020"></a><span data-ttu-id="01df6-748">2020 年 9 月 8 日</span><span class="sxs-lookup"><span data-stu-id="01df6-748">September 8, 2020</span></span>
+## <a name="september-8-2020"></a><span data-ttu-id="78003-753">2020 年 9 月 8 日</span><span class="sxs-lookup"><span data-stu-id="78003-753">September 8, 2020</span></span>
 
 [//]: # (DO NOT REMOVE CONTENT STARTSeptember 8, 2020)
 
-### <a name="monthly-enterprise-channel"></a><span data-ttu-id="01df6-750">每月企業通道</span><span class="sxs-lookup"><span data-stu-id="01df6-750">Monthly Enterprise Channel</span></span>
+### <a name="monthly-enterprise-channel"></a><span data-ttu-id="78003-755">每月企業通道</span><span class="sxs-lookup"><span data-stu-id="78003-755">Monthly Enterprise Channel</span></span>
 
-<span data-ttu-id="01df6-751">最新的版本是版本 2007 (組建 13029.20534)。</span><span class="sxs-lookup"><span data-stu-id="01df6-751">The most current release is Version 2007 (Build 13029.20534).</span></span>
+<span data-ttu-id="78003-756">最新的版本是版本 2007 (組建 13029.20534)。</span><span class="sxs-lookup"><span data-stu-id="78003-756">The most current release is Version 2007 (Build 13029.20534).</span></span>
 
-|<span data-ttu-id="01df6-752">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="01df6-752">**Release upgrading from**</span></span>|<span data-ttu-id="01df6-753">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="01df6-753">**Release date**</span></span>|<span data-ttu-id="01df6-754">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="01df6-754">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="78003-757">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="78003-757">**Release upgrading from**</span></span>|<span data-ttu-id="78003-758">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="78003-758">**Release date**</span></span>|<span data-ttu-id="78003-759">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="78003-759">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="01df6-755">版本 2006 (組建 13001.20520)</span><span class="sxs-lookup"><span data-stu-id="01df6-755">Version 2006 (Build 13001.20520)</span></span> <br/> |<span data-ttu-id="01df6-756">2020 年 8 月 11 日</span><span class="sxs-lookup"><span data-stu-id="01df6-756">August 11, 2020</span></span> <br/> |<span data-ttu-id="01df6-757">157</span><span class="sxs-lookup"><span data-stu-id="01df6-757">157</span></span><br/> |
+|<span data-ttu-id="78003-760">版本 2006 (組建 13001.20520)</span><span class="sxs-lookup"><span data-stu-id="78003-760">Version 2006 (Build 13001.20520)</span></span> <br/> |<span data-ttu-id="78003-761">2020 年 8 月 11 日</span><span class="sxs-lookup"><span data-stu-id="78003-761">August 11, 2020</span></span> <br/> |<span data-ttu-id="78003-762">157</span><span class="sxs-lookup"><span data-stu-id="78003-762">157</span></span><br/> |
 
 
-### <a name="semi-annual-enterprise-channel-preview"></a><span data-ttu-id="01df6-758">半年企業通道 (預覽)</span><span class="sxs-lookup"><span data-stu-id="01df6-758">Semi-Annual Enterprise Channel (Preview)</span></span>
+### <a name="semi-annual-enterprise-channel-preview"></a><span data-ttu-id="78003-763">半年企業通道 (預覽)</span><span class="sxs-lookup"><span data-stu-id="78003-763">Semi-Annual Enterprise Channel (Preview)</span></span>
 
-<span data-ttu-id="01df6-759">最新的版本是版本 2008 (組建 13127.20408)。</span><span class="sxs-lookup"><span data-stu-id="01df6-759">The most current release is Version 2008 (Build 13127.20408).</span></span>
+<span data-ttu-id="78003-764">最新的版本是版本 2008 (組建 13127.20408)。</span><span class="sxs-lookup"><span data-stu-id="78003-764">The most current release is Version 2008 (Build 13127.20408).</span></span>
 
-|<span data-ttu-id="01df6-760">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="01df6-760">**Release upgrading from**</span></span>|<span data-ttu-id="01df6-761">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="01df6-761">**Release date**</span></span>|<span data-ttu-id="01df6-762">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="01df6-762">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="78003-765">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="78003-765">**Release upgrading from**</span></span>|<span data-ttu-id="78003-766">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="78003-766">**Release date**</span></span>|<span data-ttu-id="78003-767">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="78003-767">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="01df6-763">版本 2002 (組建 12527.20988)</span><span class="sxs-lookup"><span data-stu-id="01df6-763">Version 2002 (Build 12527.20988)</span></span> <br/> |<span data-ttu-id="01df6-764">2020 年 8 月 11 日</span><span class="sxs-lookup"><span data-stu-id="01df6-764">August 11, 2020</span></span> <br/> |<span data-ttu-id="01df6-765">374</span><span class="sxs-lookup"><span data-stu-id="01df6-765">374</span></span><br/> |
-|<span data-ttu-id="01df6-766">版本 2002 (組建 12527.20880)</span><span class="sxs-lookup"><span data-stu-id="01df6-766">Version 2002 (Build 12527.20880)</span></span> <br/> |<span data-ttu-id="01df6-767">2020 年 7 月 14 日</span><span class="sxs-lookup"><span data-stu-id="01df6-767">July 14, 2020</span></span> <br/> |<span data-ttu-id="01df6-768">600</span><span class="sxs-lookup"><span data-stu-id="01df6-768">600</span></span><br/> |
+|<span data-ttu-id="78003-768">版本 2002 (組建 12527.20988)</span><span class="sxs-lookup"><span data-stu-id="78003-768">Version 2002 (Build 12527.20988)</span></span> <br/> |<span data-ttu-id="78003-769">2020 年 8 月 11 日</span><span class="sxs-lookup"><span data-stu-id="78003-769">August 11, 2020</span></span> <br/> |<span data-ttu-id="78003-770">374</span><span class="sxs-lookup"><span data-stu-id="78003-770">374</span></span><br/> |
+|<span data-ttu-id="78003-771">版本 2002 (組建 12527.20880)</span><span class="sxs-lookup"><span data-stu-id="78003-771">Version 2002 (Build 12527.20880)</span></span> <br/> |<span data-ttu-id="78003-772">2020 年 7 月 14 日</span><span class="sxs-lookup"><span data-stu-id="78003-772">July 14, 2020</span></span> <br/> |<span data-ttu-id="78003-773">600</span><span class="sxs-lookup"><span data-stu-id="78003-773">600</span></span><br/> |
 
 
-### <a name="semi-annual-enterprise-channel"></a><span data-ttu-id="01df6-769">半年企業通道</span><span class="sxs-lookup"><span data-stu-id="01df6-769">Semi-Annual Enterprise Channel</span></span>
+### <a name="semi-annual-enterprise-channel"></a><span data-ttu-id="78003-774">半年企業通道</span><span class="sxs-lookup"><span data-stu-id="78003-774">Semi-Annual Enterprise Channel</span></span>
 
-<span data-ttu-id="01df6-770">最新的版本是版本 2002 (組建 12527.21104)。</span><span class="sxs-lookup"><span data-stu-id="01df6-770">The most current release is Version 2002 (Build 12527.21104).</span></span>
+<span data-ttu-id="78003-775">最新的版本是版本 2002 (組建 12527.21104)。</span><span class="sxs-lookup"><span data-stu-id="78003-775">The most current release is Version 2002 (Build 12527.21104).</span></span>
 
-|<span data-ttu-id="01df6-771">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="01df6-771">**Release upgrading from**</span></span>|<span data-ttu-id="01df6-772">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="01df6-772">**Release date**</span></span>|<span data-ttu-id="01df6-773">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="01df6-773">**Approximate download size (in MB)**</span></span>|
+|<span data-ttu-id="78003-776">**升級前的版本**</span><span class="sxs-lookup"><span data-stu-id="78003-776">**Release upgrading from**</span></span>|<span data-ttu-id="78003-777">**發行日期**</span><span class="sxs-lookup"><span data-stu-id="78003-777">**Release date**</span></span>|<span data-ttu-id="78003-778">**大約下載大小 (以 MB 為單位)**</span><span class="sxs-lookup"><span data-stu-id="78003-778">**Approximate download size (in MB)**</span></span>|
 |:-----|:-----|:-----|
-|<span data-ttu-id="01df6-774">版本 2002 (組建 12527.20988)</span><span class="sxs-lookup"><span data-stu-id="01df6-774">Version 2002 (Build 12527.20988)</span></span> <br/> |<span data-ttu-id="01df6-775">2020 年 8 月 11 日</span><span class="sxs-lookup"><span data-stu-id="01df6-775">August 11, 2020</span></span> <br/> |<span data-ttu-id="01df6-776">59</span><span class="sxs-lookup"><span data-stu-id="01df6-776">59</span></span><br/> |
-|<span data-ttu-id="01df6-777">版本 2002 (組建 12527.20880)</span><span class="sxs-lookup"><span data-stu-id="01df6-777">Version 2002 (Build 12527.20880)</span></span> <br/> |<span data-ttu-id="01df6-778">2020 年 7 月 14 日</span><span class="sxs-lookup"><span data-stu-id="01df6-778">July 14, 2020</span></span> <br/> |<span data-ttu-id="01df6-779">74</span><span class="sxs-lookup"><span data-stu-id="01df6-779">74</span></span><br/> |
+|<span data-ttu-id="78003-779">版本 2002 (組建 12527.20988)</span><span class="sxs-lookup"><span data-stu-id="78003-779">Version 2002 (Build 12527.20988)</span></span> <br/> |<span data-ttu-id="78003-780">2020 年 8 月 11 日</span><span class="sxs-lookup"><span data-stu-id="78003-780">August 11, 2020</span></span> <br/> |<span data-ttu-id="78003-781">59</span><span class="sxs-lookup"><span data-stu-id="78003-781">59</span></span><br/> |
+|<span data-ttu-id="78003-782">版本 2002 (組建 12527.20880)</span><span class="sxs-lookup"><span data-stu-id="78003-782">Version 2002 (Build 12527.20880)</span></span> <br/> |<span data-ttu-id="78003-783">2020 年 7 月 14 日</span><span class="sxs-lookup"><span data-stu-id="78003-783">July 14, 2020</span></span> <br/> |<span data-ttu-id="78003-784">74</span><span class="sxs-lookup"><span data-stu-id="78003-784">74</span></span><br/> |
 
 
 [//]: # (DO NOT REMOVE CONTENT ENDSeptember 8, 2020)
 
-## <a name="related-topics"></a><span data-ttu-id="01df6-781">相關主題</span><span class="sxs-lookup"><span data-stu-id="01df6-781">Related topics</span></span>
+## <a name="related-topics"></a><span data-ttu-id="78003-786">相關主題</span><span class="sxs-lookup"><span data-stu-id="78003-786">Related topics</span></span>
 
-- [<span data-ttu-id="01df6-782">Microsoft 365 Apps 更新通道的概觀</span><span class="sxs-lookup"><span data-stu-id="01df6-782">Overview of update channels for Microsoft 365 Apps</span></span>](/DeployOffice/overview-of-update-channels-for-office-365-proplus)
+- [<span data-ttu-id="78003-787">Microsoft 365 Apps 更新通道的概觀</span><span class="sxs-lookup"><span data-stu-id="78003-787">Overview of update channels for Microsoft 365 Apps</span></span>](/DeployOffice/overview-of-update-channels-for-office-365-proplus)
 
-- [<span data-ttu-id="01df6-783">Microsoft 365 Apps 的更新歷程記錄 (依日期列出)</span><span class="sxs-lookup"><span data-stu-id="01df6-783">Update history for Microsoft 365 Apps (listed by date)</span></span>](./update-history-microsoft365-apps-by-date.md)
+- [<span data-ttu-id="78003-788">Microsoft 365 Apps 的更新歷程記錄 (依日期列出)</span><span class="sxs-lookup"><span data-stu-id="78003-788">Update history for Microsoft 365 Apps (listed by date)</span></span>](./update-history-microsoft365-apps-by-date.md)
 
 > [!NOTE]
-> <span data-ttu-id="01df6-784">如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft Answers 論壇](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)，或連絡[支援](https://support.microsoft.com/contactus)。</span><span class="sxs-lookup"><span data-stu-id="01df6-784">If you need help with an issue with using Office, we recommend that you post your question on [Microsoft's Answers forum](https://answers.microsoft.com/) or [Tech Community](https://techcommunity.microsoft.com/), or you can contact [support](https://support.microsoft.com/contactus).</span></span>
+> <span data-ttu-id="78003-789">如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft Answers 論壇](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)，或連絡[支援](https://support.microsoft.com/contactus)。</span><span class="sxs-lookup"><span data-stu-id="78003-789">If you need help with an issue with using Office, we recommend that you post your question on [Microsoft's Answers forum](https://answers.microsoft.com/) or [Tech Community](https://techcommunity.microsoft.com/), or you can contact [support](https://support.microsoft.com/contactus).</span></span>
